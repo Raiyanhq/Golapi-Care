@@ -1,0 +1,2892 @@
+{
+    "user": {
+        "reference_id": "patient-1",
+        "provider": "APPLE",
+        "user_id": "8e689b57-eb30-43da-9f49-d81093c4e229",
+        "last_webhook_update": "2023-10-22T00:00:00+00:00"
+    },
+    "temperature_data": {
+        "body_temperature_samples": [
+            {
+                "temperature_celsius": 37.81984236331616,
+                "timestamp": "2023-10-18T11:21:00"
+            },
+            {
+                "temperature_celsius": 37.02076565734559,
+                "timestamp": "2023-10-17T04:52:00"
+            },
+            {
+                "temperature_celsius": 38.02093808367639,
+                "timestamp": "2023-10-23T03:15:00"
+            },
+            {
+                "temperature_celsius": 37.45029165678991,
+                "timestamp": "2023-10-20T04:48:00"
+            },
+            {
+                "temperature_celsius": 38.24801572120308,
+                "timestamp": "2023-10-20T07:04:00"
+            },
+            {
+                "temperature_celsius": 36.58742495180181,
+                "timestamp": "2023-10-16T11:45:00"
+            },
+            {
+                "temperature_celsius": 37.56773264104444,
+                "timestamp": "2023-10-16T18:41:00"
+            },
+            {
+                "temperature_celsius": 36.809540406935454,
+                "timestamp": "2023-10-02T15:22:00"
+            },
+            {
+                "temperature_celsius": 36.51297668397666,
+                "timestamp": "2023-10-05T11:35:00"
+            },
+            {
+                "temperature_celsius": 38.05039648819543,
+                "timestamp": "2023-10-27T23:43:00"
+            },
+            {
+                "temperature_celsius": 35.55606618276094,
+                "timestamp": "2023-10-11T15:15:00"
+            },
+            {
+                "temperature_celsius": 37.40120511174674,
+                "timestamp": "2023-10-05T22:17:00"
+            },
+            {
+                "temperature_celsius": 37.92383020273098,
+                "timestamp": "2023-10-15T15:44:00"
+            },
+            {
+                "temperature_celsius": 36.950203528637935,
+                "timestamp": "2023-10-15T04:47:00"
+            },
+            {
+                "temperature_celsius": 37.88085384883253,
+                "timestamp": "2023-10-14T14:14:00"
+            },
+            {
+                "temperature_celsius": 36.479923653322324,
+                "timestamp": "2023-10-10T05:20:00"
+            },
+            {
+                "temperature_celsius": 35.9655563582422,
+                "timestamp": "2023-10-14T14:22:00"
+            },
+            {
+                "temperature_celsius": 37.139153205056715,
+                "timestamp": "2023-10-27T23:31:00"
+            },
+            {
+                "temperature_celsius": 36.28261621542019,
+                "timestamp": "2023-10-07T23:53:00"
+            },
+            {
+                "temperature_celsius": 38.41476746169214,
+                "timestamp": "2023-10-08T11:44:00"
+            },
+            {
+                "temperature_celsius": 35.59185377779084,
+                "timestamp": "2023-10-23T19:47:00"
+            },
+            {
+                "temperature_celsius": 37.17785841038341,
+                "timestamp": "2023-10-11T03:25:00"
+            },
+            {
+                "temperature_celsius": 37.01880819164358,
+                "timestamp": "2023-10-07T06:01:00"
+            },
+            {
+                "temperature_celsius": 36.35516237942346,
+                "timestamp": "2023-10-25T08:06:00"
+            },
+            {
+                "temperature_celsius": 35.976719660475354,
+                "timestamp": "2023-10-16T06:13:00"
+            },
+            {
+                "temperature_celsius": 35.716110171937075,
+                "timestamp": "2023-10-19T02:20:00"
+            },
+            {
+                "temperature_celsius": 37.94812957737962,
+                "timestamp": "2023-10-23T14:50:00"
+            },
+            {
+                "temperature_celsius": 36.367031095073045,
+                "timestamp": "2023-10-05T06:24:00"
+            },
+            {
+                "temperature_celsius": 36.507859168455944,
+                "timestamp": "2023-10-07T22:06:00"
+            },
+            {
+                "temperature_celsius": 36.364583473931496,
+                "timestamp": "2023-10-22T17:07:00"
+            },
+            {
+                "temperature_celsius": 36.64210103085584,
+                "timestamp": "2023-10-18T08:40:00"
+            },
+            {
+                "temperature_celsius": 36.14374707890509,
+                "timestamp": "2023-10-18T21:47:00"
+            },
+            {
+                "temperature_celsius": 38.137433732962215,
+                "timestamp": "2023-10-15T02:18:00"
+            },
+            {
+                "temperature_celsius": 37.71282600850017,
+                "timestamp": "2023-10-01T09:04:00"
+            },
+            {
+                "temperature_celsius": 37.49872473092184,
+                "timestamp": "2023-10-13T06:41:00"
+            },
+            {
+                "temperature_celsius": 37.8035180009582,
+                "timestamp": "2023-10-04T01:36:00"
+            },
+            {
+                "temperature_celsius": 37.747936053429136,
+                "timestamp": "2023-10-21T00:25:00"
+            },
+            {
+                "temperature_celsius": 35.90881115865436,
+                "timestamp": "2023-10-06T12:54:00"
+            },
+            {
+                "temperature_celsius": 37.447968538353486,
+                "timestamp": "2023-10-14T01:25:00"
+            },
+            {
+                "temperature_celsius": 36.20017308997295,
+                "timestamp": "2023-10-28T13:10:00"
+            },
+            {
+                "temperature_celsius": 35.50512622643454,
+                "timestamp": "2023-10-11T05:03:00"
+            },
+            {
+                "temperature_celsius": 37.14125282918458,
+                "timestamp": "2023-10-20T20:24:00"
+            },
+            {
+                "temperature_celsius": 38.386989230291185,
+                "timestamp": "2023-10-12T13:09:00"
+            },
+            {
+                "temperature_celsius": 36.88451265482468,
+                "timestamp": "2023-10-05T20:08:00"
+            },
+            {
+                "temperature_celsius": 36.46671631694633,
+                "timestamp": "2023-10-27T05:14:00"
+            },
+            {
+                "temperature_celsius": 38.49305325772321,
+                "timestamp": "2023-10-08T10:23:00"
+            },
+            {
+                "temperature_celsius": 38.28195845575958,
+                "timestamp": "2023-10-30T07:34:00"
+            },
+            {
+                "temperature_celsius": 36.46974278994533,
+                "timestamp": "2023-10-22T05:41:00"
+            },
+            {
+                "temperature_celsius": 37.137497372257386,
+                "timestamp": "2023-10-06T06:15:00"
+            },
+            {
+                "temperature_celsius": 35.71270698961315,
+                "timestamp": "2023-10-19T01:15:00"
+            },
+            {
+                "temperature_celsius": 38.418468486265645,
+                "timestamp": "2023-10-07T06:46:00"
+            },
+            {
+                "temperature_celsius": 38.43343025302659,
+                "timestamp": "2023-10-16T16:39:00"
+            },
+            {
+                "temperature_celsius": 36.29476882071982,
+                "timestamp": "2023-10-03T01:32:00"
+            },
+            {
+                "temperature_celsius": 37.17863506848797,
+                "timestamp": "2023-10-27T05:54:00"
+            },
+            {
+                "temperature_celsius": 36.712751460561265,
+                "timestamp": "2023-10-01T02:26:00"
+            },
+            {
+                "temperature_celsius": 35.642540405674296,
+                "timestamp": "2023-10-03T18:05:00"
+            },
+            {
+                "temperature_celsius": 37.8370716859417,
+                "timestamp": "2023-10-25T15:41:00"
+            },
+            {
+                "temperature_celsius": 35.516546977522225,
+                "timestamp": "2023-10-11T01:01:00"
+            },
+            {
+                "temperature_celsius": 36.7356174040607,
+                "timestamp": "2023-10-09T19:41:00"
+            },
+            {
+                "temperature_celsius": 38.147316493236644,
+                "timestamp": "2023-10-05T01:41:00"
+            },
+            {
+                "temperature_celsius": 35.705846559404925,
+                "timestamp": "2023-10-01T04:04:00"
+            },
+            {
+                "temperature_celsius": 36.1577379786006,
+                "timestamp": "2023-10-14T15:15:00"
+            },
+            {
+                "temperature_celsius": 35.91969317271475,
+                "timestamp": "2023-10-28T15:15:00"
+            },
+            {
+                "temperature_celsius": 37.67953646419098,
+                "timestamp": "2023-10-17T15:32:00"
+            },
+            {
+                "temperature_celsius": 36.769077465838095,
+                "timestamp": "2023-10-07T05:36:00"
+            },
+            {
+                "temperature_celsius": 35.915979726560785,
+                "timestamp": "2023-10-16T23:31:00"
+            },
+            {
+                "temperature_celsius": 36.80492635709899,
+                "timestamp": "2023-10-28T14:54:00"
+            },
+            {
+                "temperature_celsius": 38.31498871898685,
+                "timestamp": "2023-10-14T04:11:00"
+            },
+            {
+                "temperature_celsius": 37.15124121804138,
+                "timestamp": "2023-10-16T13:13:00"
+            },
+            {
+                "temperature_celsius": 36.66879997476054,
+                "timestamp": "2023-10-10T04:25:00"
+            },
+            {
+                "temperature_celsius": 37.48391178011314,
+                "timestamp": "2023-10-23T06:32:00"
+            },
+            {
+                "temperature_celsius": 37.34984722156844,
+                "timestamp": "2023-10-03T17:54:00"
+            },
+            {
+                "temperature_celsius": 37.321626731532774,
+                "timestamp": "2023-10-19T06:03:00"
+            },
+            {
+                "temperature_celsius": 37.5949503998657,
+                "timestamp": "2023-10-29T03:30:00"
+            },
+            {
+                "temperature_celsius": 37.11615333111029,
+                "timestamp": "2023-10-19T19:42:00"
+            },
+            {
+                "temperature_celsius": 37.687233298912574,
+                "timestamp": "2023-10-19T22:40:00"
+            },
+            {
+                "temperature_celsius": 35.72404703896135,
+                "timestamp": "2023-10-28T02:07:00"
+            },
+            {
+                "temperature_celsius": 36.36061248989114,
+                "timestamp": "2023-10-27T03:40:00"
+            },
+            {
+                "temperature_celsius": 36.95920109296303,
+                "timestamp": "2023-10-16T02:13:00"
+            },
+            {
+                "temperature_celsius": 37.24103241099592,
+                "timestamp": "2023-10-14T01:13:00"
+            },
+            {
+                "temperature_celsius": 36.59781070324371,
+                "timestamp": "2023-10-07T10:48:00"
+            },
+            {
+                "temperature_celsius": 36.51747776352782,
+                "timestamp": "2023-10-14T15:02:00"
+            },
+            {
+                "temperature_celsius": 35.8601553392288,
+                "timestamp": "2023-10-03T18:40:00"
+            },
+            {
+                "temperature_celsius": 36.80549989719823,
+                "timestamp": "2023-10-18T10:22:00"
+            },
+            {
+                "temperature_celsius": 35.53706229110998,
+                "timestamp": "2023-10-30T17:05:00"
+            },
+            {
+                "temperature_celsius": 37.8349566532715,
+                "timestamp": "2023-10-27T09:02:00"
+            },
+            {
+                "temperature_celsius": 36.25512423835541,
+                "timestamp": "2023-10-28T23:29:00"
+            },
+            {
+                "temperature_celsius": 37.93182731195291,
+                "timestamp": "2023-10-08T14:02:00"
+            },
+            {
+                "temperature_celsius": 36.20405415571757,
+                "timestamp": "2023-10-15T07:09:00"
+            },
+            {
+                "temperature_celsius": 36.549188454776946,
+                "timestamp": "2023-10-29T22:08:00"
+            },
+            {
+                "temperature_celsius": 37.67082770550379,
+                "timestamp": "2023-10-27T04:48:00"
+            },
+            {
+                "temperature_celsius": 36.93969705146387,
+                "timestamp": "2023-10-09T00:23:00"
+            },
+            {
+                "temperature_celsius": 37.762158824398135,
+                "timestamp": "2023-10-12T13:20:00"
+            },
+            {
+                "temperature_celsius": 37.30511686722146,
+                "timestamp": "2023-10-07T20:40:00"
+            },
+            {
+                "temperature_celsius": 38.27102864194159,
+                "timestamp": "2023-10-12T13:49:00"
+            },
+            {
+                "temperature_celsius": 37.12590697567885,
+                "timestamp": "2023-10-19T01:33:00"
+            },
+            {
+                "temperature_celsius": 37.07457762648065,
+                "timestamp": "2023-10-04T02:39:00"
+            },
+            {
+                "temperature_celsius": 36.77902050339965,
+                "timestamp": "2023-10-25T09:50:00"
+            },
+            {
+                "temperature_celsius": 37.29694680405055,
+                "timestamp": "2023-10-05T16:59:00"
+            },
+            {
+                "temperature_celsius": 37.64956778194465,
+                "timestamp": "2023-10-27T17:20:00"
+            },
+            {
+                "temperature_celsius": 36.94232093036478,
+                "timestamp": "2023-10-02T04:37:00"
+            },
+            {
+                "temperature_celsius": 36.482982994940286,
+                "timestamp": "2023-10-08T05:47:00"
+            },
+            {
+                "temperature_celsius": 36.367422801726406,
+                "timestamp": "2023-10-25T09:21:00"
+            },
+            {
+                "temperature_celsius": 37.755082045010695,
+                "timestamp": "2023-10-25T01:12:00"
+            },
+            {
+                "temperature_celsius": 36.38334508926424,
+                "timestamp": "2023-10-07T11:36:00"
+            },
+            {
+                "temperature_celsius": 37.502651365138256,
+                "timestamp": "2023-10-09T01:14:00"
+            },
+            {
+                "temperature_celsius": 37.15058617196747,
+                "timestamp": "2023-10-11T18:26:00"
+            },
+            {
+                "temperature_celsius": 37.29236714706286,
+                "timestamp": "2023-10-09T18:33:00"
+            },
+            {
+                "temperature_celsius": 37.98912553325535,
+                "timestamp": "2023-10-18T22:42:00"
+            },
+            {
+                "temperature_celsius": 37.05300347358687,
+                "timestamp": "2023-10-13T05:31:00"
+            },
+            {
+                "temperature_celsius": 38.114031713964216,
+                "timestamp": "2023-10-30T16:02:00"
+            },
+            {
+                "temperature_celsius": 37.81493694990474,
+                "timestamp": "2023-10-03T03:39:00"
+            },
+            {
+                "temperature_celsius": 36.1321722958953,
+                "timestamp": "2023-10-14T19:05:00"
+            },
+            {
+                "temperature_celsius": 36.035957969236,
+                "timestamp": "2023-10-26T15:39:00"
+            },
+            {
+                "temperature_celsius": 38.204835331181485,
+                "timestamp": "2023-10-29T17:15:00"
+            },
+            {
+                "temperature_celsius": 36.67249746944865,
+                "timestamp": "2023-10-28T15:54:00"
+            },
+            {
+                "temperature_celsius": 36.31318655750194,
+                "timestamp": "2023-10-12T10:11:00"
+            },
+            {
+                "temperature_celsius": 36.61121383226488,
+                "timestamp": "2023-10-14T08:28:00"
+            },
+            {
+                "temperature_celsius": 38.33381409228426,
+                "timestamp": "2023-10-10T11:30:00"
+            },
+            {
+                "temperature_celsius": 35.598385334304645,
+                "timestamp": "2023-10-26T07:39:00"
+            },
+            {
+                "temperature_celsius": 37.369498912471116,
+                "timestamp": "2023-10-05T13:25:00"
+            },
+            {
+                "temperature_celsius": 35.68563614062592,
+                "timestamp": "2023-10-19T14:28:00"
+            },
+            {
+                "temperature_celsius": 35.650064812280796,
+                "timestamp": "2023-10-11T01:45:00"
+            },
+            {
+                "temperature_celsius": 36.60546907985555,
+                "timestamp": "2023-10-02T15:19:00"
+            },
+            {
+                "temperature_celsius": 38.17426079554815,
+                "timestamp": "2023-10-23T20:26:00"
+            },
+            {
+                "temperature_celsius": 36.9682145271257,
+                "timestamp": "2023-10-11T00:27:00"
+            },
+            {
+                "temperature_celsius": 37.34083559628213,
+                "timestamp": "2023-10-09T13:39:00"
+            },
+            {
+                "temperature_celsius": 36.03643192040356,
+                "timestamp": "2023-10-08T05:15:00"
+            },
+            {
+                "temperature_celsius": 38.488556333568866,
+                "timestamp": "2023-10-15T16:26:00"
+            },
+            {
+                "temperature_celsius": 35.81633845638771,
+                "timestamp": "2023-10-06T16:48:00"
+            },
+            {
+                "temperature_celsius": 38.46944392191462,
+                "timestamp": "2023-10-22T15:33:00"
+            },
+            {
+                "temperature_celsius": 37.031208232054425,
+                "timestamp": "2023-10-27T22:52:00"
+            },
+            {
+                "temperature_celsius": 38.19978858062978,
+                "timestamp": "2023-10-13T23:11:00"
+            },
+            {
+                "temperature_celsius": 36.83040102198265,
+                "timestamp": "2023-10-30T10:17:00"
+            },
+            {
+                "temperature_celsius": 37.73580092373452,
+                "timestamp": "2023-10-12T13:33:00"
+            },
+            {
+                "temperature_celsius": 38.45110789699205,
+                "timestamp": "2023-10-11T23:22:00"
+            },
+            {
+                "temperature_celsius": 37.449043022825315,
+                "timestamp": "2023-10-15T09:15:00"
+            },
+            {
+                "temperature_celsius": 38.200805226900194,
+                "timestamp": "2023-10-08T19:35:00"
+            },
+            {
+                "temperature_celsius": 37.75223897725741,
+                "timestamp": "2023-10-26T01:29:00"
+            },
+            {
+                "temperature_celsius": 36.27473721311936,
+                "timestamp": "2023-10-03T09:36:00"
+            },
+            {
+                "temperature_celsius": 36.68292827078244,
+                "timestamp": "2023-10-18T13:21:00"
+            },
+            {
+                "temperature_celsius": 37.54408802439009,
+                "timestamp": "2023-10-10T02:16:00"
+            },
+            {
+                "temperature_celsius": 35.72218980489302,
+                "timestamp": "2023-10-29T18:50:00"
+            },
+            {
+                "temperature_celsius": 36.149575584114004,
+                "timestamp": "2023-10-03T12:57:00"
+            },
+            {
+                "temperature_celsius": 37.16823064206831,
+                "timestamp": "2023-10-19T22:46:00"
+            },
+            {
+                "temperature_celsius": 36.54267504948067,
+                "timestamp": "2023-10-17T01:17:00"
+            },
+            {
+                "temperature_celsius": 38.44958497125629,
+                "timestamp": "2023-10-23T03:02:00"
+            },
+            {
+                "temperature_celsius": 38.14770897772093,
+                "timestamp": "2023-10-14T17:44:00"
+            },
+            {
+                "temperature_celsius": 36.17237357100469,
+                "timestamp": "2023-10-13T15:46:00"
+            },
+            {
+                "temperature_celsius": 35.739774958193024,
+                "timestamp": "2023-10-01T21:30:00"
+            },
+            {
+                "temperature_celsius": 35.79096242537613,
+                "timestamp": "2023-10-22T07:16:00"
+            },
+            {
+                "temperature_celsius": 38.463912731682115,
+                "timestamp": "2023-10-13T01:29:00"
+            },
+            {
+                "temperature_celsius": 36.05337476713253,
+                "timestamp": "2023-10-25T22:53:00"
+            },
+            {
+                "temperature_celsius": 37.23578561808991,
+                "timestamp": "2023-10-02T02:23:00"
+            },
+            {
+                "temperature_celsius": 36.76205328129161,
+                "timestamp": "2023-10-21T06:08:00"
+            },
+            {
+                "temperature_celsius": 36.10235268927783,
+                "timestamp": "2023-10-29T03:42:00"
+            },
+            {
+                "temperature_celsius": 38.20587788702608,
+                "timestamp": "2023-10-26T14:37:00"
+            },
+            {
+                "temperature_celsius": 38.324677452852285,
+                "timestamp": "2023-10-09T22:04:00"
+            },
+            {
+                "temperature_celsius": 37.33467903112138,
+                "timestamp": "2023-10-02T00:45:00"
+            },
+            {
+                "temperature_celsius": 37.53177854279062,
+                "timestamp": "2023-10-15T11:11:00"
+            },
+            {
+                "temperature_celsius": 37.91714606188611,
+                "timestamp": "2023-10-27T00:47:00"
+            },
+            {
+                "temperature_celsius": 37.880974680724556,
+                "timestamp": "2023-10-01T22:56:00"
+            },
+            {
+                "temperature_celsius": 38.365872141593904,
+                "timestamp": "2023-10-12T06:29:00"
+            },
+            {
+                "temperature_celsius": 37.883703878613765,
+                "timestamp": "2023-10-03T12:20:00"
+            },
+            {
+                "temperature_celsius": 36.759073889502545,
+                "timestamp": "2023-10-26T14:15:00"
+            },
+            {
+                "temperature_celsius": 37.98395414435457,
+                "timestamp": "2023-10-05T13:22:00"
+            },
+            {
+                "temperature_celsius": 37.47166368849289,
+                "timestamp": "2023-10-23T06:56:00"
+            },
+            {
+                "temperature_celsius": 38.31430837658539,
+                "timestamp": "2023-10-23T05:35:00"
+            },
+            {
+                "temperature_celsius": 35.89792225361705,
+                "timestamp": "2023-10-18T13:06:00"
+            },
+            {
+                "temperature_celsius": 36.634787698936236,
+                "timestamp": "2023-10-06T11:08:00"
+            },
+            {
+                "temperature_celsius": 37.86342737839474,
+                "timestamp": "2023-10-12T09:03:00"
+            },
+            {
+                "temperature_celsius": 35.833383258124066,
+                "timestamp": "2023-10-05T14:52:00"
+            },
+            {
+                "temperature_celsius": 38.112998619676596,
+                "timestamp": "2023-10-15T08:45:00"
+            },
+            {
+                "temperature_celsius": 37.32480236323308,
+                "timestamp": "2023-10-07T10:05:00"
+            },
+            {
+                "temperature_celsius": 37.304259523447314,
+                "timestamp": "2023-10-24T14:27:00"
+            },
+            {
+                "temperature_celsius": 36.53351587755287,
+                "timestamp": "2023-10-02T22:26:00"
+            },
+            {
+                "temperature_celsius": 37.174002408840146,
+                "timestamp": "2023-10-30T10:27:00"
+            },
+            {
+                "temperature_celsius": 35.74144097342056,
+                "timestamp": "2023-10-18T21:08:00"
+            },
+            {
+                "temperature_celsius": 36.83348610722621,
+                "timestamp": "2023-10-05T06:14:00"
+            },
+            {
+                "temperature_celsius": 37.711147007982774,
+                "timestamp": "2023-10-29T09:19:00"
+            },
+            {
+                "temperature_celsius": 36.59378533150348,
+                "timestamp": "2023-10-20T06:54:00"
+            },
+            {
+                "temperature_celsius": 37.259596980902494,
+                "timestamp": "2023-10-10T00:55:00"
+            },
+            {
+                "temperature_celsius": 37.26344159243309,
+                "timestamp": "2023-10-25T05:27:00"
+            },
+            {
+                "temperature_celsius": 36.87050266059465,
+                "timestamp": "2023-10-30T02:31:00"
+            },
+            {
+                "temperature_celsius": 36.27098307613039,
+                "timestamp": "2023-10-29T18:38:00"
+            },
+            {
+                "temperature_celsius": 35.87484030218828,
+                "timestamp": "2023-10-14T07:50:00"
+            },
+            {
+                "temperature_celsius": 36.03126598583774,
+                "timestamp": "2023-10-04T00:57:00"
+            },
+            {
+                "temperature_celsius": 35.88667287883802,
+                "timestamp": "2023-10-01T22:20:00"
+            },
+            {
+                "temperature_celsius": 38.33833086432909,
+                "timestamp": "2023-10-12T01:51:00"
+            },
+            {
+                "temperature_celsius": 36.40144590548624,
+                "timestamp": "2023-10-08T04:55:00"
+            },
+            {
+                "temperature_celsius": 35.57530295588943,
+                "timestamp": "2023-10-11T04:50:00"
+            },
+            {
+                "temperature_celsius": 36.16176962881183,
+                "timestamp": "2023-10-02T03:18:00"
+            },
+            {
+                "temperature_celsius": 35.83336986940248,
+                "timestamp": "2023-10-18T20:56:00"
+            },
+            {
+                "temperature_celsius": 37.209456559800046,
+                "timestamp": "2023-10-30T02:11:00"
+            },
+            {
+                "temperature_celsius": 38.42061681140451,
+                "timestamp": "2023-10-21T14:45:00"
+            },
+            {
+                "temperature_celsius": 36.577535644797436,
+                "timestamp": "2023-10-08T13:55:00"
+            },
+            {
+                "temperature_celsius": 36.168308702401404,
+                "timestamp": "2023-10-26T14:10:00"
+            },
+            {
+                "temperature_celsius": 36.86371927721934,
+                "timestamp": "2023-10-09T08:48:00"
+            },
+            {
+                "temperature_celsius": 38.33561504160654,
+                "timestamp": "2023-10-20T21:04:00"
+            },
+            {
+                "temperature_celsius": 38.24158760966976,
+                "timestamp": "2023-10-22T05:01:00"
+            },
+            {
+                "temperature_celsius": 37.57643100672481,
+                "timestamp": "2023-10-16T21:15:00"
+            },
+            {
+                "temperature_celsius": 35.6630989421767,
+                "timestamp": "2023-10-29T13:58:00"
+            },
+            {
+                "temperature_celsius": 36.01215608759764,
+                "timestamp": "2023-10-01T19:27:00"
+            },
+            {
+                "temperature_celsius": 36.25091221823828,
+                "timestamp": "2023-10-07T10:11:00"
+            },
+            {
+                "temperature_celsius": 36.16439698749919,
+                "timestamp": "2023-10-27T11:15:00"
+            },
+            {
+                "temperature_celsius": 38.44033509014515,
+                "timestamp": "2023-10-10T23:24:00"
+            },
+            {
+                "temperature_celsius": 37.016264101821754,
+                "timestamp": "2023-10-21T19:00:00"
+            },
+            {
+                "temperature_celsius": 36.181233640349575,
+                "timestamp": "2023-10-14T00:54:00"
+            },
+            {
+                "temperature_celsius": 37.701775793726924,
+                "timestamp": "2023-10-01T04:41:00"
+            },
+            {
+                "temperature_celsius": 37.78096531356774,
+                "timestamp": "2023-10-09T06:39:00"
+            },
+            {
+                "temperature_celsius": 36.59568910358085,
+                "timestamp": "2023-10-02T14:29:00"
+            },
+            {
+                "temperature_celsius": 36.143731919059235,
+                "timestamp": "2023-10-12T04:15:00"
+            },
+            {
+                "temperature_celsius": 37.619887228885545,
+                "timestamp": "2023-10-11T16:05:00"
+            },
+            {
+                "temperature_celsius": 36.64060636960066,
+                "timestamp": "2023-10-10T11:32:00"
+            },
+            {
+                "temperature_celsius": 36.21445703028569,
+                "timestamp": "2023-10-21T18:53:00"
+            },
+            {
+                "temperature_celsius": 37.331695341782456,
+                "timestamp": "2023-10-02T05:18:00"
+            },
+            {
+                "temperature_celsius": 36.264979164882405,
+                "timestamp": "2023-10-27T06:49:00"
+            },
+            {
+                "temperature_celsius": 37.333794935779444,
+                "timestamp": "2023-10-19T23:16:00"
+            },
+            {
+                "temperature_celsius": 36.775939367534185,
+                "timestamp": "2023-10-13T02:03:00"
+            },
+            {
+                "temperature_celsius": 36.73173843954524,
+                "timestamp": "2023-10-26T06:51:00"
+            },
+            {
+                "temperature_celsius": 35.65334193330878,
+                "timestamp": "2023-10-12T01:57:00"
+            },
+            {
+                "temperature_celsius": 36.291419654780256,
+                "timestamp": "2023-10-04T11:01:00"
+            },
+            {
+                "temperature_celsius": 37.12213815275831,
+                "timestamp": "2023-10-08T11:09:00"
+            },
+            {
+                "temperature_celsius": 35.556352636026304,
+                "timestamp": "2023-10-13T04:45:00"
+            },
+            {
+                "temperature_celsius": 38.38116601717144,
+                "timestamp": "2023-10-10T22:20:00"
+            },
+            {
+                "temperature_celsius": 37.150460773609844,
+                "timestamp": "2023-10-22T01:33:00"
+            },
+            {
+                "temperature_celsius": 35.96100730253775,
+                "timestamp": "2023-10-03T13:44:00"
+            },
+            {
+                "temperature_celsius": 37.83658545727483,
+                "timestamp": "2023-10-16T05:24:00"
+            },
+            {
+                "temperature_celsius": 37.289531150862345,
+                "timestamp": "2023-10-19T11:34:00"
+            },
+            {
+                "temperature_celsius": 37.45994014954664,
+                "timestamp": "2023-10-05T09:42:00"
+            },
+            {
+                "temperature_celsius": 37.83303685822427,
+                "timestamp": "2023-10-07T09:01:00"
+            },
+            {
+                "temperature_celsius": 37.357333988613355,
+                "timestamp": "2023-10-11T08:10:00"
+            },
+            {
+                "temperature_celsius": 37.50961750719705,
+                "timestamp": "2023-10-17T17:54:00"
+            },
+            {
+                "temperature_celsius": 37.100349741848525,
+                "timestamp": "2023-10-05T01:08:00"
+            },
+            {
+                "temperature_celsius": 38.340902260236945,
+                "timestamp": "2023-10-21T08:16:00"
+            },
+            {
+                "temperature_celsius": 38.14040412880871,
+                "timestamp": "2023-10-06T15:42:00"
+            },
+            {
+                "temperature_celsius": 36.375605733149946,
+                "timestamp": "2023-10-07T14:34:00"
+            },
+            {
+                "temperature_celsius": 37.45516205673943,
+                "timestamp": "2023-10-05T06:21:00"
+            },
+            {
+                "temperature_celsius": 36.99575919240256,
+                "timestamp": "2023-10-23T09:24:00"
+            },
+            {
+                "temperature_celsius": 38.35174768840615,
+                "timestamp": "2023-10-09T15:48:00"
+            },
+            {
+                "temperature_celsius": 35.853950743833586,
+                "timestamp": "2023-10-11T04:52:00"
+            },
+            {
+                "temperature_celsius": 36.465606718433385,
+                "timestamp": "2023-10-10T23:36:00"
+            },
+            {
+                "temperature_celsius": 36.5844762717195,
+                "timestamp": "2023-10-28T20:13:00"
+            },
+            {
+                "temperature_celsius": 37.32399796972667,
+                "timestamp": "2023-10-24T05:34:00"
+            },
+            {
+                "temperature_celsius": 37.55505167221689,
+                "timestamp": "2023-10-09T14:31:00"
+            },
+            {
+                "temperature_celsius": 35.7913833682859,
+                "timestamp": "2023-10-21T15:09:00"
+            },
+            {
+                "temperature_celsius": 37.27870725598004,
+                "timestamp": "2023-10-14T02:51:00"
+            },
+            {
+                "temperature_celsius": 35.98499512048146,
+                "timestamp": "2023-10-25T19:12:00"
+            },
+            {
+                "temperature_celsius": 37.63996145390578,
+                "timestamp": "2023-10-05T17:49:00"
+            },
+            {
+                "temperature_celsius": 38.316079269569606,
+                "timestamp": "2023-10-23T05:46:00"
+            },
+            {
+                "temperature_celsius": 36.807032713143634,
+                "timestamp": "2023-10-20T16:58:00"
+            },
+            {
+                "temperature_celsius": 37.439001745068055,
+                "timestamp": "2023-10-01T23:55:00"
+            },
+            {
+                "temperature_celsius": 36.285968043974464,
+                "timestamp": "2023-10-19T16:36:00"
+            },
+            {
+                "temperature_celsius": 37.733461842356235,
+                "timestamp": "2023-10-24T07:17:00"
+            },
+            {
+                "temperature_celsius": 37.35250367290607,
+                "timestamp": "2023-10-06T07:19:00"
+            },
+            {
+                "temperature_celsius": 36.08126767795003,
+                "timestamp": "2023-10-18T08:03:00"
+            },
+            {
+                "temperature_celsius": 36.84076105233587,
+                "timestamp": "2023-10-15T01:42:00"
+            },
+            {
+                "temperature_celsius": 35.51513273034906,
+                "timestamp": "2023-10-02T10:03:00"
+            },
+            {
+                "temperature_celsius": 36.8258747986039,
+                "timestamp": "2023-10-27T22:34:00"
+            },
+            {
+                "temperature_celsius": 37.30149975946348,
+                "timestamp": "2023-10-13T20:20:00"
+            },
+            {
+                "temperature_celsius": 37.24350894904748,
+                "timestamp": "2023-10-27T02:52:00"
+            },
+            {
+                "temperature_celsius": 36.66610646775225,
+                "timestamp": "2023-10-01T00:35:00"
+            },
+            {
+                "temperature_celsius": 36.780372236056174,
+                "timestamp": "2023-10-05T02:26:00"
+            },
+            {
+                "temperature_celsius": 36.112208863146584,
+                "timestamp": "2023-10-10T00:37:00"
+            },
+            {
+                "temperature_celsius": 36.0493531192531,
+                "timestamp": "2023-10-28T17:40:00"
+            },
+            {
+                "temperature_celsius": 37.612766796432005,
+                "timestamp": "2023-10-22T02:40:00"
+            },
+            {
+                "temperature_celsius": 38.01409039589385,
+                "timestamp": "2023-10-18T20:43:00"
+            },
+            {
+                "temperature_celsius": 35.78761676843397,
+                "timestamp": "2023-10-03T07:03:00"
+            },
+            {
+                "temperature_celsius": 37.13547470961481,
+                "timestamp": "2023-10-09T13:32:00"
+            },
+            {
+                "temperature_celsius": 36.93318363011382,
+                "timestamp": "2023-10-18T20:04:00"
+            },
+            {
+                "temperature_celsius": 37.59218147645345,
+                "timestamp": "2023-10-29T11:57:00"
+            },
+            {
+                "temperature_celsius": 35.615784614792446,
+                "timestamp": "2023-10-06T02:13:00"
+            },
+            {
+                "temperature_celsius": 36.20743138450948,
+                "timestamp": "2023-10-16T10:58:00"
+            },
+            {
+                "temperature_celsius": 35.715503420577434,
+                "timestamp": "2023-10-27T03:11:00"
+            },
+            {
+                "temperature_celsius": 37.989766788590444,
+                "timestamp": "2023-10-20T02:08:00"
+            },
+            {
+                "temperature_celsius": 36.57120160093219,
+                "timestamp": "2023-10-01T09:37:00"
+            },
+            {
+                "temperature_celsius": 37.666183674342946,
+                "timestamp": "2023-10-17T02:31:00"
+            },
+            {
+                "temperature_celsius": 35.85555164781055,
+                "timestamp": "2023-10-14T10:30:00"
+            },
+            {
+                "temperature_celsius": 38.41627261266775,
+                "timestamp": "2023-10-18T00:46:00"
+            },
+            {
+                "temperature_celsius": 36.41717821602282,
+                "timestamp": "2023-10-25T13:11:00"
+            },
+            {
+                "temperature_celsius": 38.466822113829856,
+                "timestamp": "2023-10-12T04:52:00"
+            },
+            {
+                "temperature_celsius": 35.81991475248659,
+                "timestamp": "2023-10-07T10:24:00"
+            },
+            {
+                "temperature_celsius": 35.71395818550249,
+                "timestamp": "2023-10-19T20:23:00"
+            },
+            {
+                "temperature_celsius": 35.560270292218604,
+                "timestamp": "2023-10-02T03:10:00"
+            },
+            {
+                "temperature_celsius": 36.30897440761385,
+                "timestamp": "2023-10-02T15:32:00"
+            },
+            {
+                "temperature_celsius": 35.86314306155735,
+                "timestamp": "2023-10-09T21:04:00"
+            },
+            {
+                "temperature_celsius": 35.83492883224975,
+                "timestamp": "2023-10-13T02:54:00"
+            },
+            {
+                "temperature_celsius": 38.27849523345945,
+                "timestamp": "2023-10-13T23:56:00"
+            },
+            {
+                "temperature_celsius": 35.69816026221079,
+                "timestamp": "2023-10-23T03:44:00"
+            },
+            {
+                "temperature_celsius": 36.597701148213496,
+                "timestamp": "2023-10-27T15:18:00"
+            },
+            {
+                "temperature_celsius": 36.84656608384294,
+                "timestamp": "2023-10-11T01:29:00"
+            },
+            {
+                "temperature_celsius": 36.360323470068714,
+                "timestamp": "2023-10-20T20:45:00"
+            },
+            {
+                "temperature_celsius": 38.4060681104639,
+                "timestamp": "2023-10-09T14:28:00"
+            },
+            {
+                "temperature_celsius": 37.35301841866181,
+                "timestamp": "2023-10-21T10:24:00"
+            },
+            {
+                "temperature_celsius": 37.1995988544623,
+                "timestamp": "2023-10-11T06:57:00"
+            },
+            {
+                "temperature_celsius": 36.19527336440541,
+                "timestamp": "2023-10-30T04:59:00"
+            },
+            {
+                "temperature_celsius": 38.199449386304856,
+                "timestamp": "2023-10-03T06:43:00"
+            },
+            {
+                "temperature_celsius": 37.30225531507526,
+                "timestamp": "2023-10-19T14:08:00"
+            },
+            {
+                "temperature_celsius": 36.671458336090886,
+                "timestamp": "2023-10-13T01:09:00"
+            },
+            {
+                "temperature_celsius": 37.014040860045995,
+                "timestamp": "2023-10-22T12:00:00"
+            },
+            {
+                "temperature_celsius": 36.16268535483353,
+                "timestamp": "2023-10-04T20:12:00"
+            },
+            {
+                "temperature_celsius": 37.29902314554966,
+                "timestamp": "2023-10-07T16:15:00"
+            },
+            {
+                "temperature_celsius": 37.70029513686208,
+                "timestamp": "2023-10-28T02:08:00"
+            },
+            {
+                "temperature_celsius": 38.43636128670438,
+                "timestamp": "2023-10-10T08:32:00"
+            },
+            {
+                "temperature_celsius": 38.16013569645355,
+                "timestamp": "2023-10-03T14:16:00"
+            },
+            {
+                "temperature_celsius": 37.122569855692944,
+                "timestamp": "2023-10-11T13:37:00"
+            },
+            {
+                "temperature_celsius": 36.409946345018106,
+                "timestamp": "2023-10-13T16:38:00"
+            },
+            {
+                "temperature_celsius": 37.25614564670607,
+                "timestamp": "2023-10-08T02:19:00"
+            },
+            {
+                "temperature_celsius": 37.9700023772439,
+                "timestamp": "2023-10-19T15:59:00"
+            },
+            {
+                "temperature_celsius": 37.857232438445436,
+                "timestamp": "2023-10-20T20:17:00"
+            },
+            {
+                "temperature_celsius": 37.926684234783444,
+                "timestamp": "2023-10-14T05:49:00"
+            },
+            {
+                "temperature_celsius": 35.65829243006128,
+                "timestamp": "2023-10-02T20:10:00"
+            },
+            {
+                "temperature_celsius": 37.820192644651435,
+                "timestamp": "2023-10-02T02:34:00"
+            },
+            {
+                "temperature_celsius": 35.78659789006272,
+                "timestamp": "2023-10-26T00:34:00"
+            },
+            {
+                "temperature_celsius": 37.8141464701065,
+                "timestamp": "2023-10-04T10:44:00"
+            },
+            {
+                "temperature_celsius": 37.57860094652629,
+                "timestamp": "2023-10-20T10:39:00"
+            },
+            {
+                "temperature_celsius": 37.970085071363535,
+                "timestamp": "2023-10-10T01:20:00"
+            },
+            {
+                "temperature_celsius": 36.87850347361385,
+                "timestamp": "2023-10-06T02:30:00"
+            },
+            {
+                "temperature_celsius": 36.98182828619312,
+                "timestamp": "2023-10-29T10:31:00"
+            },
+            {
+                "temperature_celsius": 36.81638289778994,
+                "timestamp": "2023-10-06T08:32:00"
+            },
+            {
+                "temperature_celsius": 37.25515789259736,
+                "timestamp": "2023-10-19T03:00:00"
+            },
+            {
+                "temperature_celsius": 37.18601880169484,
+                "timestamp": "2023-10-11T07:58:00"
+            },
+            {
+                "temperature_celsius": 37.22734650856967,
+                "timestamp": "2023-10-16T21:10:00"
+            },
+            {
+                "temperature_celsius": 38.33173505906059,
+                "timestamp": "2023-10-10T16:52:00"
+            },
+            {
+                "temperature_celsius": 38.35890656679057,
+                "timestamp": "2023-10-09T19:47:00"
+            },
+            {
+                "temperature_celsius": 37.18051989562852,
+                "timestamp": "2023-10-15T19:25:00"
+            },
+            {
+                "temperature_celsius": 36.06757603573126,
+                "timestamp": "2023-10-30T19:37:00"
+            },
+            {
+                "temperature_celsius": 36.010091979143716,
+                "timestamp": "2023-10-26T21:38:00"
+            },
+            {
+                "temperature_celsius": 35.74579768833972,
+                "timestamp": "2023-10-18T11:09:00"
+            },
+            {
+                "temperature_celsius": 38.075538821720045,
+                "timestamp": "2023-10-16T10:08:00"
+            },
+            {
+                "temperature_celsius": 35.5215157253273,
+                "timestamp": "2023-10-05T05:48:00"
+            },
+            {
+                "temperature_celsius": 38.460842916962484,
+                "timestamp": "2023-10-01T15:34:00"
+            },
+            {
+                "temperature_celsius": 38.32049140627913,
+                "timestamp": "2023-10-27T17:31:00"
+            },
+            {
+                "temperature_celsius": 35.557821418099635,
+                "timestamp": "2023-10-20T10:49:00"
+            },
+            {
+                "temperature_celsius": 36.26928097861621,
+                "timestamp": "2023-10-28T00:18:00"
+            },
+            {
+                "temperature_celsius": 36.97762397690951,
+                "timestamp": "2023-10-13T20:42:00"
+            },
+            {
+                "temperature_celsius": 35.55244252970864,
+                "timestamp": "2023-10-01T17:11:00"
+            },
+            {
+                "temperature_celsius": 37.335083119311186,
+                "timestamp": "2023-10-13T21:19:00"
+            },
+            {
+                "temperature_celsius": 35.76836932607043,
+                "timestamp": "2023-10-21T19:09:00"
+            },
+            {
+                "temperature_celsius": 37.47120038719228,
+                "timestamp": "2023-10-15T07:30:00"
+            },
+            {
+                "temperature_celsius": 36.11014518429241,
+                "timestamp": "2023-10-27T00:59:00"
+            },
+            {
+                "temperature_celsius": 36.67088383523601,
+                "timestamp": "2023-10-12T16:39:00"
+            },
+            {
+                "temperature_celsius": 36.73263726706074,
+                "timestamp": "2023-10-22T09:58:00"
+            },
+            {
+                "temperature_celsius": 37.78854166284834,
+                "timestamp": "2023-10-09T05:08:00"
+            },
+            {
+                "temperature_celsius": 35.79467150835013,
+                "timestamp": "2023-10-11T07:20:00"
+            },
+            {
+                "temperature_celsius": 37.56057587762773,
+                "timestamp": "2023-10-23T12:48:00"
+            },
+            {
+                "temperature_celsius": 35.52994573055327,
+                "timestamp": "2023-10-12T15:33:00"
+            },
+            {
+                "temperature_celsius": 37.9482362862083,
+                "timestamp": "2023-10-06T12:18:00"
+            },
+            {
+                "temperature_celsius": 36.47914639222087,
+                "timestamp": "2023-10-11T22:56:00"
+            },
+            {
+                "temperature_celsius": 36.60798016271228,
+                "timestamp": "2023-10-02T12:49:00"
+            },
+            {
+                "temperature_celsius": 37.477828912751505,
+                "timestamp": "2023-10-20T08:05:00"
+            },
+            {
+                "temperature_celsius": 37.68685071658436,
+                "timestamp": "2023-10-03T00:55:00"
+            },
+            {
+                "temperature_celsius": 38.47835953459626,
+                "timestamp": "2023-10-24T18:06:00"
+            },
+            {
+                "temperature_celsius": 37.26720493762817,
+                "timestamp": "2023-10-30T00:08:00"
+            },
+            {
+                "temperature_celsius": 36.170756049803146,
+                "timestamp": "2023-10-13T03:45:00"
+            },
+            {
+                "temperature_celsius": 37.24780220632567,
+                "timestamp": "2023-10-23T18:41:00"
+            },
+            {
+                "temperature_celsius": 37.535436611167476,
+                "timestamp": "2023-10-16T11:59:00"
+            },
+            {
+                "temperature_celsius": 36.659422420212806,
+                "timestamp": "2023-10-11T18:04:00"
+            },
+            {
+                "temperature_celsius": 38.070344352683556,
+                "timestamp": "2023-10-29T11:38:00"
+            },
+            {
+                "temperature_celsius": 37.785545699343324,
+                "timestamp": "2023-10-04T16:42:00"
+            },
+            {
+                "temperature_celsius": 37.605184846529966,
+                "timestamp": "2023-10-08T18:05:00"
+            },
+            {
+                "temperature_celsius": 36.42348586566547,
+                "timestamp": "2023-10-03T00:12:00"
+            },
+            {
+                "temperature_celsius": 37.672505269722066,
+                "timestamp": "2023-10-10T03:15:00"
+            },
+            {
+                "temperature_celsius": 35.79418200638887,
+                "timestamp": "2023-10-27T13:43:00"
+            },
+            {
+                "temperature_celsius": 35.76180530627578,
+                "timestamp": "2023-10-16T17:11:00"
+            },
+            {
+                "temperature_celsius": 35.585824978419254,
+                "timestamp": "2023-10-27T03:04:00"
+            },
+            {
+                "temperature_celsius": 35.9796248627495,
+                "timestamp": "2023-10-09T05:10:00"
+            },
+            {
+                "temperature_celsius": 36.344906570014146,
+                "timestamp": "2023-10-05T20:22:00"
+            },
+            {
+                "temperature_celsius": 36.96863365529076,
+                "timestamp": "2023-10-06T06:19:00"
+            },
+            {
+                "temperature_celsius": 36.65442187614108,
+                "timestamp": "2023-10-15T03:13:00"
+            },
+            {
+                "temperature_celsius": 37.871885394463725,
+                "timestamp": "2023-10-08T13:13:00"
+            },
+            {
+                "temperature_celsius": 38.37722883215191,
+                "timestamp": "2023-10-20T15:36:00"
+            },
+            {
+                "temperature_celsius": 37.5616951116429,
+                "timestamp": "2023-10-08T02:36:00"
+            },
+            {
+                "temperature_celsius": 37.28491541938256,
+                "timestamp": "2023-10-22T01:27:00"
+            },
+            {
+                "temperature_celsius": 36.425904707017835,
+                "timestamp": "2023-10-16T20:59:00"
+            },
+            {
+                "temperature_celsius": 35.89184691398587,
+                "timestamp": "2023-10-29T16:58:00"
+            },
+            {
+                "temperature_celsius": 36.98059840094907,
+                "timestamp": "2023-10-16T01:38:00"
+            },
+            {
+                "temperature_celsius": 37.924821996401064,
+                "timestamp": "2023-10-09T01:53:00"
+            },
+            {
+                "temperature_celsius": 36.747000448715895,
+                "timestamp": "2023-10-02T09:54:00"
+            },
+            {
+                "temperature_celsius": 37.01009260224265,
+                "timestamp": "2023-10-10T00:18:00"
+            },
+            {
+                "temperature_celsius": 37.62975822446521,
+                "timestamp": "2023-10-07T01:44:00"
+            },
+            {
+                "temperature_celsius": 35.94795395921266,
+                "timestamp": "2023-10-02T07:52:00"
+            },
+            {
+                "temperature_celsius": 38.30597474296354,
+                "timestamp": "2023-10-01T14:41:00"
+            },
+            {
+                "temperature_celsius": 35.840716905481024,
+                "timestamp": "2023-10-14T10:24:00"
+            },
+            {
+                "temperature_celsius": 37.09889840453431,
+                "timestamp": "2023-10-19T10:45:00"
+            },
+            {
+                "temperature_celsius": 37.37950917710056,
+                "timestamp": "2023-10-01T10:29:00"
+            },
+            {
+                "temperature_celsius": 37.50000335780934,
+                "timestamp": "2023-10-21T22:16:00"
+            },
+            {
+                "temperature_celsius": 36.909343706904664,
+                "timestamp": "2023-10-10T22:38:00"
+            },
+            {
+                "temperature_celsius": 36.04234501870804,
+                "timestamp": "2023-10-30T16:08:00"
+            },
+            {
+                "temperature_celsius": 37.05573699790195,
+                "timestamp": "2023-10-23T08:55:00"
+            },
+            {
+                "temperature_celsius": 36.19824042319297,
+                "timestamp": "2023-10-27T19:23:00"
+            },
+            {
+                "temperature_celsius": 35.53040209197589,
+                "timestamp": "2023-10-01T02:32:00"
+            },
+            {
+                "temperature_celsius": 37.8907229491505,
+                "timestamp": "2023-10-19T03:40:00"
+            },
+            {
+                "temperature_celsius": 36.722852999417086,
+                "timestamp": "2023-10-03T09:51:00"
+            },
+            {
+                "temperature_celsius": 36.63785927078075,
+                "timestamp": "2023-10-09T08:09:00"
+            },
+            {
+                "temperature_celsius": 36.66314603327433,
+                "timestamp": "2023-10-08T02:31:00"
+            },
+            {
+                "temperature_celsius": 37.78389543128288,
+                "timestamp": "2023-10-02T20:31:00"
+            },
+            {
+                "temperature_celsius": 37.207067336844474,
+                "timestamp": "2023-10-15T20:58:00"
+            },
+            {
+                "temperature_celsius": 37.373302056172655,
+                "timestamp": "2023-10-03T20:19:00"
+            },
+            {
+                "temperature_celsius": 37.440210555718345,
+                "timestamp": "2023-10-03T21:13:00"
+            },
+            {
+                "temperature_celsius": 36.80274262848837,
+                "timestamp": "2023-10-14T07:44:00"
+            },
+            {
+                "temperature_celsius": 37.726235771180306,
+                "timestamp": "2023-10-20T16:37:00"
+            },
+            {
+                "temperature_celsius": 36.50817760540332,
+                "timestamp": "2023-10-11T08:21:00"
+            },
+            {
+                "temperature_celsius": 36.62312196464881,
+                "timestamp": "2023-10-17T12:09:00"
+            },
+            {
+                "temperature_celsius": 35.88150265497476,
+                "timestamp": "2023-10-22T14:14:00"
+            },
+            {
+                "temperature_celsius": 36.549381496731215,
+                "timestamp": "2023-10-26T17:23:00"
+            },
+            {
+                "temperature_celsius": 36.18754315681172,
+                "timestamp": "2023-10-22T07:26:00"
+            },
+            {
+                "temperature_celsius": 37.70913957896037,
+                "timestamp": "2023-10-23T07:53:00"
+            },
+            {
+                "temperature_celsius": 35.96862490504361,
+                "timestamp": "2023-10-09T15:41:00"
+            },
+            {
+                "temperature_celsius": 35.82681041241817,
+                "timestamp": "2023-10-15T16:22:00"
+            },
+            {
+                "temperature_celsius": 37.83724767178484,
+                "timestamp": "2023-10-27T19:06:00"
+            },
+            {
+                "temperature_celsius": 36.877897644255974,
+                "timestamp": "2023-10-07T11:55:00"
+            },
+            {
+                "temperature_celsius": 37.30579319336581,
+                "timestamp": "2023-10-27T08:52:00"
+            },
+            {
+                "temperature_celsius": 35.72594287750077,
+                "timestamp": "2023-10-15T10:26:00"
+            },
+            {
+                "temperature_celsius": 35.505571677296416,
+                "timestamp": "2023-10-09T09:52:00"
+            },
+            {
+                "temperature_celsius": 36.78778649368513,
+                "timestamp": "2023-10-07T22:58:00"
+            },
+            {
+                "temperature_celsius": 37.727088811746206,
+                "timestamp": "2023-10-15T13:36:00"
+            },
+            {
+                "temperature_celsius": 38.172825271942635,
+                "timestamp": "2023-10-09T15:44:00"
+            },
+            {
+                "temperature_celsius": 37.85292300852832,
+                "timestamp": "2023-10-24T09:20:00"
+            },
+            {
+                "temperature_celsius": 36.68708963420498,
+                "timestamp": "2023-10-14T07:57:00"
+            },
+            {
+                "temperature_celsius": 38.189268522973954,
+                "timestamp": "2023-10-19T23:40:00"
+            },
+            {
+                "temperature_celsius": 37.50459149977596,
+                "timestamp": "2023-10-23T23:34:00"
+            },
+            {
+                "temperature_celsius": 36.198203574280996,
+                "timestamp": "2023-10-27T17:33:00"
+            },
+            {
+                "temperature_celsius": 37.27291710812077,
+                "timestamp": "2023-10-23T06:57:00"
+            },
+            {
+                "temperature_celsius": 36.45034141583126,
+                "timestamp": "2023-10-23T19:47:00"
+            },
+            {
+                "temperature_celsius": 37.82684896983087,
+                "timestamp": "2023-10-19T13:02:00"
+            },
+            {
+                "temperature_celsius": 36.39382750805458,
+                "timestamp": "2023-10-29T09:10:00"
+            },
+            {
+                "temperature_celsius": 37.88052264804821,
+                "timestamp": "2023-10-29T00:45:00"
+            },
+            {
+                "temperature_celsius": 35.71487645931272,
+                "timestamp": "2023-10-03T07:59:00"
+            },
+            {
+                "temperature_celsius": 36.1782932897325,
+                "timestamp": "2023-10-21T02:30:00"
+            },
+            {
+                "temperature_celsius": 37.418796748030665,
+                "timestamp": "2023-10-18T00:30:00"
+            },
+            {
+                "temperature_celsius": 37.31549641342591,
+                "timestamp": "2023-10-27T22:46:00"
+            },
+            {
+                "temperature_celsius": 37.95728912172803,
+                "timestamp": "2023-10-26T14:24:00"
+            },
+            {
+                "temperature_celsius": 36.22967973686776,
+                "timestamp": "2023-10-21T22:53:00"
+            },
+            {
+                "temperature_celsius": 35.91576233642474,
+                "timestamp": "2023-10-06T12:40:00"
+            },
+            {
+                "temperature_celsius": 38.491204661870285,
+                "timestamp": "2023-10-07T11:39:00"
+            },
+            {
+                "temperature_celsius": 37.98975518851738,
+                "timestamp": "2023-10-13T07:56:00"
+            },
+            {
+                "temperature_celsius": 37.62216206706447,
+                "timestamp": "2023-10-24T17:21:00"
+            },
+            {
+                "temperature_celsius": 36.2928549617745,
+                "timestamp": "2023-10-02T17:44:00"
+            },
+            {
+                "temperature_celsius": 37.20977485187746,
+                "timestamp": "2023-10-07T13:15:00"
+            },
+            {
+                "temperature_celsius": 37.96588997929132,
+                "timestamp": "2023-10-27T19:54:00"
+            },
+            {
+                "temperature_celsius": 36.88269839737101,
+                "timestamp": "2023-10-23T17:25:00"
+            },
+            {
+                "temperature_celsius": 37.27003590989745,
+                "timestamp": "2023-10-23T23:21:00"
+            },
+            {
+                "temperature_celsius": 36.94115528207031,
+                "timestamp": "2023-10-21T18:28:00"
+            },
+            {
+                "temperature_celsius": 37.15625592333917,
+                "timestamp": "2023-10-22T06:27:00"
+            },
+            {
+                "temperature_celsius": 36.76507934738558,
+                "timestamp": "2023-10-25T21:33:00"
+            },
+            {
+                "temperature_celsius": 37.92778986829633,
+                "timestamp": "2023-10-17T11:43:00"
+            },
+            {
+                "temperature_celsius": 35.896059096799746,
+                "timestamp": "2023-10-02T07:48:00"
+            },
+            {
+                "temperature_celsius": 37.2808450659744,
+                "timestamp": "2023-10-26T08:32:00"
+            },
+            {
+                "temperature_celsius": 36.258114095815245,
+                "timestamp": "2023-10-18T23:15:00"
+            },
+            {
+                "temperature_celsius": 37.722602153231016,
+                "timestamp": "2023-10-26T15:04:00"
+            },
+            {
+                "temperature_celsius": 37.342128835586145,
+                "timestamp": "2023-10-20T13:21:00"
+            },
+            {
+                "temperature_celsius": 37.00201586886338,
+                "timestamp": "2023-10-10T19:51:00"
+            },
+            {
+                "temperature_celsius": 35.73294887675971,
+                "timestamp": "2023-10-12T19:30:00"
+            },
+            {
+                "temperature_celsius": 38.302159728057816,
+                "timestamp": "2023-10-24T04:19:00"
+            },
+            {
+                "temperature_celsius": 36.993368522386504,
+                "timestamp": "2023-10-24T20:12:00"
+            },
+            {
+                "temperature_celsius": 38.009665113796615,
+                "timestamp": "2023-10-26T19:42:00"
+            },
+            {
+                "temperature_celsius": 36.52692590575959,
+                "timestamp": "2023-10-17T05:30:00"
+            },
+            {
+                "temperature_celsius": 37.500153874072424,
+                "timestamp": "2023-10-24T20:33:00"
+            },
+            {
+                "temperature_celsius": 36.76512026253779,
+                "timestamp": "2023-10-28T08:59:00"
+            },
+            {
+                "temperature_celsius": 37.983259154229216,
+                "timestamp": "2023-10-23T12:20:00"
+            },
+            {
+                "temperature_celsius": 36.74593844556022,
+                "timestamp": "2023-10-12T21:14:00"
+            },
+            {
+                "temperature_celsius": 37.66020980942765,
+                "timestamp": "2023-10-02T17:54:00"
+            },
+            {
+                "temperature_celsius": 36.657706110822325,
+                "timestamp": "2023-10-16T21:09:00"
+            },
+            {
+                "temperature_celsius": 36.30406664739563,
+                "timestamp": "2023-10-27T13:56:00"
+            },
+            {
+                "temperature_celsius": 37.63670628006845,
+                "timestamp": "2023-10-10T10:52:00"
+            },
+            {
+                "temperature_celsius": 36.61766753592608,
+                "timestamp": "2023-10-12T05:49:00"
+            },
+            {
+                "temperature_celsius": 37.089115088303714,
+                "timestamp": "2023-10-14T16:53:00"
+            },
+            {
+                "temperature_celsius": 36.81418023534778,
+                "timestamp": "2023-10-25T10:32:00"
+            },
+            {
+                "temperature_celsius": 36.11079330671794,
+                "timestamp": "2023-10-14T20:43:00"
+            },
+            {
+                "temperature_celsius": 38.08645071219755,
+                "timestamp": "2023-10-13T13:50:00"
+            },
+            {
+                "temperature_celsius": 35.777405921578406,
+                "timestamp": "2023-10-14T15:15:00"
+            },
+            {
+                "temperature_celsius": 36.725842909576734,
+                "timestamp": "2023-10-26T14:37:00"
+            },
+            {
+                "temperature_celsius": 37.805261878130565,
+                "timestamp": "2023-10-02T15:57:00"
+            },
+            {
+                "temperature_celsius": 37.30021683492795,
+                "timestamp": "2023-10-16T00:32:00"
+            },
+            {
+                "temperature_celsius": 35.91637942792229,
+                "timestamp": "2023-10-03T19:06:00"
+            },
+            {
+                "temperature_celsius": 36.539481106129216,
+                "timestamp": "2023-10-27T09:59:00"
+            },
+            {
+                "temperature_celsius": 37.487162469782916,
+                "timestamp": "2023-10-09T21:56:00"
+            },
+            {
+                "temperature_celsius": 38.257850240542425,
+                "timestamp": "2023-10-17T23:42:00"
+            },
+            {
+                "temperature_celsius": 37.9799217799105,
+                "timestamp": "2023-10-29T10:58:00"
+            },
+            {
+                "temperature_celsius": 36.96099323253158,
+                "timestamp": "2023-10-24T23:19:00"
+            },
+            {
+                "temperature_celsius": 36.96399005263816,
+                "timestamp": "2023-10-09T04:26:00"
+            },
+            {
+                "temperature_celsius": 35.99551384780292,
+                "timestamp": "2023-10-09T09:22:00"
+            },
+            {
+                "temperature_celsius": 37.23637247984502,
+                "timestamp": "2023-10-12T15:44:00"
+            },
+            {
+                "temperature_celsius": 37.356445459954415,
+                "timestamp": "2023-10-06T15:58:00"
+            },
+            {
+                "temperature_celsius": 36.14381853816132,
+                "timestamp": "2023-10-15T21:45:00"
+            },
+            {
+                "temperature_celsius": 38.07082368207708,
+                "timestamp": "2023-10-01T05:03:00"
+            },
+            {
+                "temperature_celsius": 36.73596049880287,
+                "timestamp": "2023-10-02T06:31:00"
+            },
+            {
+                "temperature_celsius": 37.93862565143531,
+                "timestamp": "2023-10-07T14:47:00"
+            },
+            {
+                "temperature_celsius": 37.359014442297294,
+                "timestamp": "2023-10-14T13:30:00"
+            },
+            {
+                "temperature_celsius": 38.12097194101919,
+                "timestamp": "2023-10-11T13:56:00"
+            },
+            {
+                "temperature_celsius": 36.65971209838628,
+                "timestamp": "2023-10-26T04:02:00"
+            },
+            {
+                "temperature_celsius": 36.31206869327267,
+                "timestamp": "2023-10-19T05:21:00"
+            },
+            {
+                "temperature_celsius": 38.06924913307988,
+                "timestamp": "2023-10-03T07:44:00"
+            },
+            {
+                "temperature_celsius": 37.134569081874005,
+                "timestamp": "2023-10-16T14:16:00"
+            },
+            {
+                "temperature_celsius": 35.577664100644654,
+                "timestamp": "2023-10-30T19:05:00"
+            },
+            {
+                "temperature_celsius": 36.49246210699581,
+                "timestamp": "2023-10-21T08:01:00"
+            },
+            {
+                "temperature_celsius": 37.77811467364575,
+                "timestamp": "2023-10-20T11:35:00"
+            },
+            {
+                "temperature_celsius": 36.39474179856947,
+                "timestamp": "2023-10-23T05:37:00"
+            },
+            {
+                "temperature_celsius": 35.60657364592977,
+                "timestamp": "2023-10-02T05:54:00"
+            },
+            {
+                "temperature_celsius": 35.5833520359922,
+                "timestamp": "2023-10-21T10:23:00"
+            },
+            {
+                "temperature_celsius": 38.22465308608906,
+                "timestamp": "2023-10-24T11:51:00"
+            },
+            {
+                "temperature_celsius": 36.149678467014645,
+                "timestamp": "2023-10-07T06:00:00"
+            },
+            {
+                "temperature_celsius": 37.58393671505614,
+                "timestamp": "2023-10-23T22:00:00"
+            },
+            {
+                "temperature_celsius": 37.92304628245975,
+                "timestamp": "2023-10-21T04:09:00"
+            },
+            {
+                "temperature_celsius": 37.960213768169815,
+                "timestamp": "2023-10-24T09:01:00"
+            },
+            {
+                "temperature_celsius": 37.24753936764712,
+                "timestamp": "2023-10-12T16:03:00"
+            },
+            {
+                "temperature_celsius": 35.8703490486691,
+                "timestamp": "2023-10-28T04:50:00"
+            },
+            {
+                "temperature_celsius": 36.79794782198269,
+                "timestamp": "2023-10-27T11:46:00"
+            },
+            {
+                "temperature_celsius": 36.678035401213066,
+                "timestamp": "2023-10-05T10:37:00"
+            },
+            {
+                "temperature_celsius": 36.11344841135704,
+                "timestamp": "2023-10-19T00:49:00"
+            },
+            {
+                "temperature_celsius": 35.9092456601674,
+                "timestamp": "2023-10-20T11:19:00"
+            },
+            {
+                "temperature_celsius": 37.549407794724004,
+                "timestamp": "2023-10-15T16:42:00"
+            },
+            {
+                "temperature_celsius": 36.42508671587664,
+                "timestamp": "2023-10-04T09:30:00"
+            },
+            {
+                "temperature_celsius": 37.5547709012766,
+                "timestamp": "2023-10-29T14:33:00"
+            },
+            {
+                "temperature_celsius": 37.26638092756784,
+                "timestamp": "2023-10-10T13:42:00"
+            },
+            {
+                "temperature_celsius": 37.63711498031782,
+                "timestamp": "2023-10-21T16:23:00"
+            },
+            {
+                "temperature_celsius": 36.554431681164225,
+                "timestamp": "2023-10-23T16:07:00"
+            },
+            {
+                "temperature_celsius": 36.18315256922272,
+                "timestamp": "2023-10-18T15:38:00"
+            },
+            {
+                "temperature_celsius": 36.16636716519458,
+                "timestamp": "2023-10-15T09:52:00"
+            },
+            {
+                "temperature_celsius": 35.59793214696423,
+                "timestamp": "2023-10-22T19:14:00"
+            },
+            {
+                "temperature_celsius": 36.73173031345825,
+                "timestamp": "2023-10-22T13:08:00"
+            },
+            {
+                "temperature_celsius": 35.664286132147446,
+                "timestamp": "2023-10-24T05:05:00"
+            },
+            {
+                "temperature_celsius": 37.23944354740744,
+                "timestamp": "2023-10-15T23:40:00"
+            },
+            {
+                "temperature_celsius": 37.787840498476584,
+                "timestamp": "2023-10-20T08:30:00"
+            },
+            {
+                "temperature_celsius": 36.77019856357131,
+                "timestamp": "2023-10-12T09:43:00"
+            },
+            {
+                "temperature_celsius": 38.25477271173207,
+                "timestamp": "2023-10-11T06:10:00"
+            },
+            {
+                "temperature_celsius": 37.94540640479222,
+                "timestamp": "2023-10-06T05:38:00"
+            },
+            {
+                "temperature_celsius": 35.53974072517088,
+                "timestamp": "2023-10-30T06:05:00"
+            },
+            {
+                "temperature_celsius": 35.83669924028742,
+                "timestamp": "2023-10-13T10:07:00"
+            },
+            {
+                "temperature_celsius": 38.46739475735046,
+                "timestamp": "2023-10-15T00:56:00"
+            },
+            {
+                "temperature_celsius": 37.06608386933765,
+                "timestamp": "2023-10-03T02:22:00"
+            },
+            {
+                "temperature_celsius": 38.36124648247399,
+                "timestamp": "2023-10-10T22:05:00"
+            },
+            {
+                "temperature_celsius": 38.44189058689325,
+                "timestamp": "2023-10-28T07:47:00"
+            },
+            {
+                "temperature_celsius": 36.53872635067999,
+                "timestamp": "2023-10-22T23:35:00"
+            },
+            {
+                "temperature_celsius": 35.89027456268058,
+                "timestamp": "2023-10-08T03:22:00"
+            },
+            {
+                "temperature_celsius": 37.10774756590121,
+                "timestamp": "2023-10-12T11:14:00"
+            },
+            {
+                "temperature_celsius": 38.022481078303805,
+                "timestamp": "2023-10-12T13:57:00"
+            },
+            {
+                "temperature_celsius": 36.405663209459284,
+                "timestamp": "2023-10-19T18:12:00"
+            },
+            {
+                "temperature_celsius": 37.55834385339679,
+                "timestamp": "2023-10-18T22:44:00"
+            },
+            {
+                "temperature_celsius": 37.23917719569108,
+                "timestamp": "2023-10-16T11:10:00"
+            },
+            {
+                "temperature_celsius": 37.248269486500085,
+                "timestamp": "2023-10-09T00:48:00"
+            },
+            {
+                "temperature_celsius": 37.10218699542726,
+                "timestamp": "2023-10-25T11:19:00"
+            },
+            {
+                "temperature_celsius": 37.016553467821524,
+                "timestamp": "2023-10-24T13:25:00"
+            },
+            {
+                "temperature_celsius": 36.886995779185476,
+                "timestamp": "2023-10-15T12:44:00"
+            },
+            {
+                "temperature_celsius": 36.242280756795225,
+                "timestamp": "2023-10-16T04:35:00"
+            },
+            {
+                "temperature_celsius": 36.15156430925137,
+                "timestamp": "2023-10-14T15:41:00"
+            },
+            {
+                "temperature_celsius": 35.90019955736014,
+                "timestamp": "2023-10-18T10:34:00"
+            },
+            {
+                "temperature_celsius": 36.777792118193275,
+                "timestamp": "2023-10-04T13:45:00"
+            },
+            {
+                "temperature_celsius": 37.8446782705779,
+                "timestamp": "2023-10-19T16:36:00"
+            },
+            {
+                "temperature_celsius": 37.13882070250203,
+                "timestamp": "2023-10-17T11:45:00"
+            },
+            {
+                "temperature_celsius": 38.1206263636402,
+                "timestamp": "2023-10-28T02:31:00"
+            },
+            {
+                "temperature_celsius": 36.111236427329345,
+                "timestamp": "2023-10-21T07:04:00"
+            },
+            {
+                "temperature_celsius": 37.35318437779185,
+                "timestamp": "2023-10-10T02:09:00"
+            },
+            {
+                "temperature_celsius": 38.29422949000922,
+                "timestamp": "2023-10-20T18:35:00"
+            },
+            {
+                "temperature_celsius": 36.10815064624467,
+                "timestamp": "2023-10-16T17:12:00"
+            },
+            {
+                "temperature_celsius": 35.98603996573048,
+                "timestamp": "2023-10-18T02:58:00"
+            },
+            {
+                "temperature_celsius": 35.607335044654214,
+                "timestamp": "2023-10-27T08:29:00"
+            },
+            {
+                "temperature_celsius": 37.115818622610625,
+                "timestamp": "2023-10-18T10:35:00"
+            },
+            {
+                "temperature_celsius": 36.796163614406254,
+                "timestamp": "2023-10-14T05:53:00"
+            },
+            {
+                "temperature_celsius": 37.3935391539772,
+                "timestamp": "2023-10-01T23:28:00"
+            },
+            {
+                "temperature_celsius": 36.963720078401515,
+                "timestamp": "2023-10-02T23:56:00"
+            },
+            {
+                "temperature_celsius": 37.29126415082636,
+                "timestamp": "2023-10-17T20:30:00"
+            },
+            {
+                "temperature_celsius": 36.13698515186149,
+                "timestamp": "2023-10-16T12:52:00"
+            },
+            {
+                "temperature_celsius": 37.167399839831695,
+                "timestamp": "2023-10-28T20:43:00"
+            },
+            {
+                "temperature_celsius": 37.22038736919841,
+                "timestamp": "2023-10-30T21:57:00"
+            },
+            {
+                "temperature_celsius": 38.49388052352721,
+                "timestamp": "2023-10-19T09:14:00"
+            },
+            {
+                "temperature_celsius": 36.535306939787105,
+                "timestamp": "2023-10-21T21:02:00"
+            },
+            {
+                "temperature_celsius": 36.519859658212795,
+                "timestamp": "2023-10-19T09:44:00"
+            },
+            {
+                "temperature_celsius": 35.73435814793442,
+                "timestamp": "2023-10-07T03:25:00"
+            },
+            {
+                "temperature_celsius": 37.713833159555826,
+                "timestamp": "2023-10-06T22:08:00"
+            },
+            {
+                "temperature_celsius": 35.67183222686908,
+                "timestamp": "2023-10-02T15:15:00"
+            },
+            {
+                "temperature_celsius": 37.39709314715832,
+                "timestamp": "2023-10-23T00:35:00"
+            },
+            {
+                "temperature_celsius": 38.16081799360894,
+                "timestamp": "2023-10-01T21:50:00"
+            },
+            {
+                "temperature_celsius": 35.654221554816836,
+                "timestamp": "2023-10-18T06:51:00"
+            },
+            {
+                "temperature_celsius": 36.87966861646455,
+                "timestamp": "2023-10-09T04:48:00"
+            },
+            {
+                "temperature_celsius": 36.07463587611821,
+                "timestamp": "2023-10-20T09:32:00"
+            },
+            {
+                "temperature_celsius": 37.5706886249053,
+                "timestamp": "2023-10-01T14:02:00"
+            },
+            {
+                "temperature_celsius": 37.72581870892611,
+                "timestamp": "2023-10-25T05:57:00"
+            },
+            {
+                "temperature_celsius": 36.549718629912135,
+                "timestamp": "2023-10-16T22:03:00"
+            },
+            {
+                "temperature_celsius": 37.707334013893224,
+                "timestamp": "2023-10-27T09:20:00"
+            },
+            {
+                "temperature_celsius": 37.54141071343991,
+                "timestamp": "2023-10-07T13:34:00"
+            },
+            {
+                "temperature_celsius": 37.909139681917274,
+                "timestamp": "2023-10-26T18:24:00"
+            },
+            {
+                "temperature_celsius": 37.788739130208775,
+                "timestamp": "2023-10-14T23:21:00"
+            },
+            {
+                "temperature_celsius": 36.94727458378443,
+                "timestamp": "2023-10-03T18:42:00"
+            },
+            {
+                "temperature_celsius": 36.22491446160037,
+                "timestamp": "2023-10-11T17:15:00"
+            },
+            {
+                "temperature_celsius": 37.518503276847184,
+                "timestamp": "2023-10-05T13:11:00"
+            },
+            {
+                "temperature_celsius": 36.08506576611947,
+                "timestamp": "2023-10-17T09:16:00"
+            },
+            {
+                "temperature_celsius": 38.251651205068114,
+                "timestamp": "2023-10-25T11:24:00"
+            },
+            {
+                "temperature_celsius": 38.14873697457328,
+                "timestamp": "2023-10-16T14:00:00"
+            },
+            {
+                "temperature_celsius": 35.56974941279068,
+                "timestamp": "2023-10-17T05:26:00"
+            },
+            {
+                "temperature_celsius": 38.42730865771044,
+                "timestamp": "2023-10-30T10:01:00"
+            },
+            {
+                "temperature_celsius": 38.394914560037385,
+                "timestamp": "2023-10-24T04:59:00"
+            },
+            {
+                "temperature_celsius": 37.007231427328676,
+                "timestamp": "2023-10-24T22:29:00"
+            },
+            {
+                "temperature_celsius": 38.061997671416194,
+                "timestamp": "2023-10-20T12:26:00"
+            },
+            {
+                "temperature_celsius": 36.00326388749799,
+                "timestamp": "2023-10-03T17:09:00"
+            },
+            {
+                "temperature_celsius": 36.408891548746865,
+                "timestamp": "2023-10-04T15:43:00"
+            },
+            {
+                "temperature_celsius": 37.27859977410494,
+                "timestamp": "2023-10-30T09:51:00"
+            },
+            {
+                "temperature_celsius": 35.53090979753558,
+                "timestamp": "2023-10-03T14:41:00"
+            },
+            {
+                "temperature_celsius": 36.878942801321784,
+                "timestamp": "2023-10-06T03:42:00"
+            },
+            {
+                "temperature_celsius": 35.58900654323337,
+                "timestamp": "2023-10-13T19:56:00"
+            },
+            {
+                "temperature_celsius": 37.4631749436683,
+                "timestamp": "2023-10-28T19:38:00"
+            },
+            {
+                "temperature_celsius": 35.77347366461996,
+                "timestamp": "2023-10-24T12:48:00"
+            },
+            {
+                "temperature_celsius": 38.05458013238775,
+                "timestamp": "2023-10-06T02:23:00"
+            },
+            {
+                "temperature_celsius": 35.83260663775335,
+                "timestamp": "2023-10-19T17:07:00"
+            },
+            {
+                "temperature_celsius": 36.02319589297635,
+                "timestamp": "2023-10-09T06:29:00"
+            },
+            {
+                "temperature_celsius": 36.26529740022117,
+                "timestamp": "2023-10-23T01:49:00"
+            },
+            {
+                "temperature_celsius": 38.378917413432404,
+                "timestamp": "2023-10-23T18:32:00"
+            },
+            {
+                "temperature_celsius": 38.12989255662181,
+                "timestamp": "2023-10-26T21:06:00"
+            },
+            {
+                "temperature_celsius": 37.55672384309163,
+                "timestamp": "2023-10-13T18:38:00"
+            },
+            {
+                "temperature_celsius": 35.81435230382619,
+                "timestamp": "2023-10-14T03:41:00"
+            },
+            {
+                "temperature_celsius": 37.75197744381922,
+                "timestamp": "2023-10-26T11:54:00"
+            },
+            {
+                "temperature_celsius": 36.32444616544896,
+                "timestamp": "2023-10-22T03:12:00"
+            },
+            {
+                "temperature_celsius": 35.53860690360872,
+                "timestamp": "2023-10-17T16:26:00"
+            },
+            {
+                "temperature_celsius": 36.7661343057212,
+                "timestamp": "2023-10-28T21:52:00"
+            },
+            {
+                "temperature_celsius": 36.08566390594486,
+                "timestamp": "2023-10-07T14:38:00"
+            },
+            {
+                "temperature_celsius": 36.59709279863953,
+                "timestamp": "2023-10-11T08:07:00"
+            },
+            {
+                "temperature_celsius": 36.799637348459775,
+                "timestamp": "2023-10-21T14:47:00"
+            },
+            {
+                "temperature_celsius": 36.00346527419126,
+                "timestamp": "2023-10-12T18:21:00"
+            },
+            {
+                "temperature_celsius": 37.519389969770934,
+                "timestamp": "2023-10-27T02:50:00"
+            },
+            {
+                "temperature_celsius": 37.94982905336678,
+                "timestamp": "2023-10-01T01:34:00"
+            },
+            {
+                "temperature_celsius": 37.44789818228672,
+                "timestamp": "2023-10-17T09:08:00"
+            },
+            {
+                "temperature_celsius": 36.9437156006461,
+                "timestamp": "2023-10-25T12:46:00"
+            },
+            {
+                "temperature_celsius": 37.531915328389424,
+                "timestamp": "2023-10-15T21:31:00"
+            },
+            {
+                "temperature_celsius": 36.79858016144488,
+                "timestamp": "2023-10-28T01:09:00"
+            },
+            {
+                "temperature_celsius": 38.282248898290085,
+                "timestamp": "2023-10-05T04:27:00"
+            },
+            {
+                "temperature_celsius": 36.49331436837424,
+                "timestamp": "2023-10-17T01:02:00"
+            },
+            {
+                "temperature_celsius": 36.71354663944026,
+                "timestamp": "2023-10-18T23:53:00"
+            },
+            {
+                "temperature_celsius": 37.56395084590456,
+                "timestamp": "2023-10-28T01:26:00"
+            },
+            {
+                "temperature_celsius": 35.76886951974045,
+                "timestamp": "2023-10-09T15:32:00"
+            },
+            {
+                "temperature_celsius": 38.26050186221895,
+                "timestamp": "2023-10-24T21:53:00"
+            },
+            {
+                "temperature_celsius": 35.91655620453373,
+                "timestamp": "2023-10-22T13:14:00"
+            },
+            {
+                "temperature_celsius": 37.24406795594918,
+                "timestamp": "2023-10-21T06:19:00"
+            },
+            {
+                "temperature_celsius": 35.814136936316004,
+                "timestamp": "2023-10-19T11:40:00"
+            },
+            {
+                "temperature_celsius": 35.885470405473626,
+                "timestamp": "2023-10-20T20:01:00"
+            },
+            {
+                "temperature_celsius": 37.897167285893424,
+                "timestamp": "2023-10-09T16:42:00"
+            },
+            {
+                "temperature_celsius": 36.637456883624985,
+                "timestamp": "2023-10-23T13:47:00"
+            },
+            {
+                "temperature_celsius": 37.85972216430814,
+                "timestamp": "2023-10-17T20:32:00"
+            },
+            {
+                "temperature_celsius": 36.59041282331695,
+                "timestamp": "2023-10-19T20:10:00"
+            },
+            {
+                "temperature_celsius": 35.604552943160826,
+                "timestamp": "2023-10-16T19:49:00"
+            },
+            {
+                "temperature_celsius": 38.02166782507824,
+                "timestamp": "2023-10-03T13:58:00"
+            },
+            {
+                "temperature_celsius": 36.298163272963656,
+                "timestamp": "2023-10-08T11:15:00"
+            },
+            {
+                "temperature_celsius": 35.89189808068977,
+                "timestamp": "2023-10-16T07:26:00"
+            },
+            {
+                "temperature_celsius": 36.781853730529356,
+                "timestamp": "2023-10-07T07:50:00"
+            },
+            {
+                "temperature_celsius": 35.58551364088937,
+                "timestamp": "2023-10-12T16:05:00"
+            },
+            {
+                "temperature_celsius": 37.77605707813881,
+                "timestamp": "2023-10-20T21:42:00"
+            },
+            {
+                "temperature_celsius": 36.91215415953975,
+                "timestamp": "2023-10-14T06:31:00"
+            },
+            {
+                "temperature_celsius": 36.966171941308836,
+                "timestamp": "2023-10-18T07:29:00"
+            },
+            {
+                "temperature_celsius": 37.34196493342271,
+                "timestamp": "2023-10-02T22:37:00"
+            },
+            {
+                "temperature_celsius": 37.49553360172282,
+                "timestamp": "2023-10-15T08:39:00"
+            },
+            {
+                "temperature_celsius": 37.288921292856045,
+                "timestamp": "2023-10-13T15:15:00"
+            },
+            {
+                "temperature_celsius": 35.95985916285255,
+                "timestamp": "2023-10-19T06:15:00"
+            },
+            {
+                "temperature_celsius": 36.14493631797224,
+                "timestamp": "2023-10-22T23:37:00"
+            },
+            {
+                "temperature_celsius": 37.96078874084733,
+                "timestamp": "2023-10-02T10:41:00"
+            },
+            {
+                "temperature_celsius": 36.46185486379264,
+                "timestamp": "2023-10-25T01:22:00"
+            },
+            {
+                "temperature_celsius": 38.28685226810811,
+                "timestamp": "2023-10-07T23:47:00"
+            },
+            {
+                "temperature_celsius": 37.03941891420717,
+                "timestamp": "2023-10-20T17:58:00"
+            },
+            {
+                "temperature_celsius": 36.69916321638894,
+                "timestamp": "2023-10-25T06:38:00"
+            },
+            {
+                "temperature_celsius": 37.895592346364445,
+                "timestamp": "2023-10-24T18:08:00"
+            },
+            {
+                "temperature_celsius": 36.09725808728898,
+                "timestamp": "2023-10-10T06:18:00"
+            },
+            {
+                "temperature_celsius": 38.366300146587506,
+                "timestamp": "2023-10-17T17:37:00"
+            },
+            {
+                "temperature_celsius": 36.96835588102494,
+                "timestamp": "2023-10-11T13:09:00"
+            },
+            {
+                "temperature_celsius": 37.33236497398684,
+                "timestamp": "2023-10-23T01:17:00"
+            },
+            {
+                "temperature_celsius": 36.47104695304122,
+                "timestamp": "2023-10-13T19:26:00"
+            },
+            {
+                "temperature_celsius": 36.85870920535518,
+                "timestamp": "2023-10-04T11:10:00"
+            },
+            {
+                "temperature_celsius": 35.93814082571676,
+                "timestamp": "2023-10-09T02:16:00"
+            },
+            {
+                "temperature_celsius": 36.12396439276592,
+                "timestamp": "2023-10-06T11:27:00"
+            },
+            {
+                "temperature_celsius": 37.540091967060555,
+                "timestamp": "2023-10-13T20:12:00"
+            },
+            {
+                "temperature_celsius": 37.73880189091033,
+                "timestamp": "2023-10-08T17:24:00"
+            },
+            {
+                "temperature_celsius": 35.703120577547445,
+                "timestamp": "2023-10-04T19:28:00"
+            },
+            {
+                "temperature_celsius": 37.73509044255307,
+                "timestamp": "2023-10-29T08:54:00"
+            },
+            {
+                "temperature_celsius": 37.99095066794476,
+                "timestamp": "2023-10-12T18:48:00"
+            },
+            {
+                "temperature_celsius": 37.595958735912134,
+                "timestamp": "2023-10-10T06:39:00"
+            },
+            {
+                "temperature_celsius": 37.117857229703944,
+                "timestamp": "2023-10-23T02:25:00"
+            },
+            {
+                "temperature_celsius": 38.362496363808674,
+                "timestamp": "2023-10-16T16:35:00"
+            },
+            {
+                "temperature_celsius": 37.937648993124746,
+                "timestamp": "2023-10-04T13:43:00"
+            },
+            {
+                "temperature_celsius": 36.73453781250422,
+                "timestamp": "2023-10-16T04:00:00"
+            },
+            {
+                "temperature_celsius": 36.117707658304596,
+                "timestamp": "2023-10-20T06:40:00"
+            },
+            {
+                "temperature_celsius": 36.944518206370574,
+                "timestamp": "2023-10-06T16:03:00"
+            },
+            {
+                "temperature_celsius": 36.22672019914597,
+                "timestamp": "2023-10-22T17:48:00"
+            },
+            {
+                "temperature_celsius": 37.553482680500125,
+                "timestamp": "2023-10-06T12:45:00"
+            },
+            {
+                "temperature_celsius": 36.30831726928498,
+                "timestamp": "2023-10-17T11:23:00"
+            },
+            {
+                "temperature_celsius": 36.82063858367561,
+                "timestamp": "2023-10-17T03:51:00"
+            },
+            {
+                "temperature_celsius": 35.968575794601726,
+                "timestamp": "2023-10-12T03:17:00"
+            },
+            {
+                "temperature_celsius": 38.29845061825414,
+                "timestamp": "2023-10-04T17:47:00"
+            },
+            {
+                "temperature_celsius": 35.66392181945948,
+                "timestamp": "2023-10-22T01:39:00"
+            },
+            {
+                "temperature_celsius": 38.3364406972723,
+                "timestamp": "2023-10-28T00:17:00"
+            },
+            {
+                "temperature_celsius": 36.23711419818237,
+                "timestamp": "2023-10-22T14:48:00"
+            },
+            {
+                "temperature_celsius": 35.817349501630595,
+                "timestamp": "2023-10-06T17:39:00"
+            },
+            {
+                "temperature_celsius": 35.664102248179546,
+                "timestamp": "2023-10-13T06:31:00"
+            },
+            {
+                "temperature_celsius": 37.070478516184046,
+                "timestamp": "2023-10-21T23:08:00"
+            },
+            {
+                "temperature_celsius": 35.88779800552787,
+                "timestamp": "2023-10-21T10:36:00"
+            },
+            {
+                "temperature_celsius": 36.51990090122947,
+                "timestamp": "2023-10-25T02:55:00"
+            },
+            {
+                "temperature_celsius": 35.77413491299565,
+                "timestamp": "2023-10-30T15:03:00"
+            },
+            {
+                "temperature_celsius": 38.25837104636635,
+                "timestamp": "2023-10-08T03:38:00"
+            },
+            {
+                "temperature_celsius": 37.24318522812119,
+                "timestamp": "2023-10-20T00:48:00"
+            },
+            {
+                "temperature_celsius": 35.697329056542436,
+                "timestamp": "2023-10-22T06:39:00"
+            },
+            {
+                "temperature_celsius": 38.431921992967425,
+                "timestamp": "2023-10-25T19:59:00"
+            },
+            {
+                "temperature_celsius": 37.035164010278656,
+                "timestamp": "2023-10-18T22:01:00"
+            },
+            {
+                "temperature_celsius": 35.73509891345437,
+                "timestamp": "2023-10-16T20:21:00"
+            },
+            {
+                "temperature_celsius": 36.77914340983893,
+                "timestamp": "2023-10-08T20:11:00"
+            },
+            {
+                "temperature_celsius": 35.64739529533644,
+                "timestamp": "2023-10-03T03:20:00"
+            },
+            {
+                "temperature_celsius": 38.144852299826375,
+                "timestamp": "2023-10-03T23:56:00"
+            },
+            {
+                "temperature_celsius": 36.088651048409496,
+                "timestamp": "2023-10-06T15:50:00"
+            },
+            {
+                "temperature_celsius": 35.64271176573632,
+                "timestamp": "2023-10-15T12:17:00"
+            },
+            {
+                "temperature_celsius": 37.625748023132495,
+                "timestamp": "2023-10-01T00:39:00"
+            },
+            {
+                "temperature_celsius": 37.12347093975736,
+                "timestamp": "2023-10-10T07:05:00"
+            },
+            {
+                "temperature_celsius": 37.90747149766279,
+                "timestamp": "2023-10-04T10:32:00"
+            },
+            {
+                "temperature_celsius": 38.383511557761494,
+                "timestamp": "2023-10-11T19:59:00"
+            },
+            {
+                "temperature_celsius": 36.61664325264125,
+                "timestamp": "2023-10-22T12:47:00"
+            },
+            {
+                "temperature_celsius": 37.20991661795258,
+                "timestamp": "2023-10-08T15:59:00"
+            },
+            {
+                "temperature_celsius": 37.17793304247873,
+                "timestamp": "2023-10-07T17:02:00"
+            },
+            {
+                "temperature_celsius": 38.063955374013055,
+                "timestamp": "2023-10-21T16:42:00"
+            },
+            {
+                "temperature_celsius": 36.14728817756181,
+                "timestamp": "2023-10-16T22:04:00"
+            },
+            {
+                "temperature_celsius": 37.41927510858391,
+                "timestamp": "2023-10-28T01:16:00"
+            },
+            {
+                "temperature_celsius": 37.53745410595455,
+                "timestamp": "2023-10-02T06:12:00"
+            },
+            {
+                "temperature_celsius": 36.591791489633046,
+                "timestamp": "2023-10-17T05:41:00"
+            },
+            {
+                "temperature_celsius": 37.4772917064912,
+                "timestamp": "2023-10-30T00:35:00"
+            },
+            {
+                "temperature_celsius": 37.2960010565626,
+                "timestamp": "2023-10-08T18:49:00"
+            },
+            {
+                "temperature_celsius": 37.40026851699875,
+                "timestamp": "2023-10-26T10:12:00"
+            }
+        ]
+    }
+}

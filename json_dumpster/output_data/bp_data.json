@@ -1,0 +1,3677 @@
+{
+    "user": {
+        "reference_id": "patient-1",
+        "provider": "APPLE",
+        "user_id": "8e689b57-eb30-43da-9f49-d81093c4e229",
+        "last_webhook_update": "2023-10-22T00:00:00+00:00"
+    },
+    
+    "blood_pressure_data": {
+        "blood_pressure_samples": [
+            {
+                "diastolic_bp": 61.06,
+                "systolic_bp": 97.88,
+                "timestamp": "2023-10-21T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.61,
+                "systolic_bp": 96.67,
+                "timestamp": "2023-10-21T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.31,
+                "systolic_bp": 108.99,
+                "timestamp": "2023-10-21T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.79,
+                "systolic_bp": 99.19,
+                "timestamp": "2023-10-21T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.7,
+                "systolic_bp": 100.39,
+                "timestamp": "2023-10-21T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.91,
+                "systolic_bp": 99.7,
+                "timestamp": "2023-10-21T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.14,
+                "systolic_bp": 115.73,
+                "timestamp": "2023-10-21T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.77,
+                "systolic_bp": 98.02,
+                "timestamp": "2023-10-21T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.95,
+                "systolic_bp": 100.59,
+                "timestamp": "2023-10-21T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.1,
+                "systolic_bp": 118.06,
+                "timestamp": "2023-10-21T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.45,
+                "systolic_bp": 93.31,
+                "timestamp": "2023-10-21T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.4,
+                "systolic_bp": 97.9,
+                "timestamp": "2023-10-21T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.15,
+                "systolic_bp": 101.46,
+                "timestamp": "2023-10-21T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.39,
+                "systolic_bp": 109.57,
+                "timestamp": "2023-10-21T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.2,
+                "systolic_bp": 112.1,
+                "timestamp": "2023-10-21T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.59,
+                "systolic_bp": 117.86,
+                "timestamp": "2023-10-21T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.21,
+                "systolic_bp": 98.58,
+                "timestamp": "2023-10-21T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.41,
+                "systolic_bp": 93.44,
+                "timestamp": "2023-10-21T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.77,
+                "systolic_bp": 103.02,
+                "timestamp": "2023-10-21T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.32,
+                "systolic_bp": 110.21,
+                "timestamp": "2023-10-21T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.8,
+                "systolic_bp": 106.16,
+                "timestamp": "2023-10-21T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.56,
+                "systolic_bp": 95.98,
+                "timestamp": "2023-10-21T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.41,
+                "systolic_bp": 96.23,
+                "timestamp": "2023-10-21T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.27,
+                "systolic_bp": 112.0,
+                "timestamp": "2023-10-21T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.84,
+                "systolic_bp": 96.0,
+                "timestamp": "2023-10-22T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.36,
+                "systolic_bp": 107.8,
+                "timestamp": "2023-10-22T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.18,
+                "systolic_bp": 110.9,
+                "timestamp": "2023-10-22T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.29,
+                "systolic_bp": 113.34,
+                "timestamp": "2023-10-22T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.75,
+                "systolic_bp": 108.46,
+                "timestamp": "2023-10-22T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.82,
+                "systolic_bp": 100.28,
+                "timestamp": "2023-10-22T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.21,
+                "systolic_bp": 115.31,
+                "timestamp": "2023-10-22T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.88,
+                "systolic_bp": 118.93,
+                "timestamp": "2023-10-22T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.84,
+                "systolic_bp": 94.71,
+                "timestamp": "2023-10-22T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.13,
+                "systolic_bp": 90.22,
+                "timestamp": "2023-10-22T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.63,
+                "systolic_bp": 110.69,
+                "timestamp": "2023-10-22T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.02,
+                "systolic_bp": 109.06,
+                "timestamp": "2023-10-22T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.45,
+                "systolic_bp": 111.31,
+                "timestamp": "2023-10-22T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.22,
+                "systolic_bp": 94.77,
+                "timestamp": "2023-10-22T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.74,
+                "systolic_bp": 109.72,
+                "timestamp": "2023-10-22T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.82,
+                "systolic_bp": 94.34,
+                "timestamp": "2023-10-22T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.43,
+                "systolic_bp": 97.8,
+                "timestamp": "2023-10-22T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.06,
+                "systolic_bp": 90.25,
+                "timestamp": "2023-10-22T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.9,
+                "systolic_bp": 107.5,
+                "timestamp": "2023-10-22T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.03,
+                "systolic_bp": 113.81,
+                "timestamp": "2023-10-22T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.21,
+                "systolic_bp": 102.43,
+                "timestamp": "2023-10-22T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.77,
+                "systolic_bp": 106.92,
+                "timestamp": "2023-10-22T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.8,
+                "systolic_bp": 108.08,
+                "timestamp": "2023-10-22T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.6,
+                "systolic_bp": 97.17,
+                "timestamp": "2023-10-22T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.92,
+                "systolic_bp": 93.02,
+                "timestamp": "2023-10-23T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.0,
+                "systolic_bp": 99.05,
+                "timestamp": "2023-10-23T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.67,
+                "systolic_bp": 97.43,
+                "timestamp": "2023-10-23T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.6,
+                "systolic_bp": 103.2,
+                "timestamp": "2023-10-23T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.95,
+                "systolic_bp": 91.52,
+                "timestamp": "2023-10-23T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.54,
+                "systolic_bp": 96.03,
+                "timestamp": "2023-10-23T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.14,
+                "systolic_bp": 114.54,
+                "timestamp": "2023-10-23T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.86,
+                "systolic_bp": 106.97,
+                "timestamp": "2023-10-23T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.49,
+                "systolic_bp": 98.38,
+                "timestamp": "2023-10-23T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.25,
+                "systolic_bp": 98.11,
+                "timestamp": "2023-10-23T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.52,
+                "systolic_bp": 96.66,
+                "timestamp": "2023-10-23T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.74,
+                "systolic_bp": 103.15,
+                "timestamp": "2023-10-23T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.5,
+                "systolic_bp": 111.79,
+                "timestamp": "2023-10-23T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.05,
+                "systolic_bp": 108.95,
+                "timestamp": "2023-10-23T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.56,
+                "systolic_bp": 97.28,
+                "timestamp": "2023-10-23T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.98,
+                "systolic_bp": 91.93,
+                "timestamp": "2023-10-23T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.53,
+                "systolic_bp": 115.87,
+                "timestamp": "2023-10-23T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.24,
+                "systolic_bp": 110.13,
+                "timestamp": "2023-10-23T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.88,
+                "systolic_bp": 109.38,
+                "timestamp": "2023-10-23T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.83,
+                "systolic_bp": 102.05,
+                "timestamp": "2023-10-23T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.84,
+                "systolic_bp": 114.26,
+                "timestamp": "2023-10-23T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.86,
+                "systolic_bp": 113.43,
+                "timestamp": "2023-10-23T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.85,
+                "systolic_bp": 107.37,
+                "timestamp": "2023-10-23T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.15,
+                "systolic_bp": 102.21,
+                "timestamp": "2023-10-23T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.19,
+                "systolic_bp": 116.17,
+                "timestamp": "2023-10-24T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.95,
+                "systolic_bp": 93.46,
+                "timestamp": "2023-10-24T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.16,
+                "systolic_bp": 99.19,
+                "timestamp": "2023-10-24T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.91,
+                "systolic_bp": 112.22,
+                "timestamp": "2023-10-24T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.06,
+                "systolic_bp": 106.49,
+                "timestamp": "2023-10-24T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.07,
+                "systolic_bp": 102.2,
+                "timestamp": "2023-10-24T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.97,
+                "systolic_bp": 109.76,
+                "timestamp": "2023-10-24T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.54,
+                "systolic_bp": 98.79,
+                "timestamp": "2023-10-24T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.02,
+                "systolic_bp": 102.26,
+                "timestamp": "2023-10-24T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.89,
+                "systolic_bp": 99.29,
+                "timestamp": "2023-10-24T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.16,
+                "systolic_bp": 116.91,
+                "timestamp": "2023-10-24T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.0,
+                "systolic_bp": 92.5,
+                "timestamp": "2023-10-24T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.63,
+                "systolic_bp": 114.34,
+                "timestamp": "2023-10-24T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.51,
+                "systolic_bp": 111.73,
+                "timestamp": "2023-10-24T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.19,
+                "systolic_bp": 110.75,
+                "timestamp": "2023-10-24T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.45,
+                "systolic_bp": 115.81,
+                "timestamp": "2023-10-24T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.75,
+                "systolic_bp": 106.74,
+                "timestamp": "2023-10-24T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.74,
+                "systolic_bp": 95.21,
+                "timestamp": "2023-10-24T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.22,
+                "systolic_bp": 110.99,
+                "timestamp": "2023-10-24T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.57,
+                "systolic_bp": 101.09,
+                "timestamp": "2023-10-24T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.37,
+                "systolic_bp": 92.38,
+                "timestamp": "2023-10-24T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.9,
+                "systolic_bp": 110.25,
+                "timestamp": "2023-10-24T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.56,
+                "systolic_bp": 107.15,
+                "timestamp": "2023-10-24T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.54,
+                "systolic_bp": 107.82,
+                "timestamp": "2023-10-24T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.09,
+                "systolic_bp": 112.67,
+                "timestamp": "2023-10-25T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.5,
+                "systolic_bp": 111.52,
+                "timestamp": "2023-10-25T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.4,
+                "systolic_bp": 112.49,
+                "timestamp": "2023-10-25T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.09,
+                "systolic_bp": 91.76,
+                "timestamp": "2023-10-25T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.37,
+                "systolic_bp": 96.05,
+                "timestamp": "2023-10-25T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.88,
+                "systolic_bp": 97.52,
+                "timestamp": "2023-10-25T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.63,
+                "systolic_bp": 105.19,
+                "timestamp": "2023-10-25T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.21,
+                "systolic_bp": 113.27,
+                "timestamp": "2023-10-25T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.21,
+                "systolic_bp": 109.32,
+                "timestamp": "2023-10-25T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.91,
+                "systolic_bp": 113.45,
+                "timestamp": "2023-10-25T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.62,
+                "systolic_bp": 94.62,
+                "timestamp": "2023-10-25T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.71,
+                "systolic_bp": 110.08,
+                "timestamp": "2023-10-25T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.31,
+                "systolic_bp": 92.6,
+                "timestamp": "2023-10-25T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.34,
+                "systolic_bp": 110.14,
+                "timestamp": "2023-10-25T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.55,
+                "systolic_bp": 104.72,
+                "timestamp": "2023-10-25T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.78,
+                "systolic_bp": 97.62,
+                "timestamp": "2023-10-25T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.07,
+                "systolic_bp": 103.77,
+                "timestamp": "2023-10-25T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.79,
+                "systolic_bp": 109.42,
+                "timestamp": "2023-10-25T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.87,
+                "systolic_bp": 104.08,
+                "timestamp": "2023-10-25T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.78,
+                "systolic_bp": 107.84,
+                "timestamp": "2023-10-25T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.46,
+                "systolic_bp": 95.06,
+                "timestamp": "2023-10-25T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.81,
+                "systolic_bp": 105.5,
+                "timestamp": "2023-10-25T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.6,
+                "systolic_bp": 117.09,
+                "timestamp": "2023-10-25T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.62,
+                "systolic_bp": 114.71,
+                "timestamp": "2023-10-25T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.51,
+                "systolic_bp": 99.28,
+                "timestamp": "2023-10-26T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.53,
+                "systolic_bp": 115.33,
+                "timestamp": "2023-10-26T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.49,
+                "systolic_bp": 116.7,
+                "timestamp": "2023-10-26T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.4,
+                "systolic_bp": 106.65,
+                "timestamp": "2023-10-26T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.15,
+                "systolic_bp": 91.68,
+                "timestamp": "2023-10-26T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.99,
+                "systolic_bp": 94.91,
+                "timestamp": "2023-10-26T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.57,
+                "systolic_bp": 95.53,
+                "timestamp": "2023-10-26T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.77,
+                "systolic_bp": 95.76,
+                "timestamp": "2023-10-26T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.16,
+                "systolic_bp": 101.72,
+                "timestamp": "2023-10-26T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.33,
+                "systolic_bp": 117.88,
+                "timestamp": "2023-10-26T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.86,
+                "systolic_bp": 118.49,
+                "timestamp": "2023-10-26T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.52,
+                "systolic_bp": 95.57,
+                "timestamp": "2023-10-26T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.05,
+                "systolic_bp": 105.78,
+                "timestamp": "2023-10-26T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.34,
+                "systolic_bp": 96.87,
+                "timestamp": "2023-10-26T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.67,
+                "systolic_bp": 99.66,
+                "timestamp": "2023-10-26T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.42,
+                "systolic_bp": 94.87,
+                "timestamp": "2023-10-26T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.18,
+                "systolic_bp": 108.2,
+                "timestamp": "2023-10-26T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.92,
+                "systolic_bp": 107.43,
+                "timestamp": "2023-10-26T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.98,
+                "systolic_bp": 106.26,
+                "timestamp": "2023-10-26T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.96,
+                "systolic_bp": 113.31,
+                "timestamp": "2023-10-26T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.64,
+                "systolic_bp": 110.24,
+                "timestamp": "2023-10-26T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.11,
+                "systolic_bp": 107.19,
+                "timestamp": "2023-10-26T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.78,
+                "systolic_bp": 116.12,
+                "timestamp": "2023-10-26T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.85,
+                "systolic_bp": 95.5,
+                "timestamp": "2023-10-26T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.76,
+                "systolic_bp": 99.6,
+                "timestamp": "2023-10-27T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.34,
+                "systolic_bp": 90.63,
+                "timestamp": "2023-10-27T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.75,
+                "systolic_bp": 103.11,
+                "timestamp": "2023-10-27T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.33,
+                "systolic_bp": 101.9,
+                "timestamp": "2023-10-27T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.51,
+                "systolic_bp": 98.57,
+                "timestamp": "2023-10-27T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.38,
+                "systolic_bp": 116.12,
+                "timestamp": "2023-10-27T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.41,
+                "systolic_bp": 114.03,
+                "timestamp": "2023-10-27T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.43,
+                "systolic_bp": 101.46,
+                "timestamp": "2023-10-27T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.28,
+                "systolic_bp": 91.54,
+                "timestamp": "2023-10-27T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.6,
+                "systolic_bp": 112.49,
+                "timestamp": "2023-10-27T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.76,
+                "systolic_bp": 109.04,
+                "timestamp": "2023-10-27T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.26,
+                "systolic_bp": 112.41,
+                "timestamp": "2023-10-27T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.19,
+                "systolic_bp": 107.36,
+                "timestamp": "2023-10-27T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.67,
+                "systolic_bp": 97.12,
+                "timestamp": "2023-10-27T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.79,
+                "systolic_bp": 102.85,
+                "timestamp": "2023-10-27T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.02,
+                "systolic_bp": 99.63,
+                "timestamp": "2023-10-27T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.11,
+                "systolic_bp": 95.07,
+                "timestamp": "2023-10-27T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.54,
+                "systolic_bp": 117.6,
+                "timestamp": "2023-10-27T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.49,
+                "systolic_bp": 92.24,
+                "timestamp": "2023-10-27T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.15,
+                "systolic_bp": 104.06,
+                "timestamp": "2023-10-27T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.86,
+                "systolic_bp": 114.15,
+                "timestamp": "2023-10-27T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.45,
+                "systolic_bp": 116.91,
+                "timestamp": "2023-10-27T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.3,
+                "systolic_bp": 92.28,
+                "timestamp": "2023-10-27T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.27,
+                "systolic_bp": 109.3,
+                "timestamp": "2023-10-27T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.64,
+                "systolic_bp": 105.8,
+                "timestamp": "2023-10-28T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.41,
+                "systolic_bp": 103.86,
+                "timestamp": "2023-10-28T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.45,
+                "systolic_bp": 108.31,
+                "timestamp": "2023-10-28T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.24,
+                "systolic_bp": 105.68,
+                "timestamp": "2023-10-28T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.32,
+                "systolic_bp": 100.99,
+                "timestamp": "2023-10-28T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.5,
+                "systolic_bp": 117.37,
+                "timestamp": "2023-10-28T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.01,
+                "systolic_bp": 114.61,
+                "timestamp": "2023-10-28T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.58,
+                "systolic_bp": 93.78,
+                "timestamp": "2023-10-28T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.8,
+                "systolic_bp": 104.77,
+                "timestamp": "2023-10-28T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.99,
+                "systolic_bp": 94.52,
+                "timestamp": "2023-10-28T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.36,
+                "systolic_bp": 100.13,
+                "timestamp": "2023-10-28T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.36,
+                "systolic_bp": 93.58,
+                "timestamp": "2023-10-28T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.39,
+                "systolic_bp": 94.35,
+                "timestamp": "2023-10-28T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.33,
+                "systolic_bp": 107.51,
+                "timestamp": "2023-10-28T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.85,
+                "systolic_bp": 110.61,
+                "timestamp": "2023-10-28T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.64,
+                "systolic_bp": 92.23,
+                "timestamp": "2023-10-28T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.97,
+                "systolic_bp": 92.75,
+                "timestamp": "2023-10-28T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.67,
+                "systolic_bp": 110.78,
+                "timestamp": "2023-10-28T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.3,
+                "systolic_bp": 109.94,
+                "timestamp": "2023-10-28T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.21,
+                "systolic_bp": 114.25,
+                "timestamp": "2023-10-28T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.53,
+                "systolic_bp": 100.03,
+                "timestamp": "2023-10-28T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.85,
+                "systolic_bp": 104.76,
+                "timestamp": "2023-10-28T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.93,
+                "systolic_bp": 105.61,
+                "timestamp": "2023-10-28T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.25,
+                "systolic_bp": 105.59,
+                "timestamp": "2023-10-28T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.02,
+                "systolic_bp": 98.25,
+                "timestamp": "2023-10-29T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.37,
+                "systolic_bp": 118.51,
+                "timestamp": "2023-10-29T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.29,
+                "systolic_bp": 103.49,
+                "timestamp": "2023-10-29T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.27,
+                "systolic_bp": 120.0,
+                "timestamp": "2023-10-29T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.07,
+                "systolic_bp": 107.34,
+                "timestamp": "2023-10-29T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.04,
+                "systolic_bp": 95.06,
+                "timestamp": "2023-10-29T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.81,
+                "systolic_bp": 98.64,
+                "timestamp": "2023-10-29T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.99,
+                "systolic_bp": 101.66,
+                "timestamp": "2023-10-29T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.51,
+                "systolic_bp": 117.39,
+                "timestamp": "2023-10-29T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.8,
+                "systolic_bp": 99.38,
+                "timestamp": "2023-10-29T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.18,
+                "systolic_bp": 99.47,
+                "timestamp": "2023-10-29T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.37,
+                "systolic_bp": 118.12,
+                "timestamp": "2023-10-29T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.18,
+                "systolic_bp": 90.55,
+                "timestamp": "2023-10-29T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.89,
+                "systolic_bp": 91.69,
+                "timestamp": "2023-10-29T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.25,
+                "systolic_bp": 94.37,
+                "timestamp": "2023-10-29T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.66,
+                "systolic_bp": 95.0,
+                "timestamp": "2023-10-29T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.38,
+                "systolic_bp": 105.96,
+                "timestamp": "2023-10-29T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.3,
+                "systolic_bp": 108.04,
+                "timestamp": "2023-10-29T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.7,
+                "systolic_bp": 100.53,
+                "timestamp": "2023-10-29T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.56,
+                "systolic_bp": 110.77,
+                "timestamp": "2023-10-29T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.74,
+                "systolic_bp": 110.72,
+                "timestamp": "2023-10-29T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.66,
+                "systolic_bp": 93.29,
+                "timestamp": "2023-10-29T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.93,
+                "systolic_bp": 99.25,
+                "timestamp": "2023-10-29T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.01,
+                "systolic_bp": 105.63,
+                "timestamp": "2023-10-29T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.67,
+                "systolic_bp": 115.3,
+                "timestamp": "2023-10-30T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.99,
+                "systolic_bp": 95.76,
+                "timestamp": "2023-10-30T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.18,
+                "systolic_bp": 108.52,
+                "timestamp": "2023-10-30T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.52,
+                "systolic_bp": 97.92,
+                "timestamp": "2023-10-30T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.29,
+                "systolic_bp": 109.7,
+                "timestamp": "2023-10-30T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.84,
+                "systolic_bp": 119.55,
+                "timestamp": "2023-10-30T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.68,
+                "systolic_bp": 114.68,
+                "timestamp": "2023-10-30T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.45,
+                "systolic_bp": 99.74,
+                "timestamp": "2023-10-30T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.82,
+                "systolic_bp": 91.15,
+                "timestamp": "2023-10-30T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.03,
+                "systolic_bp": 117.54,
+                "timestamp": "2023-10-30T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.79,
+                "systolic_bp": 110.38,
+                "timestamp": "2023-10-30T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.85,
+                "systolic_bp": 118.42,
+                "timestamp": "2023-10-30T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.54,
+                "systolic_bp": 104.36,
+                "timestamp": "2023-10-30T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.88,
+                "systolic_bp": 102.66,
+                "timestamp": "2023-10-30T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.0,
+                "systolic_bp": 114.22,
+                "timestamp": "2023-10-30T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.98,
+                "systolic_bp": 92.05,
+                "timestamp": "2023-10-30T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.98,
+                "systolic_bp": 100.48,
+                "timestamp": "2023-10-30T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.71,
+                "systolic_bp": 112.09,
+                "timestamp": "2023-10-30T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.05,
+                "systolic_bp": 109.49,
+                "timestamp": "2023-10-30T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.2,
+                "systolic_bp": 119.99,
+                "timestamp": "2023-10-30T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.52,
+                "systolic_bp": 107.53,
+                "timestamp": "2023-10-30T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.51,
+                "systolic_bp": 98.58,
+                "timestamp": "2023-10-30T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.74,
+                "systolic_bp": 113.55,
+                "timestamp": "2023-10-30T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.13,
+                "systolic_bp": 101.75,
+                "timestamp": "2023-10-30T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.08,
+                "systolic_bp": 94.73,
+                "timestamp": "2023-10-31T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.13,
+                "systolic_bp": 94.69,
+                "timestamp": "2023-10-31T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.68,
+                "systolic_bp": 115.22,
+                "timestamp": "2023-10-31T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.07,
+                "systolic_bp": 117.84,
+                "timestamp": "2023-10-31T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.28,
+                "systolic_bp": 109.78,
+                "timestamp": "2023-10-31T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.26,
+                "systolic_bp": 99.01,
+                "timestamp": "2023-10-31T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.54,
+                "systolic_bp": 119.44,
+                "timestamp": "2023-10-31T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.29,
+                "systolic_bp": 97.72,
+                "timestamp": "2023-10-31T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.83,
+                "systolic_bp": 90.81,
+                "timestamp": "2023-10-31T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.91,
+                "systolic_bp": 118.4,
+                "timestamp": "2023-10-31T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.14,
+                "systolic_bp": 99.63,
+                "timestamp": "2023-10-31T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.65,
+                "systolic_bp": 107.68,
+                "timestamp": "2023-10-31T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.58,
+                "systolic_bp": 95.07,
+                "timestamp": "2023-10-31T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.44,
+                "systolic_bp": 105.11,
+                "timestamp": "2023-10-31T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.79,
+                "systolic_bp": 113.04,
+                "timestamp": "2023-10-31T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.09,
+                "systolic_bp": 115.7,
+                "timestamp": "2023-10-31T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.84,
+                "systolic_bp": 108.82,
+                "timestamp": "2023-10-31T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.25,
+                "systolic_bp": 103.12,
+                "timestamp": "2023-10-31T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.81,
+                "systolic_bp": 91.24,
+                "timestamp": "2023-10-31T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.04,
+                "systolic_bp": 117.36,
+                "timestamp": "2023-10-31T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.22,
+                "systolic_bp": 97.64,
+                "timestamp": "2023-10-31T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.89,
+                "systolic_bp": 111.4,
+                "timestamp": "2023-10-31T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.41,
+                "systolic_bp": 117.43,
+                "timestamp": "2023-10-31T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.85,
+                "systolic_bp": 119.36,
+                "timestamp": "2023-10-31T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.98,
+                "systolic_bp": 113.86,
+                "timestamp": "2023-10-32T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.5,
+                "systolic_bp": 115.39,
+                "timestamp": "2023-10-32T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.48,
+                "systolic_bp": 110.21,
+                "timestamp": "2023-10-32T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.38,
+                "systolic_bp": 103.02,
+                "timestamp": "2023-10-32T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.19,
+                "systolic_bp": 115.83,
+                "timestamp": "2023-10-32T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.35,
+                "systolic_bp": 115.72,
+                "timestamp": "2023-10-32T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.4,
+                "systolic_bp": 91.56,
+                "timestamp": "2023-10-32T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.56,
+                "systolic_bp": 105.72,
+                "timestamp": "2023-10-32T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.57,
+                "systolic_bp": 110.99,
+                "timestamp": "2023-10-32T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.64,
+                "systolic_bp": 112.15,
+                "timestamp": "2023-10-32T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.34,
+                "systolic_bp": 111.69,
+                "timestamp": "2023-10-32T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.51,
+                "systolic_bp": 110.12,
+                "timestamp": "2023-10-32T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.71,
+                "systolic_bp": 106.01,
+                "timestamp": "2023-10-32T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.23,
+                "systolic_bp": 107.72,
+                "timestamp": "2023-10-32T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.21,
+                "systolic_bp": 97.03,
+                "timestamp": "2023-10-32T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.57,
+                "systolic_bp": 103.4,
+                "timestamp": "2023-10-32T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.28,
+                "systolic_bp": 94.75,
+                "timestamp": "2023-10-32T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.18,
+                "systolic_bp": 94.91,
+                "timestamp": "2023-10-32T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.3,
+                "systolic_bp": 116.48,
+                "timestamp": "2023-10-32T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.09,
+                "systolic_bp": 95.86,
+                "timestamp": "2023-10-32T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.75,
+                "systolic_bp": 95.01,
+                "timestamp": "2023-10-32T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.03,
+                "systolic_bp": 105.28,
+                "timestamp": "2023-10-32T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.0,
+                "systolic_bp": 102.24,
+                "timestamp": "2023-10-32T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.04,
+                "systolic_bp": 108.3,
+                "timestamp": "2023-10-32T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.96,
+                "systolic_bp": 93.17,
+                "timestamp": "2023-10-33T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.25,
+                "systolic_bp": 117.2,
+                "timestamp": "2023-10-33T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.19,
+                "systolic_bp": 99.7,
+                "timestamp": "2023-10-33T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.51,
+                "systolic_bp": 113.68,
+                "timestamp": "2023-10-33T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.44,
+                "systolic_bp": 105.05,
+                "timestamp": "2023-10-33T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.71,
+                "systolic_bp": 95.73,
+                "timestamp": "2023-10-33T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.94,
+                "systolic_bp": 112.15,
+                "timestamp": "2023-10-33T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.92,
+                "systolic_bp": 111.95,
+                "timestamp": "2023-10-33T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.81,
+                "systolic_bp": 109.01,
+                "timestamp": "2023-10-33T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.54,
+                "systolic_bp": 114.78,
+                "timestamp": "2023-10-33T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.56,
+                "systolic_bp": 117.95,
+                "timestamp": "2023-10-33T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.33,
+                "systolic_bp": 105.29,
+                "timestamp": "2023-10-33T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.1,
+                "systolic_bp": 100.2,
+                "timestamp": "2023-10-33T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.08,
+                "systolic_bp": 119.61,
+                "timestamp": "2023-10-33T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.89,
+                "systolic_bp": 113.47,
+                "timestamp": "2023-10-33T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.95,
+                "systolic_bp": 119.41,
+                "timestamp": "2023-10-33T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.48,
+                "systolic_bp": 109.4,
+                "timestamp": "2023-10-33T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.76,
+                "systolic_bp": 111.29,
+                "timestamp": "2023-10-33T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.09,
+                "systolic_bp": 97.63,
+                "timestamp": "2023-10-33T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.14,
+                "systolic_bp": 98.54,
+                "timestamp": "2023-10-33T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.45,
+                "systolic_bp": 93.15,
+                "timestamp": "2023-10-33T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.62,
+                "systolic_bp": 108.8,
+                "timestamp": "2023-10-33T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.94,
+                "systolic_bp": 97.94,
+                "timestamp": "2023-10-33T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.17,
+                "systolic_bp": 118.49,
+                "timestamp": "2023-10-33T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.28,
+                "systolic_bp": 118.95,
+                "timestamp": "2023-10-34T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.19,
+                "systolic_bp": 105.45,
+                "timestamp": "2023-10-34T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.57,
+                "systolic_bp": 100.95,
+                "timestamp": "2023-10-34T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.07,
+                "systolic_bp": 118.41,
+                "timestamp": "2023-10-34T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.04,
+                "systolic_bp": 97.04,
+                "timestamp": "2023-10-34T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.96,
+                "systolic_bp": 117.71,
+                "timestamp": "2023-10-34T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.18,
+                "systolic_bp": 101.61,
+                "timestamp": "2023-10-34T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.64,
+                "systolic_bp": 106.42,
+                "timestamp": "2023-10-34T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.3,
+                "systolic_bp": 103.42,
+                "timestamp": "2023-10-34T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.36,
+                "systolic_bp": 109.44,
+                "timestamp": "2023-10-34T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.59,
+                "systolic_bp": 109.08,
+                "timestamp": "2023-10-34T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.63,
+                "systolic_bp": 91.29,
+                "timestamp": "2023-10-34T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.77,
+                "systolic_bp": 101.67,
+                "timestamp": "2023-10-34T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.08,
+                "systolic_bp": 98.73,
+                "timestamp": "2023-10-34T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.17,
+                "systolic_bp": 94.73,
+                "timestamp": "2023-10-34T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.47,
+                "systolic_bp": 95.66,
+                "timestamp": "2023-10-34T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.3,
+                "systolic_bp": 102.27,
+                "timestamp": "2023-10-34T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.33,
+                "systolic_bp": 102.34,
+                "timestamp": "2023-10-34T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.47,
+                "systolic_bp": 112.0,
+                "timestamp": "2023-10-34T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.07,
+                "systolic_bp": 105.59,
+                "timestamp": "2023-10-34T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.93,
+                "systolic_bp": 109.65,
+                "timestamp": "2023-10-34T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.8,
+                "systolic_bp": 105.65,
+                "timestamp": "2023-10-34T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.12,
+                "systolic_bp": 107.33,
+                "timestamp": "2023-10-34T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.66,
+                "systolic_bp": 99.85,
+                "timestamp": "2023-10-34T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.98,
+                "systolic_bp": 91.12,
+                "timestamp": "2023-10-35T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.33,
+                "systolic_bp": 95.39,
+                "timestamp": "2023-10-35T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.43,
+                "systolic_bp": 97.75,
+                "timestamp": "2023-10-35T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.6,
+                "systolic_bp": 105.16,
+                "timestamp": "2023-10-35T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.29,
+                "systolic_bp": 107.78,
+                "timestamp": "2023-10-35T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.7,
+                "systolic_bp": 93.36,
+                "timestamp": "2023-10-35T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.96,
+                "systolic_bp": 115.1,
+                "timestamp": "2023-10-35T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.99,
+                "systolic_bp": 94.39,
+                "timestamp": "2023-10-35T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.91,
+                "systolic_bp": 110.27,
+                "timestamp": "2023-10-35T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.48,
+                "systolic_bp": 101.89,
+                "timestamp": "2023-10-35T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.8,
+                "systolic_bp": 102.51,
+                "timestamp": "2023-10-35T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.46,
+                "systolic_bp": 109.72,
+                "timestamp": "2023-10-35T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.84,
+                "systolic_bp": 107.64,
+                "timestamp": "2023-10-35T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.43,
+                "systolic_bp": 111.45,
+                "timestamp": "2023-10-35T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.41,
+                "systolic_bp": 114.83,
+                "timestamp": "2023-10-35T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.87,
+                "systolic_bp": 114.2,
+                "timestamp": "2023-10-35T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.5,
+                "systolic_bp": 108.31,
+                "timestamp": "2023-10-35T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.25,
+                "systolic_bp": 107.52,
+                "timestamp": "2023-10-35T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.13,
+                "systolic_bp": 96.67,
+                "timestamp": "2023-10-35T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.43,
+                "systolic_bp": 95.17,
+                "timestamp": "2023-10-35T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.31,
+                "systolic_bp": 116.36,
+                "timestamp": "2023-10-35T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.9,
+                "systolic_bp": 101.96,
+                "timestamp": "2023-10-35T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.43,
+                "systolic_bp": 104.04,
+                "timestamp": "2023-10-35T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.62,
+                "systolic_bp": 109.89,
+                "timestamp": "2023-10-35T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.21,
+                "systolic_bp": 105.13,
+                "timestamp": "2023-10-36T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.66,
+                "systolic_bp": 104.93,
+                "timestamp": "2023-10-36T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.4,
+                "systolic_bp": 100.56,
+                "timestamp": "2023-10-36T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.78,
+                "systolic_bp": 108.83,
+                "timestamp": "2023-10-36T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.38,
+                "systolic_bp": 104.11,
+                "timestamp": "2023-10-36T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.86,
+                "systolic_bp": 108.41,
+                "timestamp": "2023-10-36T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.84,
+                "systolic_bp": 106.1,
+                "timestamp": "2023-10-36T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.21,
+                "systolic_bp": 118.41,
+                "timestamp": "2023-10-36T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.2,
+                "systolic_bp": 110.3,
+                "timestamp": "2023-10-36T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.3,
+                "systolic_bp": 110.76,
+                "timestamp": "2023-10-36T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.67,
+                "systolic_bp": 118.37,
+                "timestamp": "2023-10-36T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.19,
+                "systolic_bp": 97.58,
+                "timestamp": "2023-10-36T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.02,
+                "systolic_bp": 116.4,
+                "timestamp": "2023-10-36T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.22,
+                "systolic_bp": 94.5,
+                "timestamp": "2023-10-36T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.54,
+                "systolic_bp": 90.64,
+                "timestamp": "2023-10-36T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.01,
+                "systolic_bp": 93.83,
+                "timestamp": "2023-10-36T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.71,
+                "systolic_bp": 106.69,
+                "timestamp": "2023-10-36T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.05,
+                "systolic_bp": 104.59,
+                "timestamp": "2023-10-36T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.0,
+                "systolic_bp": 96.72,
+                "timestamp": "2023-10-36T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.3,
+                "systolic_bp": 106.79,
+                "timestamp": "2023-10-36T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.6,
+                "systolic_bp": 108.65,
+                "timestamp": "2023-10-36T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.74,
+                "systolic_bp": 103.16,
+                "timestamp": "2023-10-36T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.2,
+                "systolic_bp": 106.09,
+                "timestamp": "2023-10-36T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.94,
+                "systolic_bp": 112.24,
+                "timestamp": "2023-10-36T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.06,
+                "systolic_bp": 100.28,
+                "timestamp": "2023-10-37T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.85,
+                "systolic_bp": 107.48,
+                "timestamp": "2023-10-37T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.64,
+                "systolic_bp": 116.54,
+                "timestamp": "2023-10-37T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.02,
+                "systolic_bp": 112.0,
+                "timestamp": "2023-10-37T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.05,
+                "systolic_bp": 114.63,
+                "timestamp": "2023-10-37T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.33,
+                "systolic_bp": 104.57,
+                "timestamp": "2023-10-37T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.12,
+                "systolic_bp": 111.33,
+                "timestamp": "2023-10-37T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.27,
+                "systolic_bp": 90.85,
+                "timestamp": "2023-10-37T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.8,
+                "systolic_bp": 111.88,
+                "timestamp": "2023-10-37T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.12,
+                "systolic_bp": 103.35,
+                "timestamp": "2023-10-37T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.5,
+                "systolic_bp": 99.6,
+                "timestamp": "2023-10-37T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.44,
+                "systolic_bp": 90.44,
+                "timestamp": "2023-10-37T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.69,
+                "systolic_bp": 109.77,
+                "timestamp": "2023-10-37T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.98,
+                "systolic_bp": 93.27,
+                "timestamp": "2023-10-37T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.05,
+                "systolic_bp": 90.51,
+                "timestamp": "2023-10-37T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.5,
+                "systolic_bp": 105.1,
+                "timestamp": "2023-10-37T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.77,
+                "systolic_bp": 107.0,
+                "timestamp": "2023-10-37T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.85,
+                "systolic_bp": 101.68,
+                "timestamp": "2023-10-37T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.33,
+                "systolic_bp": 94.74,
+                "timestamp": "2023-10-37T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.39,
+                "systolic_bp": 102.48,
+                "timestamp": "2023-10-37T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.35,
+                "systolic_bp": 116.83,
+                "timestamp": "2023-10-37T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.38,
+                "systolic_bp": 100.63,
+                "timestamp": "2023-10-37T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.47,
+                "systolic_bp": 110.8,
+                "timestamp": "2023-10-37T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.73,
+                "systolic_bp": 117.05,
+                "timestamp": "2023-10-37T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.42,
+                "systolic_bp": 111.28,
+                "timestamp": "2023-10-38T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.97,
+                "systolic_bp": 109.96,
+                "timestamp": "2023-10-38T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.79,
+                "systolic_bp": 108.65,
+                "timestamp": "2023-10-38T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.13,
+                "systolic_bp": 101.09,
+                "timestamp": "2023-10-38T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.9,
+                "systolic_bp": 115.36,
+                "timestamp": "2023-10-38T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.24,
+                "systolic_bp": 95.89,
+                "timestamp": "2023-10-38T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.31,
+                "systolic_bp": 90.44,
+                "timestamp": "2023-10-38T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.72,
+                "systolic_bp": 107.79,
+                "timestamp": "2023-10-38T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.29,
+                "systolic_bp": 114.45,
+                "timestamp": "2023-10-38T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.8,
+                "systolic_bp": 97.39,
+                "timestamp": "2023-10-38T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.58,
+                "systolic_bp": 114.0,
+                "timestamp": "2023-10-38T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.56,
+                "systolic_bp": 117.05,
+                "timestamp": "2023-10-38T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.79,
+                "systolic_bp": 112.33,
+                "timestamp": "2023-10-38T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.46,
+                "systolic_bp": 104.79,
+                "timestamp": "2023-10-38T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.49,
+                "systolic_bp": 91.99,
+                "timestamp": "2023-10-38T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.31,
+                "systolic_bp": 103.77,
+                "timestamp": "2023-10-38T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.6,
+                "systolic_bp": 105.17,
+                "timestamp": "2023-10-38T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.77,
+                "systolic_bp": 110.41,
+                "timestamp": "2023-10-38T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.18,
+                "systolic_bp": 118.12,
+                "timestamp": "2023-10-38T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.9,
+                "systolic_bp": 116.43,
+                "timestamp": "2023-10-38T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.56,
+                "systolic_bp": 106.1,
+                "timestamp": "2023-10-38T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.86,
+                "systolic_bp": 109.19,
+                "timestamp": "2023-10-38T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.89,
+                "systolic_bp": 115.69,
+                "timestamp": "2023-10-38T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.69,
+                "systolic_bp": 108.12,
+                "timestamp": "2023-10-38T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.08,
+                "systolic_bp": 100.95,
+                "timestamp": "2023-10-39T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.52,
+                "systolic_bp": 113.36,
+                "timestamp": "2023-10-39T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.58,
+                "systolic_bp": 105.01,
+                "timestamp": "2023-10-39T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.21,
+                "systolic_bp": 99.14,
+                "timestamp": "2023-10-39T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.35,
+                "systolic_bp": 114.18,
+                "timestamp": "2023-10-39T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.62,
+                "systolic_bp": 98.37,
+                "timestamp": "2023-10-39T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.89,
+                "systolic_bp": 107.69,
+                "timestamp": "2023-10-39T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.83,
+                "systolic_bp": 117.48,
+                "timestamp": "2023-10-39T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.47,
+                "systolic_bp": 111.2,
+                "timestamp": "2023-10-39T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.89,
+                "systolic_bp": 98.98,
+                "timestamp": "2023-10-39T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.19,
+                "systolic_bp": 95.34,
+                "timestamp": "2023-10-39T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.16,
+                "systolic_bp": 90.69,
+                "timestamp": "2023-10-39T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.09,
+                "systolic_bp": 91.03,
+                "timestamp": "2023-10-39T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.75,
+                "systolic_bp": 94.05,
+                "timestamp": "2023-10-39T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.39,
+                "systolic_bp": 115.59,
+                "timestamp": "2023-10-39T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.81,
+                "systolic_bp": 116.44,
+                "timestamp": "2023-10-39T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.6,
+                "systolic_bp": 104.34,
+                "timestamp": "2023-10-39T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.72,
+                "systolic_bp": 105.7,
+                "timestamp": "2023-10-39T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.65,
+                "systolic_bp": 97.39,
+                "timestamp": "2023-10-39T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.68,
+                "systolic_bp": 110.74,
+                "timestamp": "2023-10-39T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.71,
+                "systolic_bp": 96.34,
+                "timestamp": "2023-10-39T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.17,
+                "systolic_bp": 113.65,
+                "timestamp": "2023-10-39T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.46,
+                "systolic_bp": 102.43,
+                "timestamp": "2023-10-39T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.46,
+                "systolic_bp": 111.64,
+                "timestamp": "2023-10-39T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.86,
+                "systolic_bp": 112.1,
+                "timestamp": "2023-10-40T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.7,
+                "systolic_bp": 117.65,
+                "timestamp": "2023-10-40T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.6,
+                "systolic_bp": 90.4,
+                "timestamp": "2023-10-40T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.71,
+                "systolic_bp": 98.68,
+                "timestamp": "2023-10-40T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.22,
+                "systolic_bp": 112.52,
+                "timestamp": "2023-10-40T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.15,
+                "systolic_bp": 118.82,
+                "timestamp": "2023-10-40T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.09,
+                "systolic_bp": 95.51,
+                "timestamp": "2023-10-40T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.32,
+                "systolic_bp": 110.9,
+                "timestamp": "2023-10-40T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.22,
+                "systolic_bp": 113.46,
+                "timestamp": "2023-10-40T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.56,
+                "systolic_bp": 100.79,
+                "timestamp": "2023-10-40T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.37,
+                "systolic_bp": 108.22,
+                "timestamp": "2023-10-40T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.29,
+                "systolic_bp": 94.14,
+                "timestamp": "2023-10-40T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.93,
+                "systolic_bp": 116.43,
+                "timestamp": "2023-10-40T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.53,
+                "systolic_bp": 118.66,
+                "timestamp": "2023-10-40T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.11,
+                "systolic_bp": 114.45,
+                "timestamp": "2023-10-40T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.06,
+                "systolic_bp": 115.03,
+                "timestamp": "2023-10-40T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.65,
+                "systolic_bp": 112.89,
+                "timestamp": "2023-10-40T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.21,
+                "systolic_bp": 95.27,
+                "timestamp": "2023-10-40T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.12,
+                "systolic_bp": 99.22,
+                "timestamp": "2023-10-40T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.59,
+                "systolic_bp": 91.46,
+                "timestamp": "2023-10-40T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.4,
+                "systolic_bp": 102.42,
+                "timestamp": "2023-10-40T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.09,
+                "systolic_bp": 97.17,
+                "timestamp": "2023-10-40T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.43,
+                "systolic_bp": 113.58,
+                "timestamp": "2023-10-40T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.52,
+                "systolic_bp": 99.64,
+                "timestamp": "2023-10-40T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.52,
+                "systolic_bp": 102.14,
+                "timestamp": "2023-10-41T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.46,
+                "systolic_bp": 92.95,
+                "timestamp": "2023-10-41T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.23,
+                "systolic_bp": 119.84,
+                "timestamp": "2023-10-41T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.56,
+                "systolic_bp": 95.75,
+                "timestamp": "2023-10-41T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.95,
+                "systolic_bp": 119.47,
+                "timestamp": "2023-10-41T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.43,
+                "systolic_bp": 92.34,
+                "timestamp": "2023-10-41T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.63,
+                "systolic_bp": 106.41,
+                "timestamp": "2023-10-41T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.44,
+                "systolic_bp": 118.09,
+                "timestamp": "2023-10-41T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.93,
+                "systolic_bp": 116.92,
+                "timestamp": "2023-10-41T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.57,
+                "systolic_bp": 101.58,
+                "timestamp": "2023-10-41T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.01,
+                "systolic_bp": 116.59,
+                "timestamp": "2023-10-41T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.95,
+                "systolic_bp": 96.36,
+                "timestamp": "2023-10-41T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.19,
+                "systolic_bp": 116.23,
+                "timestamp": "2023-10-41T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.6,
+                "systolic_bp": 112.69,
+                "timestamp": "2023-10-41T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.28,
+                "systolic_bp": 115.24,
+                "timestamp": "2023-10-41T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.62,
+                "systolic_bp": 114.52,
+                "timestamp": "2023-10-41T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.86,
+                "systolic_bp": 110.15,
+                "timestamp": "2023-10-41T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.61,
+                "systolic_bp": 109.92,
+                "timestamp": "2023-10-41T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.28,
+                "systolic_bp": 114.97,
+                "timestamp": "2023-10-41T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.6,
+                "systolic_bp": 92.23,
+                "timestamp": "2023-10-41T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.81,
+                "systolic_bp": 101.72,
+                "timestamp": "2023-10-41T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.22,
+                "systolic_bp": 111.44,
+                "timestamp": "2023-10-41T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.57,
+                "systolic_bp": 104.7,
+                "timestamp": "2023-10-41T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.74,
+                "systolic_bp": 91.15,
+                "timestamp": "2023-10-41T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.32,
+                "systolic_bp": 108.5,
+                "timestamp": "2023-10-42T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.49,
+                "systolic_bp": 91.94,
+                "timestamp": "2023-10-42T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.88,
+                "systolic_bp": 103.54,
+                "timestamp": "2023-10-42T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.84,
+                "systolic_bp": 96.15,
+                "timestamp": "2023-10-42T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.23,
+                "systolic_bp": 108.7,
+                "timestamp": "2023-10-42T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.92,
+                "systolic_bp": 100.17,
+                "timestamp": "2023-10-42T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.66,
+                "systolic_bp": 98.63,
+                "timestamp": "2023-10-42T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.73,
+                "systolic_bp": 113.57,
+                "timestamp": "2023-10-42T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.17,
+                "systolic_bp": 119.26,
+                "timestamp": "2023-10-42T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.61,
+                "systolic_bp": 119.5,
+                "timestamp": "2023-10-42T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.57,
+                "systolic_bp": 117.81,
+                "timestamp": "2023-10-42T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.91,
+                "systolic_bp": 107.02,
+                "timestamp": "2023-10-42T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.47,
+                "systolic_bp": 99.86,
+                "timestamp": "2023-10-42T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.71,
+                "systolic_bp": 90.49,
+                "timestamp": "2023-10-42T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.02,
+                "systolic_bp": 118.3,
+                "timestamp": "2023-10-42T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.12,
+                "systolic_bp": 92.94,
+                "timestamp": "2023-10-42T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.78,
+                "systolic_bp": 95.4,
+                "timestamp": "2023-10-42T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.09,
+                "systolic_bp": 109.65,
+                "timestamp": "2023-10-42T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.97,
+                "systolic_bp": 90.82,
+                "timestamp": "2023-10-42T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.33,
+                "systolic_bp": 116.08,
+                "timestamp": "2023-10-42T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.72,
+                "systolic_bp": 119.81,
+                "timestamp": "2023-10-42T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.01,
+                "systolic_bp": 115.58,
+                "timestamp": "2023-10-42T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.09,
+                "systolic_bp": 110.39,
+                "timestamp": "2023-10-42T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.6,
+                "systolic_bp": 95.83,
+                "timestamp": "2023-10-42T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.54,
+                "systolic_bp": 94.1,
+                "timestamp": "2023-10-43T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.02,
+                "systolic_bp": 109.14,
+                "timestamp": "2023-10-43T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.19,
+                "systolic_bp": 113.49,
+                "timestamp": "2023-10-43T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.17,
+                "systolic_bp": 107.54,
+                "timestamp": "2023-10-43T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.58,
+                "systolic_bp": 92.71,
+                "timestamp": "2023-10-43T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.28,
+                "systolic_bp": 119.15,
+                "timestamp": "2023-10-43T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.31,
+                "systolic_bp": 92.45,
+                "timestamp": "2023-10-43T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.15,
+                "systolic_bp": 104.93,
+                "timestamp": "2023-10-43T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.48,
+                "systolic_bp": 115.94,
+                "timestamp": "2023-10-43T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.91,
+                "systolic_bp": 112.43,
+                "timestamp": "2023-10-43T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.38,
+                "systolic_bp": 98.51,
+                "timestamp": "2023-10-43T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.81,
+                "systolic_bp": 93.4,
+                "timestamp": "2023-10-43T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.19,
+                "systolic_bp": 112.2,
+                "timestamp": "2023-10-43T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.9,
+                "systolic_bp": 101.07,
+                "timestamp": "2023-10-43T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.88,
+                "systolic_bp": 106.77,
+                "timestamp": "2023-10-43T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.56,
+                "systolic_bp": 102.59,
+                "timestamp": "2023-10-43T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.67,
+                "systolic_bp": 107.03,
+                "timestamp": "2023-10-43T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.83,
+                "systolic_bp": 91.06,
+                "timestamp": "2023-10-43T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.66,
+                "systolic_bp": 119.16,
+                "timestamp": "2023-10-43T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.66,
+                "systolic_bp": 113.57,
+                "timestamp": "2023-10-43T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.65,
+                "systolic_bp": 114.44,
+                "timestamp": "2023-10-43T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.88,
+                "systolic_bp": 90.4,
+                "timestamp": "2023-10-43T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.66,
+                "systolic_bp": 103.7,
+                "timestamp": "2023-10-43T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.08,
+                "systolic_bp": 105.27,
+                "timestamp": "2023-10-43T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.82,
+                "systolic_bp": 119.59,
+                "timestamp": "2023-10-44T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.29,
+                "systolic_bp": 96.91,
+                "timestamp": "2023-10-44T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.4,
+                "systolic_bp": 108.76,
+                "timestamp": "2023-10-44T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.45,
+                "systolic_bp": 96.77,
+                "timestamp": "2023-10-44T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.23,
+                "systolic_bp": 90.45,
+                "timestamp": "2023-10-44T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.6,
+                "systolic_bp": 113.69,
+                "timestamp": "2023-10-44T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.91,
+                "systolic_bp": 117.74,
+                "timestamp": "2023-10-44T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.42,
+                "systolic_bp": 111.08,
+                "timestamp": "2023-10-44T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.34,
+                "systolic_bp": 103.95,
+                "timestamp": "2023-10-44T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.49,
+                "systolic_bp": 92.97,
+                "timestamp": "2023-10-44T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.78,
+                "systolic_bp": 101.94,
+                "timestamp": "2023-10-44T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.45,
+                "systolic_bp": 90.89,
+                "timestamp": "2023-10-44T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.22,
+                "systolic_bp": 105.67,
+                "timestamp": "2023-10-44T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.12,
+                "systolic_bp": 113.37,
+                "timestamp": "2023-10-44T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.89,
+                "systolic_bp": 99.19,
+                "timestamp": "2023-10-44T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.03,
+                "systolic_bp": 119.9,
+                "timestamp": "2023-10-44T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.46,
+                "systolic_bp": 110.71,
+                "timestamp": "2023-10-44T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.61,
+                "systolic_bp": 105.41,
+                "timestamp": "2023-10-44T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.6,
+                "systolic_bp": 98.48,
+                "timestamp": "2023-10-44T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.97,
+                "systolic_bp": 115.15,
+                "timestamp": "2023-10-44T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.83,
+                "systolic_bp": 97.32,
+                "timestamp": "2023-10-44T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.22,
+                "systolic_bp": 106.89,
+                "timestamp": "2023-10-44T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.38,
+                "systolic_bp": 114.52,
+                "timestamp": "2023-10-44T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.07,
+                "systolic_bp": 109.76,
+                "timestamp": "2023-10-44T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.95,
+                "systolic_bp": 103.1,
+                "timestamp": "2023-10-45T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.76,
+                "systolic_bp": 113.61,
+                "timestamp": "2023-10-45T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.49,
+                "systolic_bp": 100.16,
+                "timestamp": "2023-10-45T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.71,
+                "systolic_bp": 118.8,
+                "timestamp": "2023-10-45T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.39,
+                "systolic_bp": 95.82,
+                "timestamp": "2023-10-45T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.93,
+                "systolic_bp": 114.27,
+                "timestamp": "2023-10-45T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.69,
+                "systolic_bp": 115.97,
+                "timestamp": "2023-10-45T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.22,
+                "systolic_bp": 92.9,
+                "timestamp": "2023-10-45T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.68,
+                "systolic_bp": 110.94,
+                "timestamp": "2023-10-45T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.34,
+                "systolic_bp": 100.77,
+                "timestamp": "2023-10-45T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.08,
+                "systolic_bp": 108.87,
+                "timestamp": "2023-10-45T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.43,
+                "systolic_bp": 103.57,
+                "timestamp": "2023-10-45T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.29,
+                "systolic_bp": 94.46,
+                "timestamp": "2023-10-45T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.3,
+                "systolic_bp": 106.12,
+                "timestamp": "2023-10-45T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.2,
+                "systolic_bp": 102.15,
+                "timestamp": "2023-10-45T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.89,
+                "systolic_bp": 106.58,
+                "timestamp": "2023-10-45T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.09,
+                "systolic_bp": 94.13,
+                "timestamp": "2023-10-45T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.04,
+                "systolic_bp": 92.74,
+                "timestamp": "2023-10-45T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.41,
+                "systolic_bp": 99.97,
+                "timestamp": "2023-10-45T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.06,
+                "systolic_bp": 99.39,
+                "timestamp": "2023-10-45T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.99,
+                "systolic_bp": 109.53,
+                "timestamp": "2023-10-45T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.85,
+                "systolic_bp": 111.56,
+                "timestamp": "2023-10-45T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.93,
+                "systolic_bp": 119.48,
+                "timestamp": "2023-10-45T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.04,
+                "systolic_bp": 112.62,
+                "timestamp": "2023-10-45T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.25,
+                "systolic_bp": 96.73,
+                "timestamp": "2023-10-46T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.92,
+                "systolic_bp": 107.02,
+                "timestamp": "2023-10-46T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.05,
+                "systolic_bp": 115.34,
+                "timestamp": "2023-10-46T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.49,
+                "systolic_bp": 118.11,
+                "timestamp": "2023-10-46T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.74,
+                "systolic_bp": 115.5,
+                "timestamp": "2023-10-46T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.1,
+                "systolic_bp": 92.42,
+                "timestamp": "2023-10-46T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.12,
+                "systolic_bp": 92.93,
+                "timestamp": "2023-10-46T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.97,
+                "systolic_bp": 110.16,
+                "timestamp": "2023-10-46T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.88,
+                "systolic_bp": 102.31,
+                "timestamp": "2023-10-46T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.97,
+                "systolic_bp": 113.13,
+                "timestamp": "2023-10-46T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.51,
+                "systolic_bp": 108.56,
+                "timestamp": "2023-10-46T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.34,
+                "systolic_bp": 95.59,
+                "timestamp": "2023-10-46T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.51,
+                "systolic_bp": 119.53,
+                "timestamp": "2023-10-46T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.08,
+                "systolic_bp": 90.37,
+                "timestamp": "2023-10-46T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.25,
+                "systolic_bp": 98.04,
+                "timestamp": "2023-10-46T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.83,
+                "systolic_bp": 98.72,
+                "timestamp": "2023-10-46T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.29,
+                "systolic_bp": 106.84,
+                "timestamp": "2023-10-46T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.25,
+                "systolic_bp": 92.77,
+                "timestamp": "2023-10-46T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.82,
+                "systolic_bp": 116.96,
+                "timestamp": "2023-10-46T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.65,
+                "systolic_bp": 98.69,
+                "timestamp": "2023-10-46T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.55,
+                "systolic_bp": 92.53,
+                "timestamp": "2023-10-46T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.73,
+                "systolic_bp": 115.87,
+                "timestamp": "2023-10-46T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.3,
+                "systolic_bp": 105.49,
+                "timestamp": "2023-10-46T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.38,
+                "systolic_bp": 94.08,
+                "timestamp": "2023-10-46T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.22,
+                "systolic_bp": 119.98,
+                "timestamp": "2023-10-47T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.32,
+                "systolic_bp": 115.57,
+                "timestamp": "2023-10-47T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.15,
+                "systolic_bp": 117.79,
+                "timestamp": "2023-10-47T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.68,
+                "systolic_bp": 107.92,
+                "timestamp": "2023-10-47T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.01,
+                "systolic_bp": 117.27,
+                "timestamp": "2023-10-47T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.46,
+                "systolic_bp": 98.41,
+                "timestamp": "2023-10-47T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.07,
+                "systolic_bp": 97.95,
+                "timestamp": "2023-10-47T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.23,
+                "systolic_bp": 109.32,
+                "timestamp": "2023-10-47T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.98,
+                "systolic_bp": 104.04,
+                "timestamp": "2023-10-47T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.45,
+                "systolic_bp": 107.56,
+                "timestamp": "2023-10-47T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.28,
+                "systolic_bp": 97.83,
+                "timestamp": "2023-10-47T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.78,
+                "systolic_bp": 104.72,
+                "timestamp": "2023-10-47T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.44,
+                "systolic_bp": 114.18,
+                "timestamp": "2023-10-47T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.06,
+                "systolic_bp": 90.83,
+                "timestamp": "2023-10-47T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.18,
+                "systolic_bp": 114.5,
+                "timestamp": "2023-10-47T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.26,
+                "systolic_bp": 101.09,
+                "timestamp": "2023-10-47T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.99,
+                "systolic_bp": 101.29,
+                "timestamp": "2023-10-47T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 78.07,
+                "systolic_bp": 100.48,
+                "timestamp": "2023-10-47T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.18,
+                "systolic_bp": 119.73,
+                "timestamp": "2023-10-47T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.82,
+                "systolic_bp": 95.9,
+                "timestamp": "2023-10-47T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.33,
+                "systolic_bp": 100.36,
+                "timestamp": "2023-10-47T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.05,
+                "systolic_bp": 90.48,
+                "timestamp": "2023-10-47T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.22,
+                "systolic_bp": 112.84,
+                "timestamp": "2023-10-47T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.63,
+                "systolic_bp": 109.54,
+                "timestamp": "2023-10-47T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.91,
+                "systolic_bp": 92.66,
+                "timestamp": "2023-10-48T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.21,
+                "systolic_bp": 97.7,
+                "timestamp": "2023-10-48T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.7,
+                "systolic_bp": 116.93,
+                "timestamp": "2023-10-48T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.28,
+                "systolic_bp": 119.13,
+                "timestamp": "2023-10-48T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.84,
+                "systolic_bp": 117.85,
+                "timestamp": "2023-10-48T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.57,
+                "systolic_bp": 97.18,
+                "timestamp": "2023-10-48T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.77,
+                "systolic_bp": 100.89,
+                "timestamp": "2023-10-48T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.22,
+                "systolic_bp": 119.46,
+                "timestamp": "2023-10-48T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.49,
+                "systolic_bp": 101.21,
+                "timestamp": "2023-10-48T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.28,
+                "systolic_bp": 104.97,
+                "timestamp": "2023-10-48T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.42,
+                "systolic_bp": 101.32,
+                "timestamp": "2023-10-48T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.76,
+                "systolic_bp": 100.94,
+                "timestamp": "2023-10-48T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.09,
+                "systolic_bp": 111.07,
+                "timestamp": "2023-10-48T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.81,
+                "systolic_bp": 91.05,
+                "timestamp": "2023-10-48T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.31,
+                "systolic_bp": 95.78,
+                "timestamp": "2023-10-48T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.84,
+                "systolic_bp": 117.22,
+                "timestamp": "2023-10-48T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.21,
+                "systolic_bp": 109.94,
+                "timestamp": "2023-10-48T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.85,
+                "systolic_bp": 103.61,
+                "timestamp": "2023-10-48T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.07,
+                "systolic_bp": 92.73,
+                "timestamp": "2023-10-48T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.56,
+                "systolic_bp": 95.25,
+                "timestamp": "2023-10-48T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.43,
+                "systolic_bp": 96.44,
+                "timestamp": "2023-10-48T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.29,
+                "systolic_bp": 91.55,
+                "timestamp": "2023-10-48T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.95,
+                "systolic_bp": 103.27,
+                "timestamp": "2023-10-48T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.54,
+                "systolic_bp": 94.04,
+                "timestamp": "2023-10-48T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.65,
+                "systolic_bp": 112.04,
+                "timestamp": "2023-10-49T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.82,
+                "systolic_bp": 109.53,
+                "timestamp": "2023-10-49T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.68,
+                "systolic_bp": 117.46,
+                "timestamp": "2023-10-49T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.99,
+                "systolic_bp": 107.7,
+                "timestamp": "2023-10-49T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.85,
+                "systolic_bp": 103.9,
+                "timestamp": "2023-10-49T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.47,
+                "systolic_bp": 98.26,
+                "timestamp": "2023-10-49T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.2,
+                "systolic_bp": 107.51,
+                "timestamp": "2023-10-49T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 63.43,
+                "systolic_bp": 108.9,
+                "timestamp": "2023-10-49T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.41,
+                "systolic_bp": 93.13,
+                "timestamp": "2023-10-49T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.49,
+                "systolic_bp": 97.28,
+                "timestamp": "2023-10-49T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.85,
+                "systolic_bp": 113.52,
+                "timestamp": "2023-10-49T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.71,
+                "systolic_bp": 117.57,
+                "timestamp": "2023-10-49T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.72,
+                "systolic_bp": 93.13,
+                "timestamp": "2023-10-49T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.8,
+                "systolic_bp": 111.08,
+                "timestamp": "2023-10-49T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.28,
+                "systolic_bp": 96.82,
+                "timestamp": "2023-10-49T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.23,
+                "systolic_bp": 96.14,
+                "timestamp": "2023-10-49T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.67,
+                "systolic_bp": 107.29,
+                "timestamp": "2023-10-49T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.24,
+                "systolic_bp": 114.01,
+                "timestamp": "2023-10-49T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.45,
+                "systolic_bp": 107.2,
+                "timestamp": "2023-10-49T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.14,
+                "systolic_bp": 100.16,
+                "timestamp": "2023-10-49T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.9,
+                "systolic_bp": 113.56,
+                "timestamp": "2023-10-49T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.47,
+                "systolic_bp": 117.58,
+                "timestamp": "2023-10-49T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.77,
+                "systolic_bp": 104.67,
+                "timestamp": "2023-10-49T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 74.85,
+                "systolic_bp": 101.01,
+                "timestamp": "2023-10-49T23:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 60.13,
+                "systolic_bp": 107.37,
+                "timestamp": "2023-10-50T00:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 67.14,
+                "systolic_bp": 90.34,
+                "timestamp": "2023-10-50T01:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 65.29,
+                "systolic_bp": 99.28,
+                "timestamp": "2023-10-50T02:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 62.75,
+                "systolic_bp": 107.81,
+                "timestamp": "2023-10-50T03:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.59,
+                "systolic_bp": 107.51,
+                "timestamp": "2023-10-50T04:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 75.9,
+                "systolic_bp": 92.15,
+                "timestamp": "2023-10-50T05:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.64,
+                "systolic_bp": 104.6,
+                "timestamp": "2023-10-50T06:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 71.0,
+                "systolic_bp": 97.29,
+                "timestamp": "2023-10-50T07:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.65,
+                "systolic_bp": 100.3,
+                "timestamp": "2023-10-50T08:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 61.09,
+                "systolic_bp": 103.22,
+                "timestamp": "2023-10-50T09:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.1,
+                "systolic_bp": 107.01,
+                "timestamp": "2023-10-50T10:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 73.68,
+                "systolic_bp": 109.91,
+                "timestamp": "2023-10-50T11:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 66.85,
+                "systolic_bp": 110.9,
+                "timestamp": "2023-10-50T12:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.96,
+                "systolic_bp": 113.31,
+                "timestamp": "2023-10-50T13:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.99,
+                "systolic_bp": 94.67,
+                "timestamp": "2023-10-50T14:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 64.97,
+                "systolic_bp": 115.56,
+                "timestamp": "2023-10-50T15:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.15,
+                "systolic_bp": 90.77,
+                "timestamp": "2023-10-50T16:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 69.02,
+                "systolic_bp": 114.21,
+                "timestamp": "2023-10-50T17:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 79.22,
+                "systolic_bp": 104.6,
+                "timestamp": "2023-10-50T18:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 68.73,
+                "systolic_bp": 118.14,
+                "timestamp": "2023-10-50T19:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 76.66,
+                "systolic_bp": 114.48,
+                "timestamp": "2023-10-50T20:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 77.91,
+                "systolic_bp": 118.24,
+                "timestamp": "2023-10-50T21:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 72.52,
+                "systolic_bp": 110.83,
+                "timestamp": "2023-10-50T22:00:00.000000+00:00"
+            },
+            {
+                "diastolic_bp": 70.89,
+                "systolic_bp": 107.49,
+                "timestamp": "2023-10-50T23:00:00.000000+00:00"
+            }
+        ],
+        "daily_avg_systolic": [
+            103.46,
+            104.58,
+            103.45,
+            105.56,
+            105.44,
+            104.62,
+            104.14,
+            103.83,
+            103.46,
+            107.31,
+            106.68,
+            105.97,
+            107.65,
+            104.8,
+            104.69,
+            105.57,
+            104.7,
+            107.73,
+            104.66,
+            106.23,
+            107.22,
+            105.83,
+            105.04,
+            105.88,
+            105.31,
+            104.07,
+            106.23,
+            103.01,
+            106.23,
+            105.83
+        ],
+        "daily_avg_diastolic": [
+            68.34,
+            71.67,
+            68.41,
+            69.47,
+            70.19,
+            72.88,
+            69.36,
+            69.48,
+            67.96,
+            71.31,
+            70.17,
+            70.22,
+            69.62,
+            69.08,
+            68.09,
+            72.21,
+            67.07,
+            68.97,
+            69.89,
+            71.41,
+            69.92,
+            72.26,
+            68.6,
+            70.82,
+            68.61,
+            69.92,
+            71.37,
+            68.72,
+            70.38,
+            69.62
+        ]
+    }
+}

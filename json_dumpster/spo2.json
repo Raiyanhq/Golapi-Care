@@ -1,0 +1,36 @@
+"oxygen_data": {
+    "saturation_samples": [
+        {
+            "type": 0,
+            "percentage": 97,
+            "timestamp": "2023-10-21T12:23:15.737674+00:00"
+        }
+    ],
+    "vo2_samples": [
+        {
+            "vo2max_ml_per_min_per_kg": 83.6098650454124,
+            "timestamp": "2023-10-21T12:23:15.737674+00:00"
+        },
+        {
+            "vo2max_ml_per_min_per_kg": 54.41573219118044,
+            "timestamp": "2023-10-21T12:31:15.737674+00:00"
+        },
+        {
+            "vo2max_ml_per_min_per_kg": 86.79534873221668,
+            "timestamp": "2023-10-21T12:39:15.737674+00:00"
+        },
+        {
+            "vo2max_ml_per_min_per_kg": 82.09815808226162,
+            "timestamp": "2023-10-21T12:47:15.737674+00:00"
+        },
+        {
+            "vo2max_ml_per_min_per_kg": 88.56992853456242,
+            "timestamp": "2023-10-21T12:55:15.737674+00:00"
+        },
+        {
+            "vo2max_ml_per_min_per_kg": 52.38919259983284,
+            "timestamp": "2023-10-21T13:03:15.737674+00:00"
+        }
+    ],
+    "vo2max_ml_per_min_per_kg": 76.41995128039545,
+    "avg_saturation_percentage": 97

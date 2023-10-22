@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "metadata": {
+                "start_time": "2023-10-21T12:18:21.165088+00:00",
+                "end_time": "2023-10-21T13:44:21.165088+00:00"
+            },
+            "menstruation_data": {
+                "predicted_cycle_length_days": null,
+                "cycle_length_days": null,
+                "menstruation_flow": [],
+                "is_predicted_cycle": null,
+                "fertility_window_end": null,
+                "period_start_date": "2023-10-21T12:18:21.165088+00:00",
+                "fertility_window_start": null,
+                "length_of_current_phase_days": null,
+                "period_length_days": null,
+                "last_updated_time": null,
+                "day_in_cycle": null,
+                "days_until_next_phase": null,
+                "ovulation_day": null,
+                "intervals": [],
+                "current_phase": null
+            }
+        }
+    ],
+    "user": {
+        "provider": "APPLE",
+        "scopes": null,
+        "user_id": "ff58d34d-dfe0-47f3-b166-b9641a95e306",
+        "last_webhook_update": null,
+        "reference_id": ""
+    },
+    "type": "menstruation",
+    "version": "2022-03-16"
+}

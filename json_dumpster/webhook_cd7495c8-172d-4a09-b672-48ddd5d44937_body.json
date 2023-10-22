@@ -1,0 +1,2277 @@
+{
+    "user": {
+        "reference_id": "",
+        "provider": "APPLE",
+        "user_id": "cd7495c8-172d-4a09-b672-48ddd5d44937",
+        "last_webhook_update": null,
+        "scopes": null
+    },
+    "type": "body",
+    "data": [
+        {
+            "ketone_data": {
+                "ketone_samples": []
+            },
+            "metadata": {
+                "end_time": "2023-10-21T21:23:03.073335+00:00",
+                "start_time": "2023-10-21T20:13:03.073335+00:00"
+            },
+            "device_data": {
+                "sensor_state": null,
+                "hardware_version": null,
+                "name": null,
+                "serial_number": null,
+                "manufacturer": null,
+                "software_version": null,
+                "other_devices": [],
+                "activation_timestamp": null
+            },
+            "hydration_data": {
+                "hydration_amount_samples": [],
+                "day_total_water_consumption_ml": null
+            },
+            "measurements_data": {
+                "measurements": [
+                    {
+                        "insulin_units": 1606.014533034393,
+                        "RMR": 1506,
+                        "BMI": 19.926237111180843,
+                        "bodyfat_percentage": 64.68433989379008,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 15.250212425875178,
+                        "BMR": 1248,
+                        "estimated_fitness_age": 23,
+                        "weight_kg": 90.77034900717716,
+                        "urine_color": null,
+                        "lean_mass_g": 12.079168808472044,
+                        "skin_fold_mm": 26.69086421277209,
+                        "water_percentage": 29.631127896667596,
+                        "measurement_time": "2023-10-21T20:13:03.073335+00:00",
+                        "bone_mass_g": 15.892768753482226,
+                        "height_cm": 196.57651936911964
+                    },
+                    {
+                        "insulin_units": 383.49801103117863,
+                        "RMR": 1297,
+                        "BMI": 25.17397371611313,
+                        "bodyfat_percentage": 67.62851160253899,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 18.661361507996553,
+                        "BMR": 961,
+                        "estimated_fitness_age": 23,
+                        "weight_kg": 59.35239724505989,
+                        "urine_color": null,
+                        "lean_mass_g": 28.062014491481037,
+                        "skin_fold_mm": 78.78201806338211,
+                        "water_percentage": 65.24545338950657,
+                        "measurement_time": "2023-10-21T20:20:03.073335+00:00",
+                        "bone_mass_g": 20.0576388526219,
+                        "height_cm": 145.39583162189746
+                    },
+                    {
+                        "insulin_units": 1304.5164885982783,
+                        "RMR": 1813,
+                        "BMI": 23.08202750099374,
+                        "bodyfat_percentage": 63.68161175156841,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 20.070077804992085,
+                        "BMR": 802,
+                        "estimated_fitness_age": 41,
+                        "weight_kg": 74.91641462918324,
+                        "urine_color": null,
+                        "lean_mass_g": 44.413318553763034,
+                        "skin_fold_mm": 81.36231547277555,
+                        "water_percentage": 91.05444106916248,
+                        "measurement_time": "2023-10-21T20:27:03.073335+00:00",
+                        "bone_mass_g": 28.39580363342948,
+                        "height_cm": 181.4754366495567
+                    },
+                    {
+                        "insulin_units": 270.26393316867467,
+                        "RMR": 958,
+                        "BMI": 18.460637494497643,
+                        "bodyfat_percentage": 4.3452886223760645,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 21.186454224863162,
+                        "BMR": 1797,
+                        "estimated_fitness_age": 11,
+                        "weight_kg": 45.945287056129274,
+                        "urine_color": null,
+                        "lean_mass_g": 31.270387913628603,
+                        "skin_fold_mm": 72.49752243778036,
+                        "water_percentage": 53.74627612411913,
+                        "measurement_time": "2023-10-21T20:34:03.073335+00:00",
+                        "bone_mass_g": 29.375808582381858,
+                        "height_cm": 180.45951652828532
+                    },
+                    {
+                        "insulin_units": 1616.0033331373024,
+                        "RMR": 1556,
+                        "BMI": 36.07488071194973,
+                        "bodyfat_percentage": 1.5899042658097273,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 48.1519374463818,
+                        "BMR": 998,
+                        "estimated_fitness_age": 60,
+                        "weight_kg": 46.21372761577705,
+                        "urine_color": null,
+                        "lean_mass_g": 44.538131259224826,
+                        "skin_fold_mm": 15.888520757522295,
+                        "water_percentage": 72.5599338834916,
+                        "measurement_time": "2023-10-21T20:41:03.073335+00:00",
+                        "bone_mass_g": 15.08050633508059,
+                        "height_cm": 196.74805132382758
+                    },
+                    {
+                        "insulin_units": 1924.956024762044,
+                        "RMR": 1281,
+                        "BMI": 27.040283212177712,
+                        "bodyfat_percentage": 57.804642234789796,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 22.274047095666365,
+                        "BMR": 1750,
+                        "estimated_fitness_age": 55,
+                        "weight_kg": 69.09447843961884,
+                        "urine_color": null,
+                        "lean_mass_g": 16.32727491283557,
+                        "skin_fold_mm": 42.657714228847496,
+                        "water_percentage": 27.13041148711732,
+                        "measurement_time": "2023-10-21T20:48:03.073335+00:00",
+                        "bone_mass_g": 25.813192367272947,
+                        "height_cm": 140.4779256869996
+                    },
+                    {
+                        "insulin_units": 1780.5751204168366,
+                        "RMR": 1037,
+                        "BMI": 29.22961397463978,
+                        "bodyfat_percentage": 55.44310734175809,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 30.496276354889655,
+                        "BMR": 1516,
+                        "estimated_fitness_age": 3,
+                        "weight_kg": 58.059260853856564,
+                        "urine_color": null,
+                        "lean_mass_g": 15.351055258675963,
+                        "skin_fold_mm": 17.677510623730786,
+                        "water_percentage": 25.876357415534613,
+                        "measurement_time": "2023-10-21T20:55:03.073335+00:00",
+                        "bone_mass_g": 15.873962383342944,
+                        "height_cm": 152.52444170718374
+                    },
+                    {
+                        "insulin_units": 605.0170040808941,
+                        "RMR": 1578,
+                        "BMI": 20.063589503296008,
+                        "bodyfat_percentage": 69.13658661175756,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 14.11286153755169,
+                        "BMR": 1614,
+                        "estimated_fitness_age": 95,
+                        "weight_kg": 46.30281976082709,
+                        "urine_color": null,
+                        "lean_mass_g": 34.74460052053421,
+                        "skin_fold_mm": 81.77487751496521,
+                        "water_percentage": 68.34810257177546,
+                        "measurement_time": "2023-10-21T21:02:03.073335+00:00",
+                        "bone_mass_g": 29.4648909964745,
+                        "height_cm": 161.79983713223248
+                    },
+                    {
+                        "insulin_units": 1021.7443714778548,
+                        "RMR": 1696,
+                        "BMI": 19.20696825761909,
+                        "bodyfat_percentage": 79.04457331790353,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 11.85442586710931,
+                        "BMR": 1806,
+                        "estimated_fitness_age": 99,
+                        "weight_kg": 50.00122278390377,
+                        "urine_color": null,
+                        "lean_mass_g": 44.3811916060473,
+                        "skin_fold_mm": 88.47896726380654,
+                        "water_percentage": 93.58156383122827,
+                        "measurement_time": "2023-10-21T21:09:03.073335+00:00",
+                        "bone_mass_g": 14.468337683313253,
+                        "height_cm": 168.85068779820324
+                    },
+                    {
+                        "insulin_units": 1609.7039381609943,
+                        "RMR": 2198,
+                        "BMI": 18.935542093343802,
+                        "bodyfat_percentage": 30.25213199275423,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 13.395070555522327,
+                        "BMR": 1374,
+                        "estimated_fitness_age": 53,
+                        "weight_kg": 89.96403976631262,
+                        "urine_color": null,
+                        "lean_mass_g": 49.44993053642463,
+                        "skin_fold_mm": 87.47540134702018,
+                        "water_percentage": 35.040207003203925,
+                        "measurement_time": "2023-10-21T21:16:03.073335+00:00",
+                        "bone_mass_g": 17.57323322576991,
+                        "height_cm": 185.57916019054863
+                    },
+                    {
+                        "insulin_units": 1089.613237515703,
+                        "RMR": 1371,
+                        "BMI": 39.99381578201906,
+                        "bodyfat_percentage": 89.72344980462216,
+                        "insulin_type": "rapid-acting",
+                        "muscle_mass_g": 30.518281256425848,
+                        "BMR": 1084,
+                        "estimated_fitness_age": 32,
+                        "weight_kg": 58.008887112058815,
+                        "urine_color": null,
+                        "lean_mass_g": 24.055575250285692,
+                        "skin_fold_mm": 51.66785579148034,
+                        "water_percentage": 36.57325495468089,
+                        "measurement_time": "2023-10-21T21:23:03.073335+00:00",
+                        "bone_mass_g": 13.236311226275713,
+                        "height_cm": 167.7830196535912
+                    }
+                ]
+            },
+            "glucose_data": {
+                "blood_glucose_samples": [
+                    {
+                        "glucose_level_flag": 2,
+                        "blood_glucose_mg_per_dL": 80,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 0,
+                        "blood_glucose_mg_per_dL": 119,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 0,
+                        "blood_glucose_mg_per_dL": 124,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 1,
+                        "blood_glucose_mg_per_dL": 187,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 1,
+                        "blood_glucose_mg_per_dL": 143,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 1,
+                        "blood_glucose_mg_per_dL": 167,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 1,
+                        "blood_glucose_mg_per_dL": 167,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 2,
+                        "blood_glucose_mg_per_dL": 85,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 0,
+                        "blood_glucose_mg_per_dL": 124,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 1,
+                        "blood_glucose_mg_per_dL": 149,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                    },
+                    {
+                        "glucose_level_flag": 1,
+                        "blood_glucose_mg_per_dL": 207,
+                        "trend_arrow": 0,
+                        "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                    }
+                ],
+                "day_avg_blood_glucose_mg_per_dL": 100.62109973438798,
+                "sensor_usage": null,
+                "detailed_blood_glucose_samples": [],
+                "gmi": null,
+                "daily_patterns": [],
+                "time_in_range": null
+            },
+            "oxygen_data": {
+                "saturation_samples": [
+                    {
+                        "type": 0,
+                        "percentage": 100,
+                        "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 90,
+                        "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 95,
+                        "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 93,
+                        "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 90,
+                        "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 88,
+                        "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 99,
+                        "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 100,
+                        "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 93,
+                        "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 90,
+                        "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                    },
+                    {
+                        "type": 0,
+                        "percentage": 94,
+                        "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                    }
+                ],
+                "vo2_samples": [
+                    {
+                        "vo2max_ml_per_min_per_kg": 86.25667914291515,
+                        "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 84.4557184826682,
+                        "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 62.02790731989644,
+                        "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 64.85083526866502,
+                        "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 71.64069876768221,
+                        "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 56.77932225229979,
+                        "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 67.1271035718638,
+                        "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 82.4637177490324,
+                        "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 82.82455494878658,
+                        "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 63.11580019780013,
+                        "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                    },
+                    {
+                        "vo2max_ml_per_min_per_kg": 75.83362289520538,
+                        "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                    }
+                ],
+                "vo2max_ml_per_min_per_kg": 90.01594982690276,
+                "avg_saturation_percentage": 92
+            },
+            "blood_pressure_data": {
+                "blood_pressure_samples": [
+                    {
+                        "diastolic_bp": 62.395238584917905,
+                        "systolic_bp": 110.65530981565715,
+                        "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 68.10151905741125,
+                        "systolic_bp": 121.19377209432966,
+                        "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 82.31806828095272,
+                        "systolic_bp": 136.2905347296795,
+                        "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 71.07144467948574,
+                        "systolic_bp": 121.9919832493994,
+                        "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 94.12999924890643,
+                        "systolic_bp": 114.05482869305781,
+                        "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 76.32339332321283,
+                        "systolic_bp": 117.36099750842699,
+                        "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 79.02488053540826,
+                        "systolic_bp": 117.56361333196037,
+                        "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 64.31463548635207,
+                        "systolic_bp": 134.57541966426925,
+                        "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 80.32964996518972,
+                        "systolic_bp": 112.84376546580128,
+                        "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 85.8332329420249,
+                        "systolic_bp": 107.71082272029095,
+                        "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                    },
+                    {
+                        "diastolic_bp": 90.14463641474553,
+                        "systolic_bp": 110.66025113061386,
+                        "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                    }
+                ]
+            },
+            "temperature_data": {
+                "ambient_temperature_samples": [],
+                "skin_temperature_samples": [],
+                "body_temperature_samples": [
+                    {
+                        "temperature_celsius": 37.822152777665195,
+                        "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 35.2780666862629,
+                        "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 37.96559933544516,
+                        "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 35.72166361523227,
+                        "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 37.13483035702426,
+                        "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 36.51847084213659,
+                        "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 38.15058660005878,
+                        "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 35.79478994473542,
+                        "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 37.30059616419727,
+                        "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 36.59233014894522,
+                        "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                    },
+                    {
+                        "temperature_celsius": 36.70791747400716,
+                        "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                    }
+                ]
+            },
+            "heart_data": {
+                "afib_classification_samples": [],
+                "pulse_wave_velocity_samples": [],
+                "heart_rate_data": {
+                    "summary": {
+                        "min_hr_bpm": 129.60979848450785,
+                        "max_hr_bpm": 150.06064353476413,
+                        "avg_hrv_rmssd": null,
+                        "avg_hr_bpm": 89.09924848396955,
+                        "avg_hrv_sdnn": 76.4214462946153,
+                        "user_max_hr_bpm": null,
+                        "hr_zone_data": [],
+                        "resting_hr_bpm": null
+                    },
+                    "detailed": {
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": [
+                            {
+                                "hrv_sdnn": 69,
+                                "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 70,
+                                "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 38,
+                                "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 73,
+                                "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 55,
+                                "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 101,
+                                "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 46,
+                                "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 93,
+                                "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 60,
+                                "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 109,
+                                "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                            },
+                            {
+                                "hrv_sdnn": 99,
+                                "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                            }
+                        ],
+                        "hr_samples": [
+                            {
+                                "bpm": 103,
+                                "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 167,
+                                "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 158,
+                                "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 137,
+                                "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 92,
+                                "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 158,
+                                "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 109,
+                                "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 131,
+                                "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 87,
+                                "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 135,
+                                "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                            },
+                            {
+                                "bpm": 63,
+                                "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                            }
+                        ]
+                    }
+                },
+                "rr_interval_samples": [
+                    {
+                        "rr_interval_ms": 863.6136438689828,
+                        "timestamp": "2023-10-21T20:13:03.073335+00:00",
+                        "hr_bpm": 126
+                    },
+                    {
+                        "rr_interval_ms": 1597.3846234333994,
+                        "timestamp": "2023-10-21T20:20:03.073335+00:00",
+                        "hr_bpm": 62
+                    },
+                    {
+                        "rr_interval_ms": 1486.0096235341625,
+                        "timestamp": "2023-10-21T20:27:03.073335+00:00",
+                        "hr_bpm": 66
+                    },
+                    {
+                        "rr_interval_ms": 828.6779859107519,
+                        "timestamp": "2023-10-21T20:34:03.073335+00:00",
+                        "hr_bpm": 69
+                    },
+                    {
+                        "rr_interval_ms": 744.0220365990651,
+                        "timestamp": "2023-10-21T20:41:03.073335+00:00",
+                        "hr_bpm": 145
+                    },
+                    {
+                        "rr_interval_ms": 875.8289038996827,
+                        "timestamp": "2023-10-21T20:48:03.073335+00:00",
+                        "hr_bpm": 75
+                    },
+                    {
+                        "rr_interval_ms": 1507.2613211679172,
+                        "timestamp": "2023-10-21T20:55:03.073335+00:00",
+                        "hr_bpm": 77
+                    },
+                    {
+                        "rr_interval_ms": 1851.0353341864384,
+                        "timestamp": "2023-10-21T21:02:03.073335+00:00",
+                        "hr_bpm": 79
+                    },
+                    {
+                        "rr_interval_ms": 1463.983746182038,
+                        "timestamp": "2023-10-21T21:09:03.073335+00:00",
+                        "hr_bpm": 146
+                    },
+                    {
+                        "rr_interval_ms": 850.3844582342103,
+                        "timestamp": "2023-10-21T21:16:03.073335+00:00",
+                        "hr_bpm": 61
+                    },
+                    {
+                        "rr_interval_ms": 624.443099252142,
+                        "timestamp": "2023-10-21T21:23:03.073335+00:00",
+                        "hr_bpm": 166
+                    }
+                ],
+                "ecg_signal": [
+                    {
+                        "start_timestamp": "2023-10-21T20:13:03.073335+00:00",
+                        "afib_classfication": 0,
+                        "raw_signal": [
+                            {
+                                "potential_uV": 93.76495037838805,
+                                "timestamp": "2023-10-21T20:13:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": 92.80098504602074,
+                                "timestamp": "2023-10-21T20:13:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": 89.6326267423303,
+                                "timestamp": "2023-10-21T20:13:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 117.6947621128021,
+                                "timestamp": "2023-10-21T20:13:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": 7.8311289740858,
+                                "timestamp": "2023-10-21T20:13:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": 10.308848821373715,
+                                "timestamp": "2023-10-21T20:13:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 56.91037107681194,
+                                "timestamp": "2023-10-21T20:13:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": -80.90912876875149,
+                                "timestamp": "2023-10-21T20:13:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": -81.91206989494,
+                                "timestamp": "2023-10-21T20:13:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": 101.3522354163625,
+                                "timestamp": "2023-10-21T20:13:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": 58.44172865579921,
+                                "timestamp": "2023-10-21T20:13:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": -8.256490363680854,
+                                "timestamp": "2023-10-21T20:13:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": -47.04527353849082,
+                                "timestamp": "2023-10-21T20:13:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": -40.08164155758698,
+                                "timestamp": "2023-10-21T20:13:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": 116.76702037422834,
+                                "timestamp": "2023-10-21T20:13:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": 80.13850760450015,
+                                "timestamp": "2023-10-21T20:13:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": 109.75719556950406,
+                                "timestamp": "2023-10-21T20:13:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -125.51094610854398,
+                                "timestamp": "2023-10-21T20:13:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -107.78569941086215,
+                                "timestamp": "2023-10-21T20:13:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": 21.615977325661646,
+                                "timestamp": "2023-10-21T20:13:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -85.69907325856323,
+                                "timestamp": "2023-10-21T20:13:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": -85.83991474870342,
+                                "timestamp": "2023-10-21T20:13:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": -67.57389455205882,
+                                "timestamp": "2023-10-21T20:13:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": -50.74723938523405,
+                                "timestamp": "2023-10-21T20:13:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": 44.98195914384257,
+                                "timestamp": "2023-10-21T20:13:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": -95.35463458329062,
+                                "timestamp": "2023-10-21T20:13:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": 3.6363852657187863,
+                                "timestamp": "2023-10-21T20:13:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": 90.65399688662401,
+                                "timestamp": "2023-10-21T20:13:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": -14.050176292368604,
+                                "timestamp": "2023-10-21T20:13:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": -92.91845227106603,
+                                "timestamp": "2023-10-21T20:13:03.160335+00:00"
+                            },
+                            {
+                                "potential_uV": 65.75604007272327,
+                                "timestamp": "2023-10-21T20:13:03.163335+00:00"
+                            },
+                            {
+                                "potential_uV": 64.20784863279675,
+                                "timestamp": "2023-10-21T20:13:03.166335+00:00"
+                            },
+                            {
+                                "potential_uV": 123.6029439049714,
+                                "timestamp": "2023-10-21T20:13:03.169335+00:00"
+                            },
+                            {
+                                "potential_uV": 82.96261587921543,
+                                "timestamp": "2023-10-21T20:13:03.172335+00:00"
+                            },
+                            {
+                                "potential_uV": 113.58819354895917,
+                                "timestamp": "2023-10-21T20:13:03.175335+00:00"
+                            },
+                            {
+                                "potential_uV": 34.79270796368121,
+                                "timestamp": "2023-10-21T20:13:03.178335+00:00"
+                            },
+                            {
+                                "potential_uV": -33.90274824064696,
+                                "timestamp": "2023-10-21T20:13:03.181335+00:00"
+                            },
+                            {
+                                "potential_uV": 31.742917896187834,
+                                "timestamp": "2023-10-21T20:13:03.184335+00:00"
+                            },
+                            {
+                                "potential_uV": -9.980875033526786,
+                                "timestamp": "2023-10-21T20:13:03.187335+00:00"
+                            },
+                            {
+                                "potential_uV": 42.0075303982274,
+                                "timestamp": "2023-10-21T20:13:03.190335+00:00"
+                            },
+                            {
+                                "potential_uV": 120.96649780175699,
+                                "timestamp": "2023-10-21T20:13:03.193335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 151
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T20:20:03.073335+00:00",
+                        "afib_classfication": 2,
+                        "raw_signal": [
+                            {
+                                "potential_uV": -69.44088989274098,
+                                "timestamp": "2023-10-21T20:20:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": -49.14608464043448,
+                                "timestamp": "2023-10-21T20:20:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": 90.68469396466384,
+                                "timestamp": "2023-10-21T20:20:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": -127.90048144318442,
+                                "timestamp": "2023-10-21T20:20:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -54.98119462360745,
+                                "timestamp": "2023-10-21T20:20:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": -80.0964180970845,
+                                "timestamp": "2023-10-21T20:20:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 90.14654913315323,
+                                "timestamp": "2023-10-21T20:20:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": -52.5658152741303,
+                                "timestamp": "2023-10-21T20:20:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": -84.9100393246355,
+                                "timestamp": "2023-10-21T20:20:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": -15.822648548581554,
+                                "timestamp": "2023-10-21T20:20:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": 50.13046925732439,
+                                "timestamp": "2023-10-21T20:20:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": 54.2854149735557,
+                                "timestamp": "2023-10-21T20:20:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": -52.077863047980514,
+                                "timestamp": "2023-10-21T20:20:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": -116.20188711208141,
+                                "timestamp": "2023-10-21T20:20:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": 127.02350635096349,
+                                "timestamp": "2023-10-21T20:20:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": 121.88177723993252,
+                                "timestamp": "2023-10-21T20:20:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": 65.68748238833675,
+                                "timestamp": "2023-10-21T20:20:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -50.622296557796176,
+                                "timestamp": "2023-10-21T20:20:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -84.93093500790755,
+                                "timestamp": "2023-10-21T20:20:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": -0.37363340883368323,
+                                "timestamp": "2023-10-21T20:20:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -69.90519085242835,
+                                "timestamp": "2023-10-21T20:20:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": 43.227276473629104,
+                                "timestamp": "2023-10-21T20:20:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": -14.042047182534958,
+                                "timestamp": "2023-10-21T20:20:03.139335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 142
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T20:27:03.073335+00:00",
+                        "afib_classfication": 0,
+                        "raw_signal": [
+                            {
+                                "potential_uV": 22.83898169201788,
+                                "timestamp": "2023-10-21T20:27:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": 57.812648301477765,
+                                "timestamp": "2023-10-21T20:27:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": 111.29734524004417,
+                                "timestamp": "2023-10-21T20:27:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": -12.832562983050508,
+                                "timestamp": "2023-10-21T20:27:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -99.62032236245818,
+                                "timestamp": "2023-10-21T20:27:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": -25.139672847980165,
+                                "timestamp": "2023-10-21T20:27:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 76.89094264308056,
+                                "timestamp": "2023-10-21T20:27:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": -110.44496115370535,
+                                "timestamp": "2023-10-21T20:27:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": -13.12408170184338,
+                                "timestamp": "2023-10-21T20:27:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": -15.885723373171203,
+                                "timestamp": "2023-10-21T20:27:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": -110.61148090368312,
+                                "timestamp": "2023-10-21T20:27:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": -63.12771906892499,
+                                "timestamp": "2023-10-21T20:27:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": 63.887000413787575,
+                                "timestamp": "2023-10-21T20:27:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": -71.3118888226669,
+                                "timestamp": "2023-10-21T20:27:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": 72.00394574822488,
+                                "timestamp": "2023-10-21T20:27:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": 110.86538968498633,
+                                "timestamp": "2023-10-21T20:27:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": -52.94040039653348,
+                                "timestamp": "2023-10-21T20:27:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": 46.64803030139919,
+                                "timestamp": "2023-10-21T20:27:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -9.425952483426386,
+                                "timestamp": "2023-10-21T20:27:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": 44.628892422362384,
+                                "timestamp": "2023-10-21T20:27:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": 68.6110148771065,
+                                "timestamp": "2023-10-21T20:27:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": -98.41419715898166,
+                                "timestamp": "2023-10-21T20:27:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": 116.55624581907185,
+                                "timestamp": "2023-10-21T20:27:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": -66.87066549672858,
+                                "timestamp": "2023-10-21T20:27:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": 108.72017420796445,
+                                "timestamp": "2023-10-21T20:27:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": -122.0054394138831,
+                                "timestamp": "2023-10-21T20:27:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": 7.45392352978547,
+                                "timestamp": "2023-10-21T20:27:03.151335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 134
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T20:34:03.073335+00:00",
+                        "afib_classfication": 0,
+                        "raw_signal": [
+                            {
+                                "potential_uV": 89.75693767708415,
+                                "timestamp": "2023-10-21T20:34:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": -127.82598550234721,
+                                "timestamp": "2023-10-21T20:34:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": -49.10408876251569,
+                                "timestamp": "2023-10-21T20:34:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 79.51768112997291,
+                                "timestamp": "2023-10-21T20:34:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -36.46767049559219,
+                                "timestamp": "2023-10-21T20:34:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": 41.60232071609076,
+                                "timestamp": "2023-10-21T20:34:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 113.99140433025144,
+                                "timestamp": "2023-10-21T20:34:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": 2.209175052381596,
+                                "timestamp": "2023-10-21T20:34:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": 122.37822102557666,
+                                "timestamp": "2023-10-21T20:34:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": 75.9826201455707,
+                                "timestamp": "2023-10-21T20:34:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": -124.99621887837674,
+                                "timestamp": "2023-10-21T20:34:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": -81.58803703065976,
+                                "timestamp": "2023-10-21T20:34:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": 112.56396863875884,
+                                "timestamp": "2023-10-21T20:34:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": -86.77308985819317,
+                                "timestamp": "2023-10-21T20:34:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": -59.45041965070331,
+                                "timestamp": "2023-10-21T20:34:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": -106.9832903190742,
+                                "timestamp": "2023-10-21T20:34:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": 125.80700692076144,
+                                "timestamp": "2023-10-21T20:34:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -74.37106154992932,
+                                "timestamp": "2023-10-21T20:34:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -54.743865030370614,
+                                "timestamp": "2023-10-21T20:34:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": -0.6385263031283728,
+                                "timestamp": "2023-10-21T20:34:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -68.68504820069546,
+                                "timestamp": "2023-10-21T20:34:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": 55.996914233114495,
+                                "timestamp": "2023-10-21T20:34:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": -70.25411075187705,
+                                "timestamp": "2023-10-21T20:34:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": 27.415695193721888,
+                                "timestamp": "2023-10-21T20:34:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": -122.5334497500186,
+                                "timestamp": "2023-10-21T20:34:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": 70.12882454412787,
+                                "timestamp": "2023-10-21T20:34:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": -25.787524568950147,
+                                "timestamp": "2023-10-21T20:34:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": -87.50518944962363,
+                                "timestamp": "2023-10-21T20:34:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": -14.581791772871242,
+                                "timestamp": "2023-10-21T20:34:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": 43.23193240574332,
+                                "timestamp": "2023-10-21T20:34:03.160335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 102
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T20:41:03.073335+00:00",
+                        "afib_classfication": 0,
+                        "raw_signal": [
+                            {
+                                "potential_uV": -18.084899163311434,
+                                "timestamp": "2023-10-21T20:41:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": 42.163139575131396,
+                                "timestamp": "2023-10-21T20:41:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": -51.26239842789465,
+                                "timestamp": "2023-10-21T20:41:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 63.235656577725024,
+                                "timestamp": "2023-10-21T20:41:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": 115.64072981732801,
+                                "timestamp": "2023-10-21T20:41:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": 111.08144854673932,
+                                "timestamp": "2023-10-21T20:41:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": -92.5643164840734,
+                                "timestamp": "2023-10-21T20:41:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": 101.61923467362072,
+                                "timestamp": "2023-10-21T20:41:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": 37.77157541252518,
+                                "timestamp": "2023-10-21T20:41:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": -119.33989531199015,
+                                "timestamp": "2023-10-21T20:41:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": -36.95462738197236,
+                                "timestamp": "2023-10-21T20:41:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": 43.11353809398932,
+                                "timestamp": "2023-10-21T20:41:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": 92.85674185361961,
+                                "timestamp": "2023-10-21T20:41:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": 98.06812789966946,
+                                "timestamp": "2023-10-21T20:41:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": 49.84055685418241,
+                                "timestamp": "2023-10-21T20:41:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": -101.32905723783514,
+                                "timestamp": "2023-10-21T20:41:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": -38.46171299807264,
+                                "timestamp": "2023-10-21T20:41:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -120.36263860251225,
+                                "timestamp": "2023-10-21T20:41:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -2.4953562454751363,
+                                "timestamp": "2023-10-21T20:41:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": -14.785884989339138,
+                                "timestamp": "2023-10-21T20:41:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -2.6649584131663175,
+                                "timestamp": "2023-10-21T20:41:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": 71.54515911652149,
+                                "timestamp": "2023-10-21T20:41:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": -33.670178874604346,
+                                "timestamp": "2023-10-21T20:41:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": -102.65944209603373,
+                                "timestamp": "2023-10-21T20:41:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": -68.56135554916344,
+                                "timestamp": "2023-10-21T20:41:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": 123.33218988235487,
+                                "timestamp": "2023-10-21T20:41:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": 80.46473039197662,
+                                "timestamp": "2023-10-21T20:41:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": 8.37582824935626,
+                                "timestamp": "2023-10-21T20:41:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": 49.51233034529574,
+                                "timestamp": "2023-10-21T20:41:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": -19.67856163171109,
+                                "timestamp": "2023-10-21T20:41:03.160335+00:00"
+                            },
+                            {
+                                "potential_uV": -79.01725982759368,
+                                "timestamp": "2023-10-21T20:41:03.163335+00:00"
+                            },
+                            {
+                                "potential_uV": 3.7292319504917657,
+                                "timestamp": "2023-10-21T20:41:03.166335+00:00"
+                            },
+                            {
+                                "potential_uV": -111.64089561590467,
+                                "timestamp": "2023-10-21T20:41:03.169335+00:00"
+                            },
+                            {
+                                "potential_uV": -58.40821681300841,
+                                "timestamp": "2023-10-21T20:41:03.172335+00:00"
+                            },
+                            {
+                                "potential_uV": -108.02330894103429,
+                                "timestamp": "2023-10-21T20:41:03.175335+00:00"
+                            },
+                            {
+                                "potential_uV": -120.00755517273711,
+                                "timestamp": "2023-10-21T20:41:03.178335+00:00"
+                            },
+                            {
+                                "potential_uV": 113.9431707218101,
+                                "timestamp": "2023-10-21T20:41:03.181335+00:00"
+                            },
+                            {
+                                "potential_uV": -77.93801101593144,
+                                "timestamp": "2023-10-21T20:41:03.184335+00:00"
+                            },
+                            {
+                                "potential_uV": -86.96125436591439,
+                                "timestamp": "2023-10-21T20:41:03.187335+00:00"
+                            },
+                            {
+                                "potential_uV": -52.3913840383083,
+                                "timestamp": "2023-10-21T20:41:03.190335+00:00"
+                            },
+                            {
+                                "potential_uV": -43.565095386864414,
+                                "timestamp": "2023-10-21T20:41:03.193335+00:00"
+                            },
+                            {
+                                "potential_uV": -8.127523640798586,
+                                "timestamp": "2023-10-21T20:41:03.196335+00:00"
+                            },
+                            {
+                                "potential_uV": -2.269794752631867,
+                                "timestamp": "2023-10-21T20:41:03.199335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 108
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T20:48:03.073335+00:00",
+                        "afib_classfication": 1,
+                        "raw_signal": [
+                            {
+                                "potential_uV": -89.51007570495705,
+                                "timestamp": "2023-10-21T20:48:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": 39.860601148415554,
+                                "timestamp": "2023-10-21T20:48:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": -45.069131853860284,
+                                "timestamp": "2023-10-21T20:48:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 120.73832576528986,
+                                "timestamp": "2023-10-21T20:48:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -64.08399099705977,
+                                "timestamp": "2023-10-21T20:48:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": -64.2855155456979,
+                                "timestamp": "2023-10-21T20:48:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 72.82432970437242,
+                                "timestamp": "2023-10-21T20:48:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": 10.626608778407729,
+                                "timestamp": "2023-10-21T20:48:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": -88.913255161981,
+                                "timestamp": "2023-10-21T20:48:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": -31.650480692017993,
+                                "timestamp": "2023-10-21T20:48:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": 17.326619109042042,
+                                "timestamp": "2023-10-21T20:48:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": 46.38355489525344,
+                                "timestamp": "2023-10-21T20:48:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": 94.15241300447192,
+                                "timestamp": "2023-10-21T20:48:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": 45.80167143013196,
+                                "timestamp": "2023-10-21T20:48:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": -9.914255448842141,
+                                "timestamp": "2023-10-21T20:48:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": -24.660879062427398,
+                                "timestamp": "2023-10-21T20:48:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": 112.7435055448185,
+                                "timestamp": "2023-10-21T20:48:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -77.38837377716939,
+                                "timestamp": "2023-10-21T20:48:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": 79.7897346541844,
+                                "timestamp": "2023-10-21T20:48:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": 16.213096590511952,
+                                "timestamp": "2023-10-21T20:48:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -59.65595887671941,
+                                "timestamp": "2023-10-21T20:48:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": 126.76249174825318,
+                                "timestamp": "2023-10-21T20:48:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": 101.21635228056314,
+                                "timestamp": "2023-10-21T20:48:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": 75.74950678406924,
+                                "timestamp": "2023-10-21T20:48:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": -83.77204674675386,
+                                "timestamp": "2023-10-21T20:48:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": -83.56309868158414,
+                                "timestamp": "2023-10-21T20:48:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": -18.682807116767066,
+                                "timestamp": "2023-10-21T20:48:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": 22.294936529357557,
+                                "timestamp": "2023-10-21T20:48:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": 27.040133066753725,
+                                "timestamp": "2023-10-21T20:48:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": 90.58439140895496,
+                                "timestamp": "2023-10-21T20:48:03.160335+00:00"
+                            },
+                            {
+                                "potential_uV": 11.065696672865016,
+                                "timestamp": "2023-10-21T20:48:03.163335+00:00"
+                            },
+                            {
+                                "potential_uV": -11.52489073807422,
+                                "timestamp": "2023-10-21T20:48:03.166335+00:00"
+                            },
+                            {
+                                "potential_uV": -89.65636930484521,
+                                "timestamp": "2023-10-21T20:48:03.169335+00:00"
+                            },
+                            {
+                                "potential_uV": 101.06507227218944,
+                                "timestamp": "2023-10-21T20:48:03.172335+00:00"
+                            },
+                            {
+                                "potential_uV": 93.40713938185647,
+                                "timestamp": "2023-10-21T20:48:03.175335+00:00"
+                            },
+                            {
+                                "potential_uV": -39.71975233104067,
+                                "timestamp": "2023-10-21T20:48:03.178335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 115
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T20:55:03.073335+00:00",
+                        "afib_classfication": 0,
+                        "raw_signal": [
+                            {
+                                "potential_uV": 115.70452189307085,
+                                "timestamp": "2023-10-21T20:55:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": -124.15909250964955,
+                                "timestamp": "2023-10-21T20:55:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": -113.31701475795302,
+                                "timestamp": "2023-10-21T20:55:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 89.37447643500747,
+                                "timestamp": "2023-10-21T20:55:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": 53.36911946101131,
+                                "timestamp": "2023-10-21T20:55:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": 50.87923581060372,
+                                "timestamp": "2023-10-21T20:55:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": -112.26896919870475,
+                                "timestamp": "2023-10-21T20:55:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": 29.34793073764581,
+                                "timestamp": "2023-10-21T20:55:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": 17.941279402768316,
+                                "timestamp": "2023-10-21T20:55:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": 25.352157641811118,
+                                "timestamp": "2023-10-21T20:55:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": 18.991349166946037,
+                                "timestamp": "2023-10-21T20:55:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": -22.345532009520895,
+                                "timestamp": "2023-10-21T20:55:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": 5.751235242118128,
+                                "timestamp": "2023-10-21T20:55:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": 81.09462405197675,
+                                "timestamp": "2023-10-21T20:55:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": 101.26464353392174,
+                                "timestamp": "2023-10-21T20:55:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": -22.035981786954522,
+                                "timestamp": "2023-10-21T20:55:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": -4.549541016413002,
+                                "timestamp": "2023-10-21T20:55:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": 99.02101161515711,
+                                "timestamp": "2023-10-21T20:55:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": 120.52037826450268,
+                                "timestamp": "2023-10-21T20:55:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": -35.44140272303255,
+                                "timestamp": "2023-10-21T20:55:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -78.72941920520591,
+                                "timestamp": "2023-10-21T20:55:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": -126.49046542836163,
+                                "timestamp": "2023-10-21T20:55:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": 58.78619788550773,
+                                "timestamp": "2023-10-21T20:55:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": 33.60728822401501,
+                                "timestamp": "2023-10-21T20:55:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": -64.56136342469986,
+                                "timestamp": "2023-10-21T20:55:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": -52.12884036456043,
+                                "timestamp": "2023-10-21T20:55:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": 50.70979675012779,
+                                "timestamp": "2023-10-21T20:55:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": -22.98083808950841,
+                                "timestamp": "2023-10-21T20:55:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": -23.0926998391287,
+                                "timestamp": "2023-10-21T20:55:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": -77.96711908484937,
+                                "timestamp": "2023-10-21T20:55:03.160335+00:00"
+                            },
+                            {
+                                "potential_uV": 64.00856607461245,
+                                "timestamp": "2023-10-21T20:55:03.163335+00:00"
+                            },
+                            {
+                                "potential_uV": -22.208996981630406,
+                                "timestamp": "2023-10-21T20:55:03.166335+00:00"
+                            },
+                            {
+                                "potential_uV": -90.7765475499335,
+                                "timestamp": "2023-10-21T20:55:03.169335+00:00"
+                            },
+                            {
+                                "potential_uV": -112.17128166809073,
+                                "timestamp": "2023-10-21T20:55:03.172335+00:00"
+                            },
+                            {
+                                "potential_uV": 95.53603124093831,
+                                "timestamp": "2023-10-21T20:55:03.175335+00:00"
+                            },
+                            {
+                                "potential_uV": -47.699021940860746,
+                                "timestamp": "2023-10-21T20:55:03.178335+00:00"
+                            },
+                            {
+                                "potential_uV": -92.9793621754626,
+                                "timestamp": "2023-10-21T20:55:03.181335+00:00"
+                            },
+                            {
+                                "potential_uV": 112.86426293937168,
+                                "timestamp": "2023-10-21T20:55:03.184335+00:00"
+                            },
+                            {
+                                "potential_uV": -69.95526014750436,
+                                "timestamp": "2023-10-21T20:55:03.187335+00:00"
+                            },
+                            {
+                                "potential_uV": 80.24031231260031,
+                                "timestamp": "2023-10-21T20:55:03.190335+00:00"
+                            },
+                            {
+                                "potential_uV": -110.2828271523762,
+                                "timestamp": "2023-10-21T20:55:03.193335+00:00"
+                            },
+                            {
+                                "potential_uV": -45.31028715317703,
+                                "timestamp": "2023-10-21T20:55:03.196335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 67
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T21:02:03.073335+00:00",
+                        "afib_classfication": 0,
+                        "raw_signal": [
+                            {
+                                "potential_uV": 81.16478307459394,
+                                "timestamp": "2023-10-21T21:02:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": 30.178431329324184,
+                                "timestamp": "2023-10-21T21:02:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": -64.75479033563593,
+                                "timestamp": "2023-10-21T21:02:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 23.18976596516285,
+                                "timestamp": "2023-10-21T21:02:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -78.03171895301188,
+                                "timestamp": "2023-10-21T21:02:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": -73.3965793107829,
+                                "timestamp": "2023-10-21T21:02:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 5.786468785671815,
+                                "timestamp": "2023-10-21T21:02:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": 60.23884351368855,
+                                "timestamp": "2023-10-21T21:02:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": -10.637587945602746,
+                                "timestamp": "2023-10-21T21:02:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": 37.56330458140843,
+                                "timestamp": "2023-10-21T21:02:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": -125.57207619082041,
+                                "timestamp": "2023-10-21T21:02:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": -105.07315223038447,
+                                "timestamp": "2023-10-21T21:02:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": -45.93136750205173,
+                                "timestamp": "2023-10-21T21:02:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": 127.86545550537494,
+                                "timestamp": "2023-10-21T21:02:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": 88.15566616248293,
+                                "timestamp": "2023-10-21T21:02:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": 18.698294033555385,
+                                "timestamp": "2023-10-21T21:02:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": 98.87088245765577,
+                                "timestamp": "2023-10-21T21:02:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -90.55241954344413,
+                                "timestamp": "2023-10-21T21:02:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -111.13880548318582,
+                                "timestamp": "2023-10-21T21:02:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": 77.90592892611977,
+                                "timestamp": "2023-10-21T21:02:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": 15.196886112811796,
+                                "timestamp": "2023-10-21T21:02:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": -17.62666374234678,
+                                "timestamp": "2023-10-21T21:02:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": 7.397222410906181,
+                                "timestamp": "2023-10-21T21:02:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": 22.972390044222863,
+                                "timestamp": "2023-10-21T21:02:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": 19.804533607202814,
+                                "timestamp": "2023-10-21T21:02:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": 86.13808877068956,
+                                "timestamp": "2023-10-21T21:02:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": 84.53180965251127,
+                                "timestamp": "2023-10-21T21:02:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": -28.660949395527894,
+                                "timestamp": "2023-10-21T21:02:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": -60.872732757819136,
+                                "timestamp": "2023-10-21T21:02:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": -24.21168612550764,
+                                "timestamp": "2023-10-21T21:02:03.160335+00:00"
+                            },
+                            {
+                                "potential_uV": 54.57086857627837,
+                                "timestamp": "2023-10-21T21:02:03.163335+00:00"
+                            },
+                            {
+                                "potential_uV": 29.389094123501252,
+                                "timestamp": "2023-10-21T21:02:03.166335+00:00"
+                            },
+                            {
+                                "potential_uV": 32.92611401042686,
+                                "timestamp": "2023-10-21T21:02:03.169335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 143
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T21:09:03.073335+00:00",
+                        "afib_classfication": 1,
+                        "raw_signal": [
+                            {
+                                "potential_uV": 60.421556180836404,
+                                "timestamp": "2023-10-21T21:09:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": -46.84187131256448,
+                                "timestamp": "2023-10-21T21:09:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": 99.80552793402688,
+                                "timestamp": "2023-10-21T21:09:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 30.67671238436762,
+                                "timestamp": "2023-10-21T21:09:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -43.946821034709075,
+                                "timestamp": "2023-10-21T21:09:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": 17.926533974017474,
+                                "timestamp": "2023-10-21T21:09:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 107.07135488929981,
+                                "timestamp": "2023-10-21T21:09:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": 86.01466468942144,
+                                "timestamp": "2023-10-21T21:09:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": 88.92337528152157,
+                                "timestamp": "2023-10-21T21:09:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": 47.88045622389558,
+                                "timestamp": "2023-10-21T21:09:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": -36.37938298863065,
+                                "timestamp": "2023-10-21T21:09:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": -21.141827310121386,
+                                "timestamp": "2023-10-21T21:09:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": -5.307772376911458,
+                                "timestamp": "2023-10-21T21:09:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": 61.68479132809881,
+                                "timestamp": "2023-10-21T21:09:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": -102.04907521514286,
+                                "timestamp": "2023-10-21T21:09:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": 31.995981577967854,
+                                "timestamp": "2023-10-21T21:09:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": 66.07282432730418,
+                                "timestamp": "2023-10-21T21:09:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -38.5762291516798,
+                                "timestamp": "2023-10-21T21:09:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -28.522327637154063,
+                                "timestamp": "2023-10-21T21:09:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": -84.65754406470165,
+                                "timestamp": "2023-10-21T21:09:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -36.22018241137988,
+                                "timestamp": "2023-10-21T21:09:03.133335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 179
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T21:16:03.073335+00:00",
+                        "afib_classfication": 2,
+                        "raw_signal": [
+                            {
+                                "potential_uV": 123.57933194822408,
+                                "timestamp": "2023-10-21T21:16:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": -53.93301148935336,
+                                "timestamp": "2023-10-21T21:16:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": 54.699190302905066,
+                                "timestamp": "2023-10-21T21:16:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": 20.38060582787932,
+                                "timestamp": "2023-10-21T21:16:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -91.60194786339116,
+                                "timestamp": "2023-10-21T21:16:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": 121.62959515337207,
+                                "timestamp": "2023-10-21T21:16:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 125.47812565902262,
+                                "timestamp": "2023-10-21T21:16:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": 97.5913986630016,
+                                "timestamp": "2023-10-21T21:16:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": 24.37715841545449,
+                                "timestamp": "2023-10-21T21:16:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": 11.109525585078615,
+                                "timestamp": "2023-10-21T21:16:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": -3.7092567982564617,
+                                "timestamp": "2023-10-21T21:16:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": 94.15689808599328,
+                                "timestamp": "2023-10-21T21:16:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": 14.21770236757311,
+                                "timestamp": "2023-10-21T21:16:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": -87.10711464965254,
+                                "timestamp": "2023-10-21T21:16:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": -94.13537119713448,
+                                "timestamp": "2023-10-21T21:16:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": -105.19814322348722,
+                                "timestamp": "2023-10-21T21:16:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": -113.29855010291698,
+                                "timestamp": "2023-10-21T21:16:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": -108.98768502596118,
+                                "timestamp": "2023-10-21T21:16:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": -7.718559044300321,
+                                "timestamp": "2023-10-21T21:16:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": 49.69539790395285,
+                                "timestamp": "2023-10-21T21:16:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": 20.10084927275068,
+                                "timestamp": "2023-10-21T21:16:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": 61.54107052008587,
+                                "timestamp": "2023-10-21T21:16:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": -23.611522647623474,
+                                "timestamp": "2023-10-21T21:16:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": -111.43766520182982,
+                                "timestamp": "2023-10-21T21:16:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": -43.21109697737168,
+                                "timestamp": "2023-10-21T21:16:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": -13.560612159177083,
+                                "timestamp": "2023-10-21T21:16:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": 102.85551228589478,
+                                "timestamp": "2023-10-21T21:16:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": -74.97394114027955,
+                                "timestamp": "2023-10-21T21:16:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": 80.90109430353706,
+                                "timestamp": "2023-10-21T21:16:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": -21.35136489071408,
+                                "timestamp": "2023-10-21T21:16:03.160335+00:00"
+                            },
+                            {
+                                "potential_uV": -27.241256759794197,
+                                "timestamp": "2023-10-21T21:16:03.163335+00:00"
+                            },
+                            {
+                                "potential_uV": 74.45287792439467,
+                                "timestamp": "2023-10-21T21:16:03.166335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 61
+                    },
+                    {
+                        "start_timestamp": "2023-10-21T21:23:03.073335+00:00",
+                        "afib_classfication": 0,
+                        "raw_signal": [
+                            {
+                                "potential_uV": -48.05874924393669,
+                                "timestamp": "2023-10-21T21:23:03.073335+00:00"
+                            },
+                            {
+                                "potential_uV": -125.24337567759983,
+                                "timestamp": "2023-10-21T21:23:03.076335+00:00"
+                            },
+                            {
+                                "potential_uV": -89.67336978718743,
+                                "timestamp": "2023-10-21T21:23:03.079335+00:00"
+                            },
+                            {
+                                "potential_uV": -81.207740858335,
+                                "timestamp": "2023-10-21T21:23:03.082335+00:00"
+                            },
+                            {
+                                "potential_uV": -3.0792743737625017,
+                                "timestamp": "2023-10-21T21:23:03.085335+00:00"
+                            },
+                            {
+                                "potential_uV": -49.53407100670634,
+                                "timestamp": "2023-10-21T21:23:03.088335+00:00"
+                            },
+                            {
+                                "potential_uV": 98.2920103665221,
+                                "timestamp": "2023-10-21T21:23:03.091335+00:00"
+                            },
+                            {
+                                "potential_uV": -81.46966960878126,
+                                "timestamp": "2023-10-21T21:23:03.094335+00:00"
+                            },
+                            {
+                                "potential_uV": -122.0277211068273,
+                                "timestamp": "2023-10-21T21:23:03.097335+00:00"
+                            },
+                            {
+                                "potential_uV": 6.143655444136442,
+                                "timestamp": "2023-10-21T21:23:03.100335+00:00"
+                            },
+                            {
+                                "potential_uV": 4.507421094395966,
+                                "timestamp": "2023-10-21T21:23:03.103335+00:00"
+                            },
+                            {
+                                "potential_uV": 73.5056800558169,
+                                "timestamp": "2023-10-21T21:23:03.106335+00:00"
+                            },
+                            {
+                                "potential_uV": -111.91940762016353,
+                                "timestamp": "2023-10-21T21:23:03.109335+00:00"
+                            },
+                            {
+                                "potential_uV": -58.70319336665409,
+                                "timestamp": "2023-10-21T21:23:03.112335+00:00"
+                            },
+                            {
+                                "potential_uV": 25.61623569709417,
+                                "timestamp": "2023-10-21T21:23:03.115335+00:00"
+                            },
+                            {
+                                "potential_uV": 74.92652621144225,
+                                "timestamp": "2023-10-21T21:23:03.118335+00:00"
+                            },
+                            {
+                                "potential_uV": 34.99150439967465,
+                                "timestamp": "2023-10-21T21:23:03.121335+00:00"
+                            },
+                            {
+                                "potential_uV": 18.39949815531,
+                                "timestamp": "2023-10-21T21:23:03.124335+00:00"
+                            },
+                            {
+                                "potential_uV": 96.32052856461374,
+                                "timestamp": "2023-10-21T21:23:03.127335+00:00"
+                            },
+                            {
+                                "potential_uV": 116.17320905601204,
+                                "timestamp": "2023-10-21T21:23:03.130335+00:00"
+                            },
+                            {
+                                "potential_uV": -73.2836834280134,
+                                "timestamp": "2023-10-21T21:23:03.133335+00:00"
+                            },
+                            {
+                                "potential_uV": -2.958287448573884,
+                                "timestamp": "2023-10-21T21:23:03.136335+00:00"
+                            },
+                            {
+                                "potential_uV": 52.75804204982512,
+                                "timestamp": "2023-10-21T21:23:03.139335+00:00"
+                            },
+                            {
+                                "potential_uV": 42.5416723742031,
+                                "timestamp": "2023-10-21T21:23:03.142335+00:00"
+                            },
+                            {
+                                "potential_uV": 123.38905327645895,
+                                "timestamp": "2023-10-21T21:23:03.145335+00:00"
+                            },
+                            {
+                                "potential_uV": 74.23987673794014,
+                                "timestamp": "2023-10-21T21:23:03.148335+00:00"
+                            },
+                            {
+                                "potential_uV": -102.17913191080788,
+                                "timestamp": "2023-10-21T21:23:03.151335+00:00"
+                            },
+                            {
+                                "potential_uV": 17.775898830833853,
+                                "timestamp": "2023-10-21T21:23:03.154335+00:00"
+                            },
+                            {
+                                "potential_uV": 118.36808569778418,
+                                "timestamp": "2023-10-21T21:23:03.157335+00:00"
+                            },
+                            {
+                                "potential_uV": 68.20897992303904,
+                                "timestamp": "2023-10-21T21:23:03.160335+00:00"
+                            },
+                            {
+                                "potential_uV": -107.07663651590605,
+                                "timestamp": "2023-10-21T21:23:03.163335+00:00"
+                            },
+                            {
+                                "potential_uV": -62.20742653881368,
+                                "timestamp": "2023-10-21T21:23:03.166335+00:00"
+                            },
+                            {
+                                "potential_uV": -15.597875277389306,
+                                "timestamp": "2023-10-21T21:23:03.169335+00:00"
+                            },
+                            {
+                                "potential_uV": 38.0059077127749,
+                                "timestamp": "2023-10-21T21:23:03.172335+00:00"
+                            },
+                            {
+                                "potential_uV": 62.985917228512136,
+                                "timestamp": "2023-10-21T21:23:03.175335+00:00"
+                            },
+                            {
+                                "potential_uV": -100.67326884380168,
+                                "timestamp": "2023-10-21T21:23:03.178335+00:00"
+                            },
+                            {
+                                "potential_uV": -52.383868263467974,
+                                "timestamp": "2023-10-21T21:23:03.181335+00:00"
+                            },
+                            {
+                                "potential_uV": 107.68458381268894,
+                                "timestamp": "2023-10-21T21:23:03.184335+00:00"
+                            },
+                            {
+                                "potential_uV": 41.31599278377493,
+                                "timestamp": "2023-10-21T21:23:03.187335+00:00"
+                            },
+                            {
+                                "potential_uV": -56.15991842275798,
+                                "timestamp": "2023-10-21T21:23:03.190335+00:00"
+                            },
+                            {
+                                "potential_uV": 107.8720149539833,
+                                "timestamp": "2023-10-21T21:23:03.193335+00:00"
+                            },
+                            {
+                                "potential_uV": -13.473406353208134,
+                                "timestamp": "2023-10-21T21:23:03.196335+00:00"
+                            },
+                            {
+                                "potential_uV": -111.97545068400444,
+                                "timestamp": "2023-10-21T21:23:03.199335+00:00"
+                            },
+                            {
+                                "potential_uV": 100.4104405207517,
+                                "timestamp": "2023-10-21T21:23:03.202335+00:00"
+                            },
+                            {
+                                "potential_uV": 72.61489228850738,
+                                "timestamp": "2023-10-21T21:23:03.205335+00:00"
+                            },
+                            {
+                                "potential_uV": -93.32523080714853,
+                                "timestamp": "2023-10-21T21:23:03.208335+00:00"
+                            },
+                            {
+                                "potential_uV": -17.71701903831189,
+                                "timestamp": "2023-10-21T21:23:03.211335+00:00"
+                            }
+                        ],
+                        "avg_hr_bpm": 114
+                    }
+                ]
+            }
+        }
+    ],
+    "version": "2022-03-16"
+}

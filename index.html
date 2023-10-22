@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Authenticate with Terra</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f8fc;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    #authContainer {
+      background-color: #ffffff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+      text-align: center;
+    }
+
+    #authButton {
+      background-color: #e87ca4;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    #authButton:hover {
+      background-color: #E75480;
+    }
+
+    #status {
+      margin-top: 20px;
+      font-size: 1.1em;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="authContainer">
+    <button id="authButton">Authenticate with Terra</button>
+    <div id="status"></div>
+    <h4>Give us your data pls</h4>
+  </div>
+  <script>
+    document.getElementById('authButton').addEventListener('click', function() {
+      fetch('/start-auth', {
+        method: 'POST'
+      })
+        .then(response => response.json())
+        .then(data => {
+          if (data.url) {
+            document.getElementById('status').textContent = 'Session ID: ' + data.session_id;
+            window.open(data.url, '_blank');
+          } else {
+            document.getElementById('status').textContent = 'Error starting authentication: ' + data.error;
+          }
+        })
+        .catch(error => {
+          // Handle the fetch error
+          document.getElementById('status').textContent = 'Error starting authentication: ' + error.message;
+        });
+    });
+  </script>
+</body>
+</html>

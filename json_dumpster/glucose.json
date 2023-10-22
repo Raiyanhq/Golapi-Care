@@ -1,0 +1,26 @@
+{
+"glucose_data": {
+    "blood_glucose_samples": [
+        {
+            "glucose_level_flag": 1,
+            "blood_glucose_mg_per_dL": 168,
+            "trend_arrow": 0,
+            "timestamp": "2023-10-21T12:13:15.737674+00:00"
+        },
+        {
+            "glucose_level_flag": 2,
+            "blood_glucose_mg_per_dL": 148,                     
+            "trend_arrow": 0,
+            "timestamp": "2023-10-21T12:16:15.737674+00:00"
+        },
+        {
+            "glucose_level_flag": 3,
+            "blood_glucose_mg_per_dL": 158,
+            "trend_arrow": 0,
+            "timestamp": "2023-10-21T12:20:15.737674+00:00"
+        }
+
+    ],
+    "day_avg_blood_glucose_mg_per_dL": 123.5065491231083
+}
+}
